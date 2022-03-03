@@ -960,6 +960,14 @@
       }
     },
     "Blue": {
+      "50": {
+        "value": "#deebff",
+        "type": "color"
+      },
+      "75": {
+        "value": "#b3d4ff",
+        "type": "color"
+      },
       "100": {
         "value": "#4c9aff",
         "type": "color"
@@ -979,16 +987,6 @@
       "500": {
         "value": "#0747a6",
         "type": "color"
-      },
-      "e": {
-        "50": {
-          "value": "#deebff",
-          "type": "color"
-        },
-        "75": {
-          "value": "#b3d4ff",
-          "type": "color"
-        }
       }
     },
     "Purple": {
