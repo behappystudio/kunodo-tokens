@@ -1221,14 +1221,18 @@
         "type": "fontWeights"
       },
       "anybody-1": {
-        "value": "Regular",
+        "value": "ExtraExpanded Regular",
         "type": "fontWeights"
       },
       "anybody-2": {
-        "value": "ExtraExpanded Light",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "anybody-3": {
+        "value": "ExtraExpanded Light",
+        "type": "fontWeights"
+      },
+      "anybody-4": {
         "value": "ExtraExpanded Bold",
         "type": "fontWeights"
       }
@@ -1349,7 +1353,7 @@
       "Regular": {
         "value": {
           "fontFamily": "$fontFamilies.anybody",
-          "fontWeight": "$fontWeights.anybody-1",
+          "fontWeight": "$fontWeights.anybody-2",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
           "letterSpacing": "$letterSpacing.0",
@@ -1365,7 +1369,7 @@
         "Light": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-2",
+            "fontWeight": "$fontWeights.anybody-3",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
             "letterSpacing": "$letterSpacing.1",
@@ -1378,7 +1382,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-3",
+            "fontWeight": "$fontWeights.anybody-4",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
             "letterSpacing": "$letterSpacing.1",
@@ -1393,7 +1397,7 @@
         "Light": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-2",
+            "fontWeight": "$fontWeights.anybody-3",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
             "letterSpacing": "$letterSpacing.1",
@@ -1406,7 +1410,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-3",
+            "fontWeight": "$fontWeights.anybody-4",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
             "letterSpacing": "$letterSpacing.1",
@@ -1421,7 +1425,7 @@
         "Light": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-2",
+            "fontWeight": "$fontWeights.anybody-3",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
             "letterSpacing": "$letterSpacing.1",
@@ -1434,7 +1438,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-3",
+            "fontWeight": "$fontWeights.anybody-4",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
             "letterSpacing": "$letterSpacing.2",
@@ -1449,7 +1453,7 @@
         "Light": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-2",
+            "fontWeight": "$fontWeights.anybody-3",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
             "letterSpacing": "$letterSpacing.3",
@@ -1462,7 +1466,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-3",
+            "fontWeight": "$fontWeights.anybody-4",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
             "letterSpacing": "$letterSpacing.2",
@@ -1477,7 +1481,7 @@
         "Light": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-2",
+            "fontWeight": "$fontWeights.anybody-3",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
             "letterSpacing": "$letterSpacing.2",
@@ -1490,7 +1494,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.anybody",
-            "fontWeight": "$fontWeights.anybody-3",
+            "fontWeight": "$fontWeights.anybody-4",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
             "letterSpacing": "$letterSpacing.2",
