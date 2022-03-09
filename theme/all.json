@@ -1517,6 +1517,10 @@
         "value": "none",
         "type": "textDecoration"
       }
+    },
+    "Button": {
+      "value": "10",
+      "type": "borderRadius"
     }
   },
   "tetogames": {
