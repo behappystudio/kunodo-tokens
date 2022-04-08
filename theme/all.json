@@ -758,6 +758,36 @@
         "value": "3",
         "type": "borderRadius"
       }
+    },
+    "Primary": {
+      "50": {
+        "value": "$Blue.50",
+        "type": "color"
+      },
+      "75": {
+        "value": "$Blue.75",
+        "type": "color"
+      },
+      "100": {
+        "value": "$Blue.100",
+        "type": "color"
+      },
+      "200": {
+        "value": "$Blue.200",
+        "type": "color"
+      },
+      "300": {
+        "value": "$Blue.300",
+        "type": "color"
+      },
+      "400": {
+        "value": "$Blue.400",
+        "type": "color"
+      },
+      "500": {
+        "value": "$Blue.500",
+        "type": "color"
+      }
     }
   },
   "french-bullies": {
