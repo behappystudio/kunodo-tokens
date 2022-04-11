@@ -2410,211 +2410,211 @@
     },
     "Red": {
       "50": {
-        "value": "#ffebe6",
+        "value": "#ffe3e3",
         "type": "color"
       },
       "75": {
-        "value": "#ffbead",
+        "value": "#ffcccc",
         "type": "color"
       },
       "100": {
-        "value": "#ff9175",
+        "value": "#f89595",
         "type": "color"
       },
       "200": {
-        "value": "#ff7452",
+        "value": "#f67878",
         "type": "color"
       },
       "300": {
-        "value": "#ff542e",
+        "value": "#f46363",
         "type": "color"
       },
       "400": {
-        "value": "#e0350b",
+        "value": "#c54e4e",
         "type": "color"
       },
       "500": {
-        "value": "#b82500",
+        "value": "#9c3e3e",
         "type": "color"
       }
     },
     "Yellow": {
       "50": {
-        "value": "#fffae6",
+        "value": "#fff6ec",
         "type": "color"
       },
       "75": {
-        "value": "#fff0b3",
+        "value": "#ffefdc",
         "type": "color"
       },
       "100": {
-        "value": "#ffe380",
+        "value": "#ffdfba",
         "type": "color"
       },
       "200": {
-        "value": "#ffc400",
+        "value": "#ffcf99",
         "type": "color"
       },
       "300": {
-        "value": "#ffaa00",
+        "value": "#ffae52",
         "type": "color"
       },
       "400": {
-        "value": "#ff9a1f",
+        "value": "#c48b21",
         "type": "color"
       },
       "500": {
-        "value": "#ff8c00",
+        "value": "#946719",
         "type": "color"
       }
     },
     "Green": {
       "50": {
-        "value": "#e3fcef",
+        "value": "#edfbf4",
         "type": "color"
       },
       "75": {
-        "value": "#adf5d2",
+        "value": "#cbdcd3",
         "type": "color"
       },
       "100": {
-        "value": "#78f2bf",
+        "value": "#b1cabd",
         "type": "color"
       },
       "200": {
-        "value": "#59d9a4",
+        "value": "#97b9a7",
         "type": "color"
       },
       "300": {
-        "value": "#36b580",
+        "value": "#7da790",
         "type": "color"
       },
       "400": {
-        "value": "#008558",
+        "value": "#498464",
         "type": "color"
       },
       "500": {
-        "value": "#006644",
+        "value": "#2f724e",
         "type": "color"
       }
     },
     "Teal": {
       "50": {
-        "value": "#e6fcff",
+        "value": "#ecf5f7",
         "type": "color"
       },
       "75": {
-        "value": "#b3f5ff",
+        "value": "#d9ecee",
         "type": "color"
       },
       "100": {
-        "value": "#78e2f2",
+        "value": "#a1cfd6",
         "type": "color"
       },
       "200": {
-        "value": "#00c7e6",
+        "value": "#56a8b4",
         "type": "color"
       },
       "300": {
-        "value": "#00badb",
+        "value": "#439eac",
         "type": "color"
       },
       "400": {
-        "value": "#00a0bd",
+        "value": "#367e8a",
         "type": "color"
       },
       "500": {
-        "value": "#008fa8",
+        "value": "#285f67",
         "type": "color"
       }
     },
     "Blue": {
       "50": {
-        "value": "#e0edff",
+        "value": "#f4f6ff",
         "type": "color"
       },
       "75": {
-        "value": "#b3d4ff",
+        "value": "#d5d9ee",
         "type": "color"
       },
       "100": {
-        "value": "#4d9aff",
+        "value": "#aab3dc",
         "type": "color"
       },
       "200": {
-        "value": "#2483ff",
+        "value": "#808dcb",
         "type": "color"
       },
       "300": {
-        "value": "#0066ff",
+        "value": "#5567ba",
         "type": "color"
       },
       "400": {
-        "value": "#0052cc",
+        "value": "#2b41a8",
         "type": "color"
       },
       "500": {
-        "value": "#0747a6",
+        "value": "#001b97",
         "type": "color"
       }
     },
     "Purple": {
       "50": {
-        "value": "#eae6ff",
+        "value": "#f0edff",
         "type": "color"
       },
       "75": {
-        "value": "#bfb5f2",
+        "value": "#e0ddf2",
         "type": "color"
       },
       "100": {
-        "value": "#988cd9",
+        "value": "#c3b1de",
         "type": "color"
       },
       "200": {
-        "value": "#8878d9",
+        "value": "#8858b5",
         "type": "color"
       },
       "300": {
-        "value": "#6454c0",
+        "value": "#8858b5",
         "type": "color"
       },
       "400": {
-        "value": "#5243a8",
+        "value": "#6a2ca0",
         "type": "color"
       },
       "500": {
-        "value": "#413394",
+        "value": "#4d008c",
         "type": "color"
       }
     },
     "Pink": {
       "50": {
-        "value": "#fdedf8",
+        "value": "#ffeefa",
         "type": "color"
       },
       "75": {
-        "value": "#f8ceec",
+        "value": "#fadef2",
         "type": "color"
       },
       "100": {
-        "value": "#f4aee0",
+        "value": "#f4ade0",
         "type": "color"
       },
       "200": {
-        "value": "#ed7dcd",
+        "value": "#ed7bcd",
         "type": "color"
       },
       "300": {
-        "value": "#e859c0",
+        "value": "#e85ac0",
         "type": "color"
       },
       "400": {
-        "value": "#ba4a9a",
+        "value": "#ba489a",
         "type": "color"
       },
       "500": {
-        "value": "#a23f86",
+        "value": "#8b3673",
         "type": "color"
       }
     },
@@ -2630,18 +2630,18 @@
           {
             "color": "#172b4d14",
             "type": "dropShadow",
-            "x": "0",
-            "y": "3",
-            "blur": "2",
-            "spread": "0"
+            "x": 0,
+            "y": 3,
+            "blur": 2,
+            "spread": 0
           },
           {
             "color": "#172b4d0a",
             "type": "dropShadow",
-            "x": "0",
-            "y": "0",
-            "blur": "2",
-            "spread": "0"
+            "x": 0,
+            "y": 0,
+            "blur": 2,
+            "spread": 0
           }
         ],
         "type": "boxShadow"
@@ -2651,18 +2651,18 @@
           {
             "color": "#172b4d14",
             "type": "dropShadow",
-            "x": "0",
-            "y": "5",
-            "blur": "3",
-            "spread": "0"
+            "x": 0,
+            "y": 5,
+            "blur": 3,
+            "spread": 0
           },
           {
             "color": "#ffffff0a",
             "type": "dropShadow",
-            "x": "0",
-            "y": "3",
-            "blur": "2",
-            "spread": "0"
+            "x": 0,
+            "y": 3,
+            "blur": 2,
+            "spread": 0
           }
         ],
         "type": "boxShadow"
@@ -2672,18 +2672,18 @@
           {
             "color": "#172b4d14",
             "type": "dropShadow",
-            "x": "0",
-            "y": "8",
-            "blur": "5",
-            "spread": "0"
+            "x": 0,
+            "y": 8,
+            "blur": 5,
+            "spread": 0
           },
           {
             "color": "#172b4d0a",
             "type": "dropShadow",
-            "x": "0",
-            "y": "5",
-            "blur": "3",
-            "spread": "0"
+            "x": 0,
+            "y": 5,
+            "blur": 3,
+            "spread": 0
           }
         ],
         "type": "boxShadow"
@@ -2693,18 +2693,18 @@
           {
             "color": "#172b4d14",
             "type": "dropShadow",
-            "x": "0",
-            "y": "15",
-            "blur": "12",
-            "spread": "0"
+            "x": 0,
+            "y": 15,
+            "blur": 12,
+            "spread": 0
           },
           {
             "color": "#172b4d0a",
             "type": "dropShadow",
-            "x": "0",
-            "y": "8",
-            "blur": "5",
-            "spread": "0"
+            "x": 0,
+            "y": 8,
+            "blur": 5,
+            "spread": 0
           }
         ],
         "type": "boxShadow"
@@ -2714,18 +2714,18 @@
           {
             "color": "#c1c7d014",
             "type": "dropShadow",
-            "x": "0",
-            "y": "24",
-            "blur": "18",
-            "spread": "0"
+            "x": 0,
+            "y": 24,
+            "blur": 18,
+            "spread": 0
           },
           {
             "color": "#c1c7d00a",
             "type": "dropShadow",
-            "x": "0",
-            "y": "18",
-            "blur": "12",
-            "spread": "0"
+            "x": 0,
+            "y": 18,
+            "blur": 12,
+            "spread": 0
           }
         ],
         "type": "boxShadow"
@@ -2735,18 +2735,18 @@
           {
             "color": "#c1c7d014",
             "type": "dropShadow",
-            "x": "0",
-            "y": "35",
-            "blur": "24",
-            "spread": "0"
+            "x": 0,
+            "y": 35,
+            "blur": 24,
+            "spread": 0
           },
           {
             "color": "#c1c7d00a",
             "type": "dropShadow",
-            "x": "0",
-            "y": "24",
-            "blur": "18",
-            "spread": "0"
+            "x": 0,
+            "y": 24,
+            "blur": 18,
+            "spread": 0
           }
         ],
         "type": "boxShadow"
@@ -2755,6 +2755,10 @@
     "fontFamilies": {
       "lato": {
         "value": "Lato",
+        "type": "fontFamilies"
+      },
+      "gilroy": {
+        "value": "Gilroy",
         "type": "fontFamilies"
       }
     },
@@ -2798,6 +2802,22 @@
         "type": "fontWeights"
       },
       "lato-3": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "gilroy-0": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "gilroy-1": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "gilroy-2": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "gilroy-3": {
         "value": "Light",
         "type": "fontWeights"
       }
@@ -2862,8 +2882,8 @@
     },
     "Heading": {
       "value": {
-        "fontFamily": "{fontFamilies.public.sans}",
-        "fontWeight": "$fontWeights.lato-0",
+        "fontFamily": "$fontFamilies.gilroy",
+        "fontWeight": "$fontWeights.gilroy-0",
         "lineHeight": "$lineHeights.0",
         "fontSize": "$fontSize.2",
         "letterSpacing": "$letterSpacing.0",
@@ -2876,8 +2896,8 @@
     "Body": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.public.sans}",
-          "fontWeight": "$fontWeights.lato-1",
+          "fontFamily": "$fontFamilies.gilroy",
+          "fontWeight": "$fontWeights.gilroy-1",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
           "letterSpacing": "$letterSpacing.0",
@@ -2889,8 +2909,8 @@
       },
       "Bold": {
         "value": {
-          "fontFamily": "{fontFamilies.public.sans}",
-          "fontWeight": "$fontWeights.lato-0",
+          "fontFamily": "$fontFamilies.gilroy",
+          "fontWeight": "$fontWeights.gilroy-0",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
           "letterSpacing": "$letterSpacing.0",
@@ -2904,8 +2924,8 @@
     "Caption": {
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.public.sans}",
-          "fontWeight": "$fontWeights.lato-0",
+          "fontFamily": "$fontFamilies.gilroy",
+          "fontWeight": "$fontWeights.gilroy-0",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
           "letterSpacing": "$letterSpacing.0",
@@ -2917,8 +2937,8 @@
       },
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.public.sans}",
-          "fontWeight": "$fontWeights.lato-1",
+          "fontFamily": "$fontFamilies.gilroy",
+          "fontWeight": "$fontWeights.gilroy-1",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
           "letterSpacing": "$letterSpacing.0",
@@ -2933,8 +2953,8 @@
       "SM": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-1",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-1",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
             "letterSpacing": "$letterSpacing.1",
@@ -2946,8 +2966,8 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-2",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-2",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
             "letterSpacing": "$letterSpacing.1",
@@ -2961,8 +2981,8 @@
       "MD": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-3",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-3",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
             "letterSpacing": "$letterSpacing.1",
@@ -2974,8 +2994,8 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-2",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-2",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
             "letterSpacing": "$letterSpacing.1",
@@ -2989,8 +3009,8 @@
       "L": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-3",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-3",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
             "letterSpacing": "$letterSpacing.1",
@@ -3002,8 +3022,8 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-2",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-2",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
             "letterSpacing": "$letterSpacing.2",
@@ -3017,8 +3037,8 @@
       "XL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-3",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-3",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
             "letterSpacing": "$letterSpacing.3",
@@ -3030,8 +3050,8 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-2",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-2",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
             "letterSpacing": "$letterSpacing.2",
@@ -3045,8 +3065,8 @@
       "XXL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-3",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-3",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
             "letterSpacing": "$letterSpacing.2",
@@ -3058,8 +3078,8 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.public.sans}",
-            "fontWeight": "$fontWeights.lato-2",
+            "fontFamily": "$fontFamilies.gilroy",
+            "fontWeight": "$fontWeights.gilroy-2",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
             "letterSpacing": "$letterSpacing.2",
@@ -3081,6 +3101,22 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      }
+    },
+    "Graditent": {
+      "Full": {
+        "Blue": {
+          "value": "linear-gradient(90deg, #3381c2 0.02%, #4cb0e7 100%)",
+          "type": "color"
+        },
+        "Pink": {
+          "value": "linear-gradient(90deg, #b83d89 0.02%, #df6a57 100%)",
+          "type": "color"
+        },
+        "Yellow": {
+          "value": "linear-gradient(90deg, #eea156 0%, #ccbc5f 100%)",
+          "type": "color"
+        }
       }
     }
   },
