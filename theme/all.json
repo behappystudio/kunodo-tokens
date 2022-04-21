@@ -3197,6 +3197,12 @@
         "value": "{Teal.500}",
         "type": "color"
       }
+    },
+    "Button": {
+      "30px": {
+        "value": "30",
+        "type": "borderRadius"
+      }
     }
   },
   "coyotiv": {
