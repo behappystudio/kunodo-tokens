@@ -797,8 +797,8 @@
       "value": {
         "x": "0",
         "y": "-1",
-        "blur": "1",
-        "spread": "1",
+        "blur": "0",
+        "spread": "0",
         "color": "{Primary.300}",
         "type": "innerShadow"
       },
