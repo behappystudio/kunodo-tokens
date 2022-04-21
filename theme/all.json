@@ -290,7 +290,11 @@
     },
     "System": {
       "0": {
-        "value": "#ffffff",
+        "value": "{Neutral.0}",
+        "type": "color"
+      },
+      "900": {
+        "value": "{Neutral.900}",
         "type": "color"
       }
     },
