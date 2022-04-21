@@ -289,11 +289,11 @@
       }
     },
     "System": {
-      "0": {
+      "White": {
         "value": "{Neutral.0}",
         "type": "color"
       },
-      "900": {
+      "Black": {
         "value": "{Neutral.900}",
         "type": "color"
       }
@@ -792,6 +792,17 @@
         "value": "$Blue.500",
         "type": "color"
       }
+    },
+    "Tab": {
+      "value": {
+        "x": "0",
+        "y": "-1",
+        "blur": "1",
+        "spread": "1",
+        "color": "{Primary.300}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "french-bullies": {
@@ -1847,8 +1858,12 @@
       }
     },
     "System": {
-      "0": {
-        "value": "#ffffff",
+      "White": {
+        "value": "{Neutral.0}",
+        "type": "color"
+      },
+      "Black": {
+        "value": "{Neutral.900}",
         "type": "color"
       }
     },
@@ -2350,6 +2365,17 @@
         "value": "6",
         "type": "borderRadius"
       }
+    },
+    "Tab": {
+      "value": {
+        "x": "0",
+        "y": "-1",
+        "blur": "0",
+        "spread": "0",
+        "color": "{Primary.300}",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
     }
   },
   "mola": {
