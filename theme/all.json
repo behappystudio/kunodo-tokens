@@ -2340,6 +2340,12 @@
         "value": "$Red.500",
         "type": "color"
       }
+    },
+    "Button": {
+      "6px": {
+        "value": "6",
+        "type": "borderRadius"
+      }
     }
   },
   "mola": {
@@ -3130,6 +3136,36 @@
           "value": "linear-gradient(90deg, #eea156 0%, #ccbc5f 100%)",
           "type": "color"
         }
+      }
+    },
+    "Primary": {
+      "50": {
+        "value": "{Teal.50}",
+        "type": "color"
+      },
+      "75": {
+        "value": "{Teal.75}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{Teal.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{Teal.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{Teal.300}",
+        "type": "color"
+      },
+      "400": {
+        "value": "{Teal.400}",
+        "type": "color"
+      },
+      "500": {
+        "value": "{Teal.500}",
+        "type": "color"
       }
     }
   },
