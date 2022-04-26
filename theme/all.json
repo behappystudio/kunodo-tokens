@@ -289,17 +289,109 @@
       }
     },
     "System": {
-      "White": {
-        "value": "{Neutral.0}",
-        "type": "color"
+      "Default": {
+        "White": {
+          "value": "{Neutral.0}",
+          "type": "color"
+        },
+        "Black": {
+          "value": "{Neutral.900}",
+          "type": "color"
+        },
+        "Muted": {
+          "value": "{Neutral.90}",
+          "type": "color"
+        }
       },
-      "Black": {
-        "value": "{Neutral.900}",
-        "type": "color"
+      "Primary": {
+        "50": {
+          "value": "$Blue.50",
+          "type": "color"
+        },
+        "75": {
+          "value": "$Blue.75",
+          "type": "color"
+        },
+        "100": {
+          "value": "$Blue.100",
+          "type": "color"
+        },
+        "200": {
+          "value": "$Blue.200",
+          "type": "color"
+        },
+        "300": {
+          "value": "$Blue.300",
+          "type": "color"
+        },
+        "400": {
+          "value": "$Blue.400",
+          "type": "color"
+        },
+        "500": {
+          "value": "$Blue.500",
+          "type": "color"
+        }
       },
-      "Muted": {
-        "value": "{Neutral.90}",
-        "type": "color"
+      "Error": {
+        "50": {
+          "value": "{Red.50}",
+          "type": "color"
+        },
+        "75": {
+          "value": "{Red.75}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{Red.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{Red.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{Red.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{Red.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{Red.500}",
+          "type": "color"
+        }
+      },
+      "Success": {
+        "50": {
+          "value": "{Green.50}",
+          "type": "color"
+        },
+        "75": {
+          "value": "{Green.75}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{Green.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{Green.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{Green.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{Green.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{Green.500}",
+          "type": "color"
+        }
       }
     },
     "fontFamilies": {
@@ -767,106 +859,16 @@
         "type": "borderRadius"
       }
     },
-    "Primary": {
-      "50": {
-        "value": "$Blue.50",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Blue.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Blue.100",
-        "type": "color"
-      },
-      "200": {
-        "value": "$Blue.200",
-        "type": "color"
-      },
-      "300": {
-        "value": "$Blue.300",
-        "type": "color"
-      },
-      "400": {
-        "value": "$Blue.400",
-        "type": "color"
-      },
-      "500": {
-        "value": "$Blue.500",
-        "type": "color"
-      }
-    },
     "Tab": {
       "value": {
         "x": "0",
         "y": "-1",
         "blur": "0",
         "spread": "0",
-        "color": "{Primary.300}",
+        "color": "{System.Primary.300}",
         "type": "innerShadow"
       },
       "type": "boxShadow"
-    },
-    "Error": {
-      "50": {
-        "value": "{Red.50}",
-        "type": "color"
-      },
-      "75": {
-        "value": "{Red.75}",
-        "type": "color"
-      },
-      "100": {
-        "value": "{Red.100}",
-        "type": "color"
-      },
-      "200": {
-        "value": "{Red.200}",
-        "type": "color"
-      },
-      "300": {
-        "value": "{Red.300}",
-        "type": "color"
-      },
-      "400": {
-        "value": "{Red.400}",
-        "type": "color"
-      },
-      "500": {
-        "value": "{Red.500}",
-        "type": "color"
-      }
-    },
-    "Success": {
-      "50": {
-        "value": "{Green.50}",
-        "type": "color"
-      },
-      "75": {
-        "value": "{Green.75}",
-        "type": "color"
-      },
-      "100": {
-        "value": "{Green.100}",
-        "type": "color"
-      },
-      "200": {
-        "value": "{Green.200}",
-        "type": "color"
-      },
-      "300": {
-        "value": "{Green.300}",
-        "type": "color"
-      },
-      "400": {
-        "value": "{Green.400}",
-        "type": "color"
-      },
-      "500": {
-        "value": "{Green.500}",
-        "type": "color"
-      }
     },
     "Icon": {
       "Small": {
@@ -905,17 +907,67 @@
       }
     },
     "Button": {
-      "Default": {
-        "value": "{Primary.300}",
-        "type": "color"
-      },
-      "Hover": {
-        "value": "{Primary.400}",
-        "type": "color"
-      },
-      "Focus": {
-        "value": "{Primary.300.fill} {Primary.400.border}",
-        "type": "color"
+      "Primary": {
+        "Default": {
+          "Background": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Default.White}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Default.White}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Background": {
+            "value": "{System.Primary.400}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Default.White}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Default.White}",
+            "type": "color"
+          }
+        },
+        "Focus": {
+          "Background": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Default.White}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Default.White}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{System.Primary.400}",
+            "type": "color"
+          }
+        },
+        "Disabled": {
+          "Background": {
+            "value": "{System.Primary.50}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Primary.75}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Primary.75}",
+            "type": "color"
+          }
+        }
       }
     }
   },
@@ -2486,7 +2538,7 @@
         "y": "-1",
         "blur": "0",
         "spread": "0",
-        "color": "{Primary.300}",
+        "color": "{System.Primary.300}",
         "type": "innerShadow"
       },
       "type": "boxShadow"
