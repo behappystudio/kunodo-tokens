@@ -971,15 +971,15 @@
         },
         "Disabled": {
           "Background": {
-            "value": "{System.Primary.50}",
+            "value": "{Neutral.50}",
             "type": "color"
           },
           "Text": {
-            "value": "{System.Primary.75}",
+            "value": "{Neutral.80}",
             "type": "color"
           },
           "Icon": {
-            "value": "{System.Primary.75}",
+            "value": "{Neutral.80}",
             "type": "color"
           }
         }
@@ -988,6 +988,28 @@
         "Default": {
           "Background": {
             "value": "{System.Primary.50}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Background": {
+            "value": "{System.Primary.75}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Primary.400}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Primary.400}",
             "type": "color"
           }
         }
