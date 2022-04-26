@@ -503,17 +503,32 @@
       }
     },
     "Heading": {
-      "value": {
-        "fontFamily": "$fontFamilies.rubik",
-        "fontWeight": "{fontWeights.Medium}",
-        "lineHeight": "$lineHeights.0",
-        "fontSize": "$fontSize.2",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
+      "Medium": {
+        "value": {
+          "fontFamily": "$fontFamilies.rubik",
+          "fontWeight": "{fontWeights.Medium}",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
       },
-      "type": "typography"
+      "Regular": {
+        "value": {
+          "fontFamily": "$fontFamilies.rubik",
+          "fontWeight": "{fontWeights.Regular}",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
     },
     "Body": {
       "Regular": {
@@ -965,6 +980,14 @@
           },
           "Icon": {
             "value": "{System.Primary.75}",
+            "type": "color"
+          }
+        }
+      },
+      "Secondary": {
+        "Default": {
+          "Background": {
+            "value": "{System.Primary.50}",
             "type": "color"
           }
         }
