@@ -296,6 +296,10 @@
       "Black": {
         "value": "{Neutral.900}",
         "type": "color"
+      },
+      "Muted": {
+        "value": "{Neutral.90}",
+        "type": "color"
       }
     },
     "fontFamilies": {
@@ -757,8 +761,8 @@
         "type": "boxShadow"
       }
     },
-    "Button": {
-      "3px": {
+    "Radius": {
+      "Button": {
         "value": "3",
         "type": "borderRadius"
       }
@@ -861,6 +865,56 @@
       },
       "500": {
         "value": "{Green.500}",
+        "type": "color"
+      }
+    },
+    "Icon": {
+      "Small": {
+        "value": "12",
+        "type": "sizing"
+      },
+      "Medium": {
+        "value": "16",
+        "type": "sizing"
+      },
+      "Large": {
+        "value": "18",
+        "type": "sizing"
+      }
+    },
+    "Warning": {
+      "50": {
+        "value": "{Yellow.50}",
+        "type": "color"
+      },
+      "75": {
+        "value": "{Yellow.75}",
+        "type": "color"
+      },
+      "100": {
+        "value": "{Yellow.100}",
+        "type": "color"
+      },
+      "200": {
+        "value": "{Yellow.200}",
+        "type": "color"
+      },
+      "300": {
+        "value": "{Yellow.300}",
+        "type": "color"
+      }
+    },
+    "Button": {
+      "Default": {
+        "value": "{Primary.300}",
+        "type": "color"
+      },
+      "Hover": {
+        "value": "{Primary.400}",
+        "type": "color"
+      },
+      "Focus": {
+        "value": "{Primary.300.fill} {Primary.400.border}",
         "type": "color"
       }
     }
@@ -3258,8 +3312,8 @@
         "type": "color"
       }
     },
-    "Button": {
-      "30px": {
+    "Radius": {
+      "Button": {
         "value": "30",
         "type": "borderRadius"
       }
