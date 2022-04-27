@@ -1170,6 +1170,40 @@
           }
         }
       }
+    },
+    "Link": {
+      "Primary": {
+        "Default": {
+          "Text": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          }
+        },
+        "Hover": {
+          "Text": {
+            "value": "{System.Primary.400}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Primary.400}",
+            "type": "color"
+          }
+        },
+        "Focus": {
+          "Text": {
+            "value": "{System.Primary.400}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Primary.400}",
+            "type": "color"
+          }
+        }
+      }
     }
   },
   "french-bullies": {
