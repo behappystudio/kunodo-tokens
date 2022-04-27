@@ -1272,16 +1272,16 @@
       }
     },
     "Margin": {
-      "Large": {
-        "value": "120",
+      "Small": {
+        "value": "40",
         "type": "spacing"
       },
       "Medium": {
         "value": "80",
         "type": "spacing"
       },
-      "Small": {
-        "value": "40",
+      "Large": {
+        "value": "120",
         "type": "spacing"
       }
     }
