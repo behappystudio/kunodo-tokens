@@ -976,20 +976,20 @@
             "value": "{System.Primary.400}",
             "type": "color"
           }
-        }
-      },
-      "Disabled": {
-        "Background": {
-          "value": "{Neutral.50}",
-          "type": "color"
         },
-        "Text": {
-          "value": "{Neutral.80}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{Neutral.80}",
-          "type": "color"
+        "Disabled": {
+          "Background": {
+            "value": "{Neutral.50}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{Neutral.80}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{Neutral.80}",
+            "type": "color"
+          }
         }
       },
       "Secondary": {
