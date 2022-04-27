@@ -1236,6 +1236,18 @@
           }
         }
       }
+    },
+    "Hero": {
+      "Large": {
+        "Left-Right": {
+          "value": "165",
+          "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "120",
+          "type": "spacing"
+        }
+      }
     }
   },
   "french-bullies": {
