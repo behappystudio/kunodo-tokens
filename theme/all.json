@@ -1169,10 +1169,8 @@
             "type": "color"
           }
         }
-      }
-    },
-    "Link": {
-      "Primary": {
+      },
+      "Link": {
         "Default": {
           "Text": {
             "value": "{System.Primary.300}",
@@ -1195,11 +1193,11 @@
         },
         "Focus": {
           "Text": {
-            "value": "{System.Primary.400}",
+            "value": "{System.Primary.500}",
             "type": "color"
           },
           "Icon": {
-            "value": "{System.Primary.400}",
+            "value": "{System.Primary.500}",
             "type": "color"
           }
         }
