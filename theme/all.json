@@ -976,20 +976,20 @@
             "value": "{System.Primary.400}",
             "type": "color"
           }
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "{Neutral.50}",
+          "type": "color"
         },
-        "Disabled": {
-          "Background": {
-            "value": "{Neutral.50}",
-            "type": "color"
-          },
-          "Text": {
-            "value": "{Neutral.80}",
-            "type": "color"
-          },
-          "Icon": {
-            "value": "{Neutral.80}",
-            "type": "color"
-          }
+        "Text": {
+          "value": "{Neutral.80}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.80}",
+          "type": "color"
         }
       },
       "Secondary": {
@@ -1113,6 +1113,16 @@
         },
         "Top-Bottom": {
           "value": "10",
+          "type": "spacing"
+        }
+      },
+      "Large": {
+        "Left-Right": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "15",
           "type": "spacing"
         }
       }
