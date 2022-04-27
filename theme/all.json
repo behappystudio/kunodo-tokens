@@ -392,6 +392,36 @@
           "value": "{Green.500}",
           "type": "color"
         }
+      },
+      "Warning": {
+        "50": {
+          "value": "{Yellow.50}",
+          "type": "color"
+        },
+        "75": {
+          "value": "{Yellow.75}",
+          "type": "color"
+        },
+        "100": {
+          "value": "{Yellow.100}",
+          "type": "color"
+        },
+        "200": {
+          "value": "{Yellow.200}",
+          "type": "color"
+        },
+        "300": {
+          "value": "{Yellow.300}",
+          "type": "color"
+        },
+        "400": {
+          "value": "{Yellow.400}",
+          "type": "color"
+        },
+        "500": {
+          "value": "{Yellow.500}",
+          "type": "color"
+        }
       }
     },
     "fontFamilies": {
@@ -899,28 +929,6 @@
         "type": "sizing"
       }
     },
-    "Warning": {
-      "50": {
-        "value": "{Yellow.50}",
-        "type": "color"
-      },
-      "75": {
-        "value": "{Yellow.75}",
-        "type": "color"
-      },
-      "100": {
-        "value": "{Yellow.100}",
-        "type": "color"
-      },
-      "200": {
-        "value": "{Yellow.200}",
-        "type": "color"
-      },
-      "300": {
-        "value": "{Yellow.300}",
-        "type": "color"
-      }
-    },
     "Button": {
       "Primary": {
         "Default": {
@@ -1012,6 +1020,30 @@
             "value": "{System.Primary.400}",
             "type": "color"
           }
+        },
+        "Focus": {
+          "Background": {
+            "value": "{System.Primary.50}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          }
+        }
+      },
+      "Small": {
+        "Left-Right": {
+          "value": "8",
+          "type": "spacing"
         }
       }
     }
