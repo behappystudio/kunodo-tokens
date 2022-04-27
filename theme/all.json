@@ -533,10 +533,10 @@
       }
     },
     "Heading": {
-      "Medium": {
+      "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
-          "fontWeight": "{fontWeights.Medium}",
+          "fontFamily": "$fontFamilies.rubik",
+          "fontWeight": "{fontWeights.Regular}",
           "lineHeight": "$lineHeights.0",
           "fontSize": "$fontSize.2",
           "letterSpacing": "$letterSpacing.0",
@@ -546,10 +546,10 @@
         },
         "type": "typography"
       },
-      "Regular": {
+      "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
-          "fontWeight": "{fontWeights.Regular}",
+          "fontFamily": "$fontFamilies.rubik",
+          "fontWeight": "{fontWeights.Medium}",
           "lineHeight": "$lineHeights.0",
           "fontSize": "$fontSize.2",
           "letterSpacing": "$letterSpacing.0",
@@ -563,7 +563,7 @@
     "Body": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
+          "fontFamily": "$fontFamilies.rubik",
           "fontWeight": "{fontWeights.Regular}",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
@@ -576,7 +576,7 @@
       },
       "Bold": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
+          "fontFamily": "$fontFamilies.rubik",
           "fontWeight": "{fontWeights.Medium}",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
@@ -589,10 +589,10 @@
       }
     },
     "Caption": {
-      "Medium": {
+      "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
-          "fontWeight": "{fontWeights.Medium}",
+          "fontFamily": "$fontFamilies.rubik",
+          "fontWeight": "{fontWeights.Regular}",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
           "letterSpacing": "$letterSpacing.0",
@@ -602,10 +602,10 @@
         },
         "type": "typography"
       },
-      "Regular": {
+      "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
-          "fontWeight": "{fontWeights.Regular}",
+          "fontFamily": "$fontFamilies.rubik",
+          "fontWeight": "{fontWeights.Medium}",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
           "letterSpacing": "$letterSpacing.0",
@@ -620,7 +620,7 @@
       "SM": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Regular}",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
@@ -633,7 +633,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
@@ -648,7 +648,7 @@
       "MD": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
@@ -661,7 +661,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
@@ -676,7 +676,7 @@
       "L": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
@@ -689,7 +689,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
@@ -704,7 +704,7 @@
       "XL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
@@ -717,7 +717,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
@@ -732,7 +732,7 @@
       "XXL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
@@ -745,7 +745,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.rubik",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
@@ -1044,6 +1044,10 @@
         "Left-Right": {
           "value": "8",
           "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "6",
+          "type": "spacing"
         }
       },
       "Outline": {
@@ -1051,7 +1055,65 @@
           "Background": {
             "value": "{System.Default.White}",
             "type": "color"
+          },
+          "Text": {
+            "value": "{System.Default.Black}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Default.Black}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Neutral.20}",
+            "type": "color"
           }
+        },
+        "Hover": {
+          "Background": {
+            "value": "{Neutral.20}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Default.Black}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Default.Black}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{Neutral.40}",
+            "type": "color"
+          }
+        },
+        "Focus": {
+          "Background": {
+            "value": "{System.Default.White}",
+            "type": "color"
+          },
+          "Text": {
+            "value": "{System.Default.Black}",
+            "type": "color"
+          },
+          "Icon": {
+            "value": "{System.Default.Black}",
+            "type": "color"
+          },
+          "Border": {
+            "value": "{System.Primary.300}",
+            "type": "color"
+          }
+        }
+      },
+      "Medium": {
+        "Left-Right": {
+          "value": "12",
+          "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "10",
+          "type": "spacing"
         }
       }
     }
@@ -2360,7 +2422,7 @@
     },
     "Heading": {
       "value": {
-        "fontFamily": "{fontFamilies.rubik}",
+        "fontFamily": "$fontFamilies.poppins",
         "fontWeight": "$fontWeights.poppins-0",
         "lineHeight": "$lineHeights.0",
         "fontSize": "$fontSize.2",
@@ -2374,7 +2436,7 @@
     "Body": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
+          "fontFamily": "$fontFamilies.poppins",
           "fontWeight": "$fontWeights.poppins-1",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
@@ -2387,7 +2449,7 @@
       },
       "Bold": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
+          "fontFamily": "$fontFamilies.poppins",
           "fontWeight": "$fontWeights.poppins-0",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
@@ -2402,7 +2464,7 @@
     "Caption": {
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
+          "fontFamily": "$fontFamilies.poppins",
           "fontWeight": "$fontWeights.poppins-0",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
@@ -2415,7 +2477,7 @@
       },
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.rubik}",
+          "fontFamily": "$fontFamilies.poppins",
           "fontWeight": "$fontWeights.poppins-1",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
@@ -2431,7 +2493,7 @@
       "SM": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-1",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
@@ -2444,7 +2506,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-2",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
@@ -2459,7 +2521,7 @@
       "MD": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-3",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
@@ -2472,7 +2534,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-2",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
@@ -2487,7 +2549,7 @@
       "L": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-3",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
@@ -2500,7 +2562,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-2",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
@@ -2515,7 +2577,7 @@
       "XL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-3",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
@@ -2528,7 +2590,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-2",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
@@ -2543,7 +2605,7 @@
       "XXL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-3",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
@@ -2556,7 +2618,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.rubik}",
+            "fontFamily": "$fontFamilies.poppins",
             "fontWeight": "$fontWeights.poppins-2",
             "lineHeight": "$lineHeights.6",
             "fontSize": "$fontSize.7",
