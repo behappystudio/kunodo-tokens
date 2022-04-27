@@ -1248,6 +1248,24 @@
           "type": "spacing"
         }
       }
+    },
+    "Container": {
+      "Large": {
+        "value": "165",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "111",
+        "type": "spacing"
+      },
+      "Tablet": {
+        "value": "73",
+        "type": "spacing"
+      },
+      "Mobile": {
+        "value": "15",
+        "type": "spacing"
+      }
     }
   },
   "french-bullies": {
