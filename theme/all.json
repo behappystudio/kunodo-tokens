@@ -1259,11 +1259,29 @@
         "type": "spacing"
       },
       "Tablet": {
-        "value": "73",
+        "value": "72",
         "type": "spacing"
       },
       "Mobile": {
         "value": "15",
+        "type": "spacing"
+      },
+      "Fluid": {
+        "value": "0",
+        "type": "spacing"
+      }
+    },
+    "Margin": {
+      "Large": {
+        "value": "120",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "80",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "40",
         "type": "spacing"
       }
     }
