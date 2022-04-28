@@ -902,6 +902,20 @@
       "Button": {
         "value": "3",
         "type": "borderRadius"
+      },
+      "Card": {
+        "Small": {
+          "value": "4",
+          "type": "borderRadius"
+        },
+        "Medium": {
+          "value": "8",
+          "type": "borderRadius"
+        },
+        "Large": {
+          "value": "12",
+          "type": "borderRadius"
+        }
       }
     },
     "Tab": {
