@@ -2187,7 +2187,7 @@
     },
     "Radius": {
       "Button": {
-        "value": "3",
+        "value": "12",
         "type": "borderRadius"
       }
     },
