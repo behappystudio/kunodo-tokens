@@ -930,17 +930,25 @@
       "type": "boxShadow"
     },
     "Icon": {
-      "Small": {
-        "value": "12",
-        "type": "sizing"
+      "Button": {
+        "Small": {
+          "value": "12",
+          "type": "sizing"
+        },
+        "Medium": {
+          "value": "16",
+          "type": "sizing"
+        },
+        "Large": {
+          "value": "18",
+          "type": "sizing"
+        }
       },
-      "Medium": {
-        "value": "16",
-        "type": "sizing"
-      },
-      "Large": {
-        "value": "18",
-        "type": "sizing"
+      "Input": {
+        "Large": {
+          "value": "20",
+          "type": "sizing"
+        }
       }
     },
     "Button": {
@@ -1296,6 +1304,34 @@
       },
       "Large": {
         "value": "120",
+        "type": "spacing"
+      }
+    },
+    "Input": {
+      "Default": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Muted}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Muted}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{Neutral.40}",
+          "type": "color"
+        }
+      },
+      "Left-Right": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "Top-Bottom": {
+        "value": "8",
         "type": "spacing"
       }
     }
