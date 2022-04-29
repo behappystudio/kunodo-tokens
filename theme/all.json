@@ -899,6 +899,10 @@
       }
     },
     "Radius": {
+      "Input": {
+        "value": "3",
+        "type": "borderRadius"
+      },
       "Button": {
         "value": "3",
         "type": "borderRadius"
@@ -1310,7 +1314,7 @@
     "Input": {
       "Default": {
         "Background": {
-          "value": "{System.Default.White}",
+          "value": "{Neutral.20}",
           "type": "color"
         },
         "Text": {
@@ -1333,6 +1337,60 @@
       "Top-Bottom": {
         "value": "8",
         "type": "spacing"
+      },
+      "Focus": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Muted}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        }
+      },
+      "Filled": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{Neutral.30}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "{Neutral.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{Neutral.80}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.80}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{Neutral.100}",
+          "type": "color"
+        }
       }
     }
   },
