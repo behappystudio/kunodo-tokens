@@ -1409,6 +1409,24 @@
           "value": "{System.Success.300}",
           "type": "color"
         }
+      },
+      "Warning": {
+        "Background": {
+          "value": "{System.Warning.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Warning.300}",
+          "type": "color"
+        }
       }
     }
   },
