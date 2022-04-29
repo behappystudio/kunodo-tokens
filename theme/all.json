@@ -907,6 +907,10 @@
         "value": "3",
         "type": "borderRadius"
       },
+      "Menu": {
+        "value": "0",
+        "type": "borderRadius"
+      },
       "Card": {
         "Small": {
           "value": "4",
@@ -1400,6 +1404,86 @@
         "Text": {
           "value": "{System.Default.Black}",
           "type": "color"
+        }
+      }
+    },
+    "Menu": {
+      "Default": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "{Neutral.20}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        }
+      },
+      "Parent": {
+        "Left-Right": {
+          "value": "20",
+          "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "12",
+          "type": "spacing"
+        }
+      },
+      "Child": {
+        "Left": {
+          "value": "40",
+          "type": "spacing"
+        },
+        "Right": {
+          "value": "20",
+          "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "12",
+          "type": "spacing"
+        }
+      }
+    },
+    "Divider": {
+      "Menu": {
+        "Default": {
+          "value": {
+            "x": "0",
+            "y": "-1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{Neutral.40}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "Hover": {
+          "value": {
+            "x": "0",
+            "y": "-1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{Neutral.40}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
         }
       }
     }
