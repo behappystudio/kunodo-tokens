@@ -1391,6 +1391,16 @@
           "value": "{Neutral.100}",
           "type": "color"
         }
+      },
+      "Success": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        }
       }
     }
   },
