@@ -1400,6 +1400,14 @@
         "Text": {
           "value": "{System.Default.Black}",
           "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Success.300}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Success.300}",
+          "type": "color"
         }
       }
     }
