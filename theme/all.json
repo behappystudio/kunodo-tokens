@@ -1427,6 +1427,24 @@
           "value": "{System.Warning.300}",
           "type": "color"
         }
+      },
+      "Error": {
+        "Background": {
+          "value": "{System.Error.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Error.300}",
+          "type": "color"
+        }
       }
     }
   },
