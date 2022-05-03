@@ -926,17 +926,6 @@
         }
       }
     },
-    "Tab": {
-      "value": {
-        "x": "0",
-        "y": "-1",
-        "blur": "0",
-        "spread": "0",
-        "color": "{System.Primary.300}",
-        "type": "innerShadow"
-      },
-      "type": "boxShadow"
-    },
     "Icon": {
       "Button": {
         "Small": {
@@ -1548,6 +1537,93 @@
             "type": "innerShadow"
           },
           "type": "boxShadow"
+        }
+      },
+      "Tab": {
+        "Active": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{System.Primary.300}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "Default": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{Neutra.40}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "Hover": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{System.Primary.500}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      }
+    },
+    "Tab": {
+      "Active": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        }
+      },
+      "Default": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        }
+      },
+      "Left-Right": {
+        "value": "20",
+        "type": "spacing"
+      },
+      "Top-Bottom": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "Hover": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.500}",
+          "type": "color"
         }
       }
     }
