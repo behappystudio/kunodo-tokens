@@ -1459,6 +1459,48 @@
           "value": "12",
           "type": "spacing"
         }
+      },
+      "Focus": {
+        "Background": {
+          "value": "{System.Primary.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        }
+      },
+      "Active": {
+        "Background": {
+          "value": "{System.Primary.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Muted}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Muted}",
+          "type": "color"
+        }
       }
     },
     "Divider": {
@@ -1474,14 +1516,36 @@
           },
           "type": "boxShadow"
         },
-        "Hover": {
+        "Active": {
           "value": {
             "x": "0",
             "y": "-1",
             "blur": "0",
             "spread": "0",
             "color": "{Neutral.40}",
+            "type": "innerShadow"
+          },
+          "type": "boxShadow"
+        },
+        "Hover": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{Neutral.40}",
             "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "Focus": {
+          "value": {
+            "x": "4",
+            "y": "0",
+            "blur": "0",
+            "spread": "0",
+            "color": "{System.Primary.500}",
+            "type": "innerShadow"
           },
           "type": "boxShadow"
         }
