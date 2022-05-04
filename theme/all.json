@@ -899,6 +899,10 @@
       }
     },
     "Radius": {
+      "Pill": {
+        "value": "3",
+        "type": "borderRadius"
+      },
       "Input": {
         "value": "3",
         "type": "borderRadius"
@@ -1625,6 +1629,16 @@
           "value": "{System.Primary.500}",
           "type": "color"
         }
+      }
+    },
+    "Pill": {
+      "Left-Right": {
+        "value": "6",
+        "type": "spacing"
+      },
+      "Top-Bottom": {
+        "value": "2",
+        "type": "spacing"
       }
     }
   },
