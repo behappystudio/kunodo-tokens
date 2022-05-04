@@ -1561,7 +1561,7 @@
             "y": "1",
             "blur": "0",
             "spread": "0",
-            "color": "{Neutra.40}",
+            "color": "{Neutral.40}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -1573,6 +1573,30 @@
             "blur": "0",
             "spread": "0",
             "color": "{System.Primary.500}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        }
+      },
+      "Table": {
+        "Cell": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{Neutral.40}",
+            "type": "dropShadow"
+          },
+          "type": "boxShadow"
+        },
+        "Thread": {
+          "value": {
+            "x": "0",
+            "y": "1",
+            "blur": "0",
+            "spread": "0",
+            "color": "{Neutral.40}",
             "type": "dropShadow"
           },
           "type": "boxShadow"
@@ -1639,6 +1663,28 @@
       "Top-Bottom": {
         "value": "2",
         "type": "spacing"
+      }
+    },
+    "Table": {
+      "Condensed": {
+        "Left-Right": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "4",
+          "type": "spacing"
+        }
+      },
+      "Normal": {
+        "Left-Right": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "Top-Bottom": {
+          "value": "12",
+          "type": "spacing"
+        }
       }
     }
   },
