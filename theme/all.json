@@ -1686,6 +1686,36 @@
           "type": "spacing"
         }
       }
+    },
+    "Card": {
+      "None": {
+        "value": "0",
+        "type": "spacing"
+      },
+      "Small": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "Medium": {
+        "value": "8",
+        "type": "spacing"
+      },
+      "Large": {
+        "value": "12",
+        "type": "spacing"
+      },
+      "XLarge": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "Background": {
+        "value": "{System.Default.White}",
+        "type": "color"
+      },
+      "Border": {
+        "value": "{Neutral.20}",
+        "type": "color"
+      }
     }
   },
   "branchsight": {
