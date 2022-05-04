@@ -1582,11 +1582,11 @@
         "Cell": {
           "value": {
             "x": "0",
-            "y": "1",
+            "y": "-1",
             "blur": "0",
             "spread": "0",
-            "color": "{Neutral.40}",
-            "type": "dropShadow"
+            "color": "{Neutral.30}",
+            "type": "innerShadow"
           },
           "type": "boxShadow"
         },
@@ -1672,7 +1672,7 @@
           "type": "spacing"
         },
         "Top-Bottom": {
-          "value": "4",
+          "value": "6",
           "type": "spacing"
         }
       },
@@ -1682,7 +1682,7 @@
           "type": "spacing"
         },
         "Top-Bottom": {
-          "value": "12",
+          "value": "14",
           "type": "spacing"
         }
       }
