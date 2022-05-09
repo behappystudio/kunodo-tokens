@@ -291,7 +291,7 @@
     "System": {
       "Default": {
         "White": {
-          "value": "{Neutral.900}",
+          "value": "{Neutral.0}",
           "type": "color"
         },
         "Black": {
