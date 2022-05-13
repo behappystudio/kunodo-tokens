@@ -11145,7 +11145,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{System.Default.White}",
+            "value": "{System.Default.Black}",
             "type": "color"
           },
           "Icon": {
@@ -11159,7 +11159,7 @@
             "type": "color"
           },
           "Text": {
-            "value": "{System.Default.White}",
+            "value": "{System.Default.Black}",
             "type": "color"
           },
           "Icon": {
@@ -11173,11 +11173,11 @@
             "type": "color"
           },
           "Text": {
-            "value": "{System.Default.White}",
+            "value": "{System.Default.Black}",
             "type": "color"
           },
           "Icon": {
-            "value": "{System.Default.White}",
+            "value": "{System.Default.Black}",
             "type": "color"
           },
           "Border": {
@@ -11217,11 +11217,11 @@
         },
         "Hover": {
           "Background": {
-            "value": "{System.Primary.75}",
+            "value": "{System.Primary.50}",
             "type": "color"
           },
           "Text": {
-            "value": "{System.Primary.400}",
+            "value": "{System.Primary.300}",
             "type": "color"
           },
           "Icon": {
@@ -11231,7 +11231,7 @@
         },
         "Focus": {
           "Background": {
-            "value": "{System.Primary.50}",
+            "value": "{System.Primary.75}",
             "type": "color"
           },
           "Text": {
