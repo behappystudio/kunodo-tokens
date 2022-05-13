@@ -11203,7 +11203,7 @@
       "Secondary": {
         "Default": {
           "Background": {
-            "value": "{System.Primary.50}",
+            "value": "{System.Default.Black}",
             "type": "color"
           },
           "Text": {
