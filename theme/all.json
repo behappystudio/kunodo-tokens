@@ -6772,7 +6772,7 @@
     "Heading": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.poppins}",
+          "fontFamily": "Poppins",
           "fontWeight": "{fontWeights.Regular}",
           "lineHeight": "$lineHeights.0",
           "fontSize": "$fontSize.2",
@@ -6785,7 +6785,7 @@
       },
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.poppins}",
+          "fontFamily": "Poppins",
           "fontWeight": "{fontWeights.Medium}",
           "lineHeight": "$lineHeights.0",
           "fontSize": "$fontSize.2",
@@ -6800,7 +6800,7 @@
     "Body": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.poppins}",
+          "fontFamily": "Poppins",
           "fontWeight": "{fontWeights.Regular}",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
@@ -6813,7 +6813,7 @@
       },
       "Bold": {
         "value": {
-          "fontFamily": "{fontFamilies.poppins}",
+          "fontFamily": "Poppins",
           "fontWeight": "{fontWeights.Medium}",
           "lineHeight": "$lineHeights.1",
           "fontSize": "$fontSize.1",
@@ -6828,7 +6828,7 @@
     "Caption": {
       "Regular": {
         "value": {
-          "fontFamily": "{fontFamilies.poppins}",
+          "fontFamily": "Poppins",
           "fontWeight": "{fontWeights.Regular}",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
@@ -6841,7 +6841,7 @@
       },
       "Medium": {
         "value": {
-          "fontFamily": "{fontFamilies.poppins}",
+          "fontFamily": "Poppins",
           "fontWeight": "{fontWeights.Medium}",
           "lineHeight": "$lineHeights.2",
           "fontSize": "$fontSize.0",
@@ -6857,7 +6857,7 @@
       "SM": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Regular}",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
@@ -6870,7 +6870,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
@@ -6885,7 +6885,7 @@
       "MD": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
@@ -6898,7 +6898,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
@@ -6913,7 +6913,7 @@
       "L": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
@@ -6926,7 +6926,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
@@ -6941,7 +6941,7 @@
       "XL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
@@ -6954,7 +6954,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
@@ -6969,7 +6969,7 @@
       "XXL": {
         "Light": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Light}",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
@@ -6982,7 +6982,7 @@
         },
         "Bold": {
           "value": {
-            "fontFamily": "{fontFamilies.poppins}",
+            "fontFamily": "Poppins",
             "fontWeight": "{fontWeights.Bold}",
             "lineHeight": "$lineHeights.5",
             "fontSize": "$fontSize.7",
