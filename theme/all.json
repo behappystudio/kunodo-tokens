@@ -12958,7 +12958,7 @@
         "type": "borderRadius"
       },
       "Button": {
-        "value": "3",
+        "value": "0",
         "type": "borderRadius"
       },
       "Menu": {
