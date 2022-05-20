@@ -13946,11 +13946,11 @@
       },
       "Large": {
         "Left-Right": {
-          "value": "16",
+          "value": "40",
           "type": "spacing"
         },
         "Top-Bottom": {
-          "value": "12",
+          "value": "20",
           "type": "spacing"
         }
       },
@@ -14510,7 +14510,7 @@
         "type": "spacing"
       },
       "XLarge": {
-        "value": "24",
+        "value": "48",
         "type": "spacing"
       },
       "Background": {
