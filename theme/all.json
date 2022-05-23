@@ -14415,11 +14415,11 @@
           "type": "color"
         },
         "Text": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.400}",
           "type": "color"
         },
         "Icon": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.400}",
           "type": "color"
         }
       },
