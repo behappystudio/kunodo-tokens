@@ -13769,7 +13769,7 @@
             "type": "color"
           },
           "Icon": {
-            "value": "{System.Default.White}",
+            "value": "{System.Default.Black}",
             "type": "color"
           }
         },
