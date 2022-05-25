@@ -14352,7 +14352,7 @@
         "Active": {
           "value": {
             "x": "0",
-            "y": "1",
+            "y": "0",
             "blur": "0",
             "spread": "0",
             "color": "{System.Primary.300}",
@@ -14411,7 +14411,7 @@
     "Tab": {
       "Active": {
         "Background": {
-          "value": "{System.Default.White}",
+          "value": "{System.Primary.50}",
           "type": "color"
         },
         "Text": {
