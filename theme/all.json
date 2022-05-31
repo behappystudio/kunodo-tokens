@@ -13287,6 +13287,10 @@
       "sohne-3": {
         "value": "Extraleicht",
         "type": "fontWeights"
+      },
+      "sohne-4": {
+        "value": "{Leicht}",
+        "type": "fontWeights"
       }
     },
     "fontSize": {
@@ -13434,7 +13438,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.sohne",
-            "fontWeight": "$fontWeights.sohne-2",
+            "fontWeight": "$fontWeights.sohne-0",
             "lineHeight": "$lineHeights.0",
             "fontSize": "$fontSize.3",
             "letterSpacing": "$letterSpacing.1",
@@ -13462,7 +13466,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.sohne",
-            "fontWeight": "$fontWeights.sohne-2",
+            "fontWeight": "$fontWeights.sohne-0",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.4",
             "letterSpacing": "$letterSpacing.1",
@@ -13518,7 +13522,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.sohne",
-            "fontWeight": "$fontWeights.sohne-2",
+            "fontWeight": "$fontWeights.sohne-0",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
             "letterSpacing": "$letterSpacing.2",
