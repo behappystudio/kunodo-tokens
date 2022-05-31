@@ -13005,61 +13005,61 @@
     },
     "Blue": {
       "50": {
-        "value": "#deebff",
+        "value": "#EAF2FE",
         "type": "color"
       },
       "75": {
-        "value": "#b3d4ff",
+        "value": "#DBEAFD",
         "type": "color"
       },
       "100": {
-        "value": "#4c9aff",
+        "value": "#B8D4FB",
         "type": "color"
       },
       "200": {
-        "value": "#2684ff",
+        "value": "#94BFF9",
         "type": "color"
       },
       "300": {
-        "value": "#0065ff",
+        "value": "#71A9F7",
         "type": "color"
       },
       "400": {
-        "value": "#0052cc",
+        "value": "#557FB9",
         "type": "color"
       },
       "500": {
-        "value": "#0747a6",
+        "value": "#38557B",
         "type": "color"
       }
     },
     "Purple": {
       "50": {
-        "value": "#eae6ff",
+        "value": "#E9E6F1",
         "type": "color"
       },
       "75": {
-        "value": "#c0b6f2",
+        "value": "#DAD6E8",
         "type": "color"
       },
       "100": {
-        "value": "#998dd9",
+        "value": "#B5AED2",
         "type": "color"
       },
       "200": {
-        "value": "#8777d9",
+        "value": "#9085BB",
         "type": "color"
       },
       "300": {
-        "value": "#6554c0",
+        "value": "#6B5CA5",
         "type": "color"
       },
       "400": {
-        "value": "#5243aa",
+        "value": "#50457C",
         "type": "color"
       },
       "500": {
-        "value": "#403294",
+        "value": "#352E52",
         "type": "color"
       }
     },
@@ -13505,7 +13505,7 @@
         "Light": {
           "value": {
             "fontFamily": "$fontFamilies.sohne",
-            "fontWeight": "$fontWeights.sohne-3",
+            "fontWeight": "$fontWeights.sohne-1",
             "lineHeight": "$lineHeights.4",
             "fontSize": "$fontSize.6",
             "letterSpacing": "$letterSpacing.3",
