@@ -13818,15 +13818,15 @@
       "Secondary": {
         "Default": {
           "Background": {
-            "value": "{System.Default.Black}",
+            "value": "{Purple.50}",
             "type": "color"
           },
           "Text": {
-            "value": "{System.Primary.300}",
+            "value": "{Purple.500}",
             "type": "color"
           },
           "Icon": {
-            "value": "{System.Primary.300}",
+            "value": "{Purple.500}",
             "type": "color"
           }
         },
