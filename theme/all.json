@@ -12901,15 +12901,15 @@
         "type": "color"
       },
       "300": {
-        "value": "#ff5630",
+        "value": "#DB5461",
         "type": "color"
       },
       "400": {
-        "value": "#de350b",
+        "value": "#A43F49",
         "type": "color"
       },
       "500": {
-        "value": "#b92500",
+        "value": "#6E2A30",
         "type": "color"
       }
     },
