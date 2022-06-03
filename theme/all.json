@@ -13348,17 +13348,19 @@
       }
     },
     "Heading": {
-      "value": {
-        "fontFamily": "$fontFamilies.sohne",
-        "fontWeight": "$fontWeights.sohne-0",
-        "lineHeight": "$lineHeights.0",
-        "fontSize": "$fontSize.2",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
-      },
-      "type": "typography"
+      "Bold": {
+        "value": {
+          "fontFamily": "$fontFamilies.sohne",
+          "fontWeight": "$fontWeights.sohne-0",
+          "lineHeight": "$lineHeights.0",
+          "fontSize": "$fontSize.2",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
     },
     "Body": {
       "Regular": {
@@ -13515,7 +13517,7 @@
           },
           "type": "typography"
         },
-        "Medium": {
+        "Regular": {
           "value": {
             "fontFamily": "$fontFamilies.sohne",
             "fontWeight": "$fontWeights.sohne-1",
