@@ -13892,7 +13892,7 @@
             "type": "color"
           },
           "Border": {
-            "value": "{Neutral.20}",
+            "value": "{System.Default.White}",
             "type": "color"
           }
         },
