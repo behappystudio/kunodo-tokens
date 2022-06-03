@@ -13287,10 +13287,6 @@
       "sohne-3": {
         "value": "Extraleicht",
         "type": "fontWeights"
-      },
-      "sohne-4": {
-        "value": "{Leicht}",
-        "type": "fontWeights"
       }
     },
     "fontSize": {
@@ -13494,7 +13490,7 @@
         "Bold": {
           "value": {
             "fontFamily": "$fontFamilies.sohne",
-            "fontWeight": "$fontWeights.sohne-2",
+            "fontWeight": "$fontWeights.sohne-0",
             "lineHeight": "$lineHeights.3",
             "fontSize": "$fontSize.5",
             "letterSpacing": "$letterSpacing.2",
@@ -13507,6 +13503,19 @@
       },
       "XL": {
         "Light": {
+          "value": {
+            "fontFamily": "$fontFamilies.sohne",
+            "fontWeight": "$fontWeights.sohne-3",
+            "lineHeight": "$lineHeights.4",
+            "fontSize": "$fontSize.6",
+            "letterSpacing": "$letterSpacing.3",
+            "paragraphSpacing": "$paragraphSpacing.0",
+            "textCase": "$textCase.none",
+            "textDecoration": "$textDecoration.none"
+          },
+          "type": "typography"
+        },
+        "Medium": {
           "value": {
             "fontFamily": "$fontFamilies.sohne",
             "fontWeight": "$fontWeights.sohne-1",
