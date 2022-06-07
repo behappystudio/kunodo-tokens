@@ -335,31 +335,31 @@
       },
       "Error": {
         "50": {
-          "value": "{Red.50}",
+          "value": "$Red.50",
           "type": "color"
         },
         "75": {
-          "value": "{Red.75}",
+          "value": "$Red.75",
           "type": "color"
         },
         "100": {
-          "value": "{Red.100}",
+          "value": "$Red.100",
           "type": "color"
         },
         "200": {
-          "value": "{Red.200}",
+          "value": "$Red.200",
           "type": "color"
         },
         "300": {
-          "value": "{Red.300}",
+          "value": "$Red.300",
           "type": "color"
         },
         "400": {
-          "value": "{Red.400}",
+          "value": "$Red.400",
           "type": "color"
         },
         "500": {
-          "value": "{Red.500}",
+          "value": "$Red.500",
           "type": "color"
         }
       },
