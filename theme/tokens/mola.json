@@ -703,7 +703,7 @@
         "type": "typography"
       }
     },
-    "XL": {
+    "H2": {
       "Light": {
         "value": {
           "fontFamily": "$fontFamilies.gilroy",
@@ -731,7 +731,7 @@
         "type": "typography"
       }
     },
-    "XXL": {
+    "H1": {
       "Light": {
         "value": {
           "fontFamily": "$fontFamilies.gilroy",

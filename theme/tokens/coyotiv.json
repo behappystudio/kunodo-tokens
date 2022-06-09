@@ -683,7 +683,7 @@
         "type": "typography"
       }
     },
-    "XL": {
+    "H2": {
       "Light": {
         "value": {
           "fontFamily": "$fontFamilies.eudoxus-sans",
@@ -711,7 +711,7 @@
         "type": "typography"
       }
     },
-    "XXL": {
+    "H1": {
       "Light": {
         "value": {
           "fontFamily": "$fontFamilies.eudoxus-sans",

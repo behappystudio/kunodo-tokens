@@ -687,7 +687,7 @@
         "type": "typography"
       }
     },
-    "XL": {
+    "H2": {
       "Light": {
         "value": {
           "fontFamily": "$fontFamilies.anybody",
@@ -715,7 +715,7 @@
         "type": "typography"
       }
     },
-    "XXL": {
+    "H1": {
       "Light": {
         "value": {
           "fontFamily": "$fontFamilies.anybody",
