@@ -1,25 +1,5 @@
 [
   {
-    "id": "21ce001a6b28bfb2368278a3dd44121956c46db5",
-    "name": "dark",
-    "selectedTokenSets": {
-      "kunodo": "enabled",
-      "kunodo-dark": "enabled",
-      "branchsight": "disabled",
-      "french-bullies": "disabled",
-      "mola": "disabled",
-      "tetogames": "disabled",
-      "buddy": "disabled",
-      "coyotiv": "disabled",
-      "odeal": "disabled",
-      "glocalzone": "disabled",
-      "behappy": "disabled",
-      "Shft": "disabled",
-      "kunodo.buttons": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
     "name": "light",
     "selectedTokenSets": {
@@ -35,7 +15,29 @@
       "glocalzone": "disabled",
       "behappy": "disabled",
       "Shft": "disabled",
-      "kunodo": "source"
+      "kunodo": "source",
+      "kunodo / colors": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "21ce001a6b28bfb2368278a3dd44121956c46db5",
+    "name": "dark",
+    "selectedTokenSets": {
+      "kunodo": "enabled",
+      "kunodo-dark": "enabled",
+      "branchsight": "disabled",
+      "french-bullies": "disabled",
+      "mola": "disabled",
+      "tetogames": "disabled",
+      "buddy": "disabled",
+      "coyotiv": "disabled",
+      "odeal": "disabled",
+      "glocalzone": "disabled",
+      "behappy": "disabled",
+      "Shft": "disabled",
+      "kunodo.buttons": "disabled",
+      "themes / dark": "enabled"
     },
     "$figmaStyleReferences": {}
   }
