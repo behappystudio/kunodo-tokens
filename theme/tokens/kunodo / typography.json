@@ -338,7 +338,7 @@
         "value": {
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.400}",
-          "lineHeight": "$lineHeights.sm",
+          "lineHeight": "$lineHeights.md",
           "fontSize": "$textStyle.sm",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
