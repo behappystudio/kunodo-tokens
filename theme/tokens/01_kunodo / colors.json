@@ -1135,38 +1135,6 @@
       "type": "textDecoration"
     }
   },
-  "Radius": {
-    "Pill": {
-      "value": "3",
-      "type": "borderRadius"
-    },
-    "Input": {
-      "value": "3",
-      "type": "borderRadius"
-    },
-    "Button": {
-      "value": "3",
-      "type": "borderRadius"
-    },
-    "Menu": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "Card": {
-      "Small": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "Medium": {
-        "value": "8",
-        "type": "borderRadius"
-      },
-      "Large": {
-        "value": "12",
-        "type": "borderRadius"
-      }
-    }
-  },
   "Icon": {
     "Button": {
       "Small": {
