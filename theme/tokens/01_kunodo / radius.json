@@ -1,0 +1,38 @@
+{
+  "none": {
+    "value": "0",
+    "type": "borderRadius"
+  },
+  "xs": {
+    "value": "2",
+    "type": "borderRadius"
+  },
+  "sm": {
+    "value": "4",
+    "type": "borderRadius"
+  },
+  "md": {
+    "value": "6",
+    "type": "borderRadius"
+  },
+  "lg": {
+    "value": "8",
+    "type": "borderRadius"
+  },
+  "xlg": {
+    "value": "12",
+    "type": "borderRadius"
+  },
+  "2xlg": {
+    "value": "16",
+    "type": "borderRadius"
+  },
+  "3xlg": {
+    "value": "24",
+    "type": "borderRadius"
+  },
+  "full": {
+    "value": "50%",
+    "type": "borderRadius"
+  }
+}
