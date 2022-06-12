@@ -1,30 +1,5 @@
 [
   {
-    "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
-    "name": "light",
-    "selectedTokenSets": {
-      "kunodo-dark": "disabled",
-      "branchsight": "disabled",
-      "french-bullies": "disabled",
-      "mola": "disabled",
-      "tetogames": "disabled",
-      "buddy": "disabled",
-      "coyotiv": "disabled",
-      "odeal": "disabled",
-      "glocalzone": "disabled",
-      "behappy": "disabled",
-      "Shft": "disabled",
-      "kunodo": "disabled",
-      "kunodo / colors": "enabled",
-      "01_kunodo / colors": "source",
-      "02_semantic / colors": "enabled",
-      "01_kunodo / radius": "source",
-      "01_kunodo / shadows": "source",
-      "01_kunodo / typography": "source"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "21ce001a6b28bfb2368278a3dd44121956c46db5",
     "name": "dark",
     "selectedTokenSets": {
@@ -44,7 +19,8 @@
       "01_kunodo / colors": "disabled",
       "01_kunodo / radius": "enabled",
       "01_kunodo / shadows": "enabled",
-      "01_kunodo / typography": "enabled"
+      "01_kunodo / typography": "enabled",
+      "02_semantic / inputs": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -75,7 +51,35 @@
       "01_kunodo / shadows": "enabled",
       "01_kunodo / typography": "enabled",
       "02_semantic / colors": "disabled",
-      "02_semantic / buttons": "disabled"
+      "02_semantic / buttons": "disabled",
+      "02_semantic / inputs": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
+    "name": "light",
+    "selectedTokenSets": {
+      "kunodo-dark": "disabled",
+      "branchsight": "disabled",
+      "french-bullies": "disabled",
+      "mola": "disabled",
+      "tetogames": "disabled",
+      "buddy": "disabled",
+      "coyotiv": "disabled",
+      "odeal": "disabled",
+      "glocalzone": "disabled",
+      "behappy": "disabled",
+      "Shft": "disabled",
+      "kunodo": "disabled",
+      "kunodo / colors": "enabled",
+      "01_kunodo / colors": "source",
+      "02_semantic / colors": "disabled",
+      "01_kunodo / radius": "source",
+      "01_kunodo / shadows": "source",
+      "01_kunodo / typography": "source",
+      "02_semantic / inputs": "disabled",
+      "02_semantic / buttons": "enabled"
     },
     "$figmaStyleReferences": {}
   }

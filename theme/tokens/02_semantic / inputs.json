@@ -1,0 +1,21 @@
+{
+  "input": {
+    "textbox": {
+      "value": {
+        "horizontalPadding": "12",
+        "verticalPadding": "8",
+        "borderRadius": "$sm",
+        "spacing": "10"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "verticalPadding": "8",
+        "borderRadius": "$sm",
+        "spacing": "0"
+      },
+      "type": "composition"
+    }
+  }
+}

@@ -1263,38 +1263,6 @@
       "type": "boxShadow"
     }
   },
-  "Radius": {
-    "Pill": {
-      "value": "3",
-      "type": "borderRadius"
-    },
-    "Input": {
-      "value": "3",
-      "type": "borderRadius"
-    },
-    "Button": {
-      "value": "3",
-      "type": "borderRadius"
-    },
-    "Menu": {
-      "value": "0",
-      "type": "borderRadius"
-    },
-    "Card": {
-      "Small": {
-        "value": "4",
-        "type": "borderRadius"
-      },
-      "Medium": {
-        "value": "8",
-        "type": "borderRadius"
-      },
-      "Large": {
-        "value": "12",
-        "type": "borderRadius"
-      }
-    }
-  },
   "Icon": {
     "Button": {
       "Small": {
@@ -1429,98 +1397,6 @@
     "Large": {
       "value": "120",
       "type": "spacing"
-    }
-  },
-  "Input": {
-    "Default": {
-      "Background": {
-        "value": "{Neutral.20}",
-        "type": "color"
-      },
-      "Text": {
-        "value": "{System.Default.Muted}",
-        "type": "color"
-      },
-      "Icon": {
-        "value": "{System.Default.Muted}",
-        "type": "color"
-      },
-      "Border": {
-        "value": "{Neutral.40}",
-        "type": "color"
-      }
-    },
-    "Left-Right": {
-      "value": "12",
-      "type": "spacing"
-    },
-    "Top-Bottom": {
-      "value": "8",
-      "type": "spacing"
-    },
-    "Focus": {
-      "Background": {
-        "value": "{System.Default.White}",
-        "type": "color"
-      },
-      "Text": {
-        "value": "{System.Default.Muted}",
-        "type": "color"
-      },
-      "Icon": {
-        "value": "{System.Primary.300}",
-        "type": "color"
-      },
-      "Border": {
-        "value": "{System.Primary.300}",
-        "type": "color"
-      }
-    },
-    "Filled": {
-      "Background": {
-        "value": "{System.Default.White}",
-        "type": "color"
-      },
-      "Text": {
-        "value": "{System.Default.Black}",
-        "type": "color"
-      },
-      "Icon": {
-        "value": "{System.Default.Black}",
-        "type": "color"
-      },
-      "Border": {
-        "value": "{Neutral.30}",
-        "type": "color"
-      }
-    },
-    "Disabled": {
-      "Background": {
-        "value": "{Neutral.50}",
-        "type": "color"
-      },
-      "Text": {
-        "value": "{Neutral.80}",
-        "type": "color"
-      },
-      "Icon": {
-        "value": "{Neutral.80}",
-        "type": "color"
-      },
-      "Border": {
-        "value": "{Neutral.100}",
-        "type": "color"
-      }
-    },
-    "Success": {
-      "Background": {
-        "value": "{System.Default.White}",
-        "type": "color"
-      },
-      "Text": {
-        "value": "{System.Default.Black}",
-        "type": "color"
-      }
     }
   },
   "Menu": {
