@@ -3,7 +3,6 @@
     "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
     "name": "light",
     "selectedTokenSets": {
-      "kunodo-light": "enabled",
       "kunodo-dark": "disabled",
       "branchsight": "disabled",
       "french-bullies": "disabled",
@@ -41,7 +40,6 @@
       "glocalzone": "disabled",
       "behappy": "disabled",
       "Shft": "disabled",
-      "kunodo.buttons": "disabled",
       "themes / dark": "enabled",
       "01_kunodo / colors": "disabled",
       "01_kunodo / radius": "enabled",
