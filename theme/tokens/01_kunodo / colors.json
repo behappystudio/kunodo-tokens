@@ -1255,7 +1255,7 @@
           "y": "1",
           "blur": "0",
           "spread": "0",
-          "color": "{System.Primary.300}",
+          "color": "$Blue.300",
           "type": "dropShadow"
         },
         "type": "boxShadow"
