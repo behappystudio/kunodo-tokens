@@ -1,0 +1,11 @@
+{
+  "flag": {
+    "value": {
+      "verticalPadding": "24",
+      "horizontalPadding": "24",
+      "boxShadow": "$lg",
+      "borderRadius": "$lg"
+    },
+    "type": "composition"
+  }
+}

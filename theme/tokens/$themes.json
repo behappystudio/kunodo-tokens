@@ -21,8 +21,10 @@
       "01_kunodo / shadows": "enabled",
       "01_kunodo / typography": "enabled",
       "02_semantic / inputs": "disabled",
-      "02_semantic / pills": "disabled",
-      "02_semantic / menus": "disabled"
+      "02_semantic / menus": "disabled",
+      "02_semantic / pills-badge": "disabled",
+      "02_semantic / avatar": "disabled",
+      "02_semantic / flag": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -55,8 +57,10 @@
       "02_semantic / colors": "disabled",
       "02_semantic / buttons": "disabled",
       "02_semantic / inputs": "disabled",
-      "02_semantic / pills": "disabled",
-      "02_semantic / menus": "disabled"
+      "02_semantic / menus": "disabled",
+      "02_semantic / pills-badge": "disabled",
+      "02_semantic / avatar": "disabled",
+      "02_semantic / flag": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -84,8 +88,10 @@
       "01_kunodo / typography": "source",
       "02_semantic / inputs": "disabled",
       "02_semantic / buttons": "enabled",
-      "02_semantic / pills": "disabled",
-      "02_semantic / menus": "disabled"
+      "02_semantic / menus": "disabled",
+      "02_semantic / pills-badge": "disabled",
+      "02_semantic / avatar": "disabled",
+      "02_semantic / flag": "disabled"
     },
     "$figmaStyleReferences": {}
   }

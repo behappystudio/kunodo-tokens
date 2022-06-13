@@ -1,0 +1,44 @@
+{
+  "avatar": {
+    "xlg": {
+      "value": {
+        "height": "62",
+        "width": "62",
+        "borderRadius": "$full"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "height": "52",
+        "width": "52",
+        "borderRadius": "$full"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "height": "40",
+        "width": "40",
+        "borderRadius": "$full"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "height": "32",
+        "width": "32",
+        "borderRadius": "$full"
+      },
+      "type": "composition"
+    },
+    "xs": {
+      "value": {
+        "height": "24",
+        "width": "24",
+        "borderRadius": "$full"
+      },
+      "type": "composition"
+    }
+  }
+}

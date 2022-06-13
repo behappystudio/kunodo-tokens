@@ -1,0 +1,19 @@
+{
+  "pill": {
+    "value": {
+      "horizontalPadding": "6",
+      "verticalPadding": "4",
+      "spacing": "4",
+      "borderRadius": "$sm"
+    },
+    "type": "composition"
+  },
+  "badge": {
+    "value": {
+      "verticalPadding": "4",
+      "horizontalPadding": "6",
+      "borderRadius": "$lg"
+    },
+    "type": "composition"
+  }
+}
