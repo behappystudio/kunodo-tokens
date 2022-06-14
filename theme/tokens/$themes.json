@@ -26,7 +26,8 @@
       "02_semantic / avatar": "disabled",
       "02_semantic / flag": "disabled",
       "02_semantic / table": "disabled",
-      "02_semantic / dialog": "disabled"
+      "02_semantic / dialog": "disabled",
+      "themes / multinet": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -59,7 +60,8 @@
       "02_semantic / avatar": "enabled",
       "02_semantic / flag": "enabled",
       "02_semantic / table": "enabled",
-      "02_semantic / dialog": "enabled"
+      "02_semantic / dialog": "enabled",
+      "themes / multinet": "disabled"
     },
     "$figmaStyleReferences": {}
   }
