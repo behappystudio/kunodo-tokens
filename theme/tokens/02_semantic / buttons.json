@@ -156,16 +156,6 @@
         }
       }
     },
-    "Small": {
-      "Left-Right": {
-        "value": "8",
-        "type": "spacing"
-      },
-      "Top-Bottom": {
-        "value": "6",
-        "type": "spacing"
-      }
-    },
     "Outline": {
       "Default": {
         "Background": {
@@ -220,26 +210,6 @@
           "value": "{System.Primary.300}",
           "type": "color"
         }
-      }
-    },
-    "Medium": {
-      "Left-Right": {
-        "value": "12",
-        "type": "spacing"
-      },
-      "Top-Bottom": {
-        "value": "8",
-        "type": "spacing"
-      }
-    },
-    "Large": {
-      "Left-Right": {
-        "value": "16",
-        "type": "spacing"
-      },
-      "Top-Bottom": {
-        "value": "12",
-        "type": "spacing"
       }
     },
     "Ghost": {
