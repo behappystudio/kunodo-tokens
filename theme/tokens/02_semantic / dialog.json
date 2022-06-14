@@ -1,0 +1,11 @@
+{
+  "dialog": {
+    "value": {
+      "verticalPadding": "24",
+      "horizontalPadding": "24",
+      "borderRadius": "$lg",
+      "boxShadow": "$lg"
+    },
+    "type": "composition"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "table": {
+    "value": {
+      "height": "52",
+      "spacing": "6",
+      "horizontalPadding": "16"
+    },
+    "type": "composition"
+  }
+}
