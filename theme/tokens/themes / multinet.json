@@ -375,6 +375,44 @@
         "borderRadius": "$xlg"
       },
       "type": "composition"
+    },
+    "md": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
     }
+  },
+  "input": {
+    "textbox": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
+    }
+  },
+  "pill": {
+    "value": {
+      "borderRadius": "$md"
+    },
+    "type": "composition"
+  },
+  "badge": {
+    "value": {
+      "borderRadius": "$xlg"
+    },
+    "type": "composition"
   }
 }
