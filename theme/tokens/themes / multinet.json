@@ -2,11 +2,11 @@
   "System": {
     "Default": {
       "White": {
-        "value": "{Neutral.900}",
+        "value": "{Neutral.0}",
         "type": "color"
       },
       "Black": {
-        "value": "{Neutral.0}",
+        "value": "{Neutral.900}",
         "type": "color"
       },
       "Muted": {
@@ -367,6 +367,14 @@
     "500": {
       "value": "#095a7f",
       "type": "color"
+    }
+  },
+  "button": {
+    "sm": {
+      "value": {
+        "borderRadius": "$xlg"
+      },
+      "type": "composition"
     }
   }
 }
