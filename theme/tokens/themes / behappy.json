@@ -135,10 +135,62 @@
       }
     }
   },
+  "fontSize": {
+    "0": {
+      "value": "0.75rem",
+      "type": "fontSizes"
+    },
+    "1": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "H6": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "H5": {
+      "value": "1.25rem",
+      "type": "fontSizes"
+    },
+    "H4": {
+      "value": "1.625rem",
+      "type": "fontSizes"
+    },
+    "H3": {
+      "value": "2rem",
+      "type": "fontSizes"
+    },
+    "H2": {
+      "value": "2.625rem",
+      "type": "fontSizes"
+    },
+    "H1": {
+      "value": "3.875rem",
+      "type": "fontSizes"
+    }
+  },
   "fontFamilies": {
     "primary": {
       "value": "Clash Display",
       "type": "fontFamilies"
+    }
+  },
+  "presentation": {
+    "H1": {
+      "value": "{fontSize.H1} * 3",
+      "type": "fontSizes"
+    },
+    "H2": {
+      "value": "{fontSize.H2} * 3",
+      "type": "fontSizes"
+    },
+    "H3": {
+      "value": "{fontSize.H3} * 3",
+      "type": "fontSizes"
+    },
+    "H6": {
+      "value": "{fontSize.H6} * 3",
+      "type": "fontSizes"
     }
   }
 }
