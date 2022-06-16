@@ -27,7 +27,8 @@
       "02_semantic / flag": "disabled",
       "02_semantic / table": "disabled",
       "02_semantic / dialog": "disabled",
-      "themes / multinet": "disabled"
+      "themes / multinet": "disabled",
+      "themes / behappy": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -61,7 +62,8 @@
       "02_semantic / flag": "enabled",
       "02_semantic / table": "enabled",
       "02_semantic / dialog": "enabled",
-      "themes / multinet": "disabled"
+      "themes / multinet": "disabled",
+      "themes / behappy": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -105,7 +107,8 @@
       "themes / multinet": "enabled",
       "themes / odeal": "disabled",
       "themes / shft": "disabled",
-      "themes / tetogames": "disabled"
+      "themes / tetogames": "disabled",
+      "themes / behappy": "disabled"
     },
     "$figmaStyleReferences": {}
   }
