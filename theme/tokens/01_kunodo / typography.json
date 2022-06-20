@@ -380,7 +380,7 @@
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "$lineHeights.sm",
-          "fontSize": "$textStyle.xs",
+          "fontSize": "{textStyle.xsm}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -393,7 +393,7 @@
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "$lineHeights.sm",
-          "fontSize": "$textStyle.xs",
+          "fontSize": "{textStyle.xsm}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -406,7 +406,7 @@
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "$lineHeights.sm",
-          "fontSize": "$textStyle.xs",
+          "fontSize": "{textStyle.xsm}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -419,7 +419,61 @@
           "fontFamily": "{fontFamilies.primary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "$lineHeights.sm",
-          "fontSize": "$textStyle.xs",
+          "fontSize": "{textStyle.xsm}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      }
+    },
+    "XXSmall": {
+      "300": {
+        "value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.300}",
+          "lineHeight": "$lineHeights.sm",
+          "fontSize": "{textStyle.xxsm}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "400": {
+        "value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.400}",
+          "lineHeight": "$lineHeights.sm",
+          "fontSize": "{textStyle.xxsm}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "500": {
+        "value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.500}",
+          "lineHeight": "$lineHeights.sm",
+          "fontSize": "{textStyle.xxsm}",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        },
+        "type": "typography"
+      },
+      "700": {
+        "value": {
+          "fontFamily": "{fontFamilies.primary}",
+          "fontWeight": "{fontWeights.700}",
+          "lineHeight": "$lineHeights.sm",
+          "fontSize": "{textStyle.xxsm}",
           "letterSpacing": "$letterSpacing.0",
           "paragraphSpacing": "$paragraphSpacing.0",
           "textCase": "$textCase.none",
@@ -728,8 +782,12 @@
       "value": "0.875rem",
       "type": "fontSizes"
     },
-    "xs": {
+    "xsm": {
       "value": "0.75rem",
+      "type": "fontSizes"
+    },
+    "xxsm": {
+      "value": "0.5rem",
       "type": "fontSizes"
     }
   }

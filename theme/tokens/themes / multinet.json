@@ -415,18 +415,8 @@
     },
     "type": "composition"
   },
-  "menu": {
-    "child": {
-      "value": {
-        "borderRadius": "$lg"
-      },
-      "type": "composition"
-    },
-    "parent": {
-      "value": {
-        "borderRadius": "$lg"
-      },
-      "type": "composition"
-    }
+  "Background": {
+    "value": "linear-gradient(45deg, $Green.50 0%, $Yellow.50 100%)",
+    "type": "color"
   }
 }
