@@ -1,0 +1,39 @@
+{
+  "section": {
+    "3xsm": {
+      "value": {
+        "horizontalPadding": "0.125rem",
+        "verticalPadding": "0.125rem"
+      },
+      "type": "composition"
+    },
+    "xxsm": {
+      "value": {
+        "horizontalPadding": "0.25rem",
+        "verticalPadding": "0.25rem"
+      },
+      "type": "composition"
+    },
+    "xsm": {
+      "value": {
+        "horizontalPadding": "0.5rem",
+        "verticalPadding": "0.5rem"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "horizontalPadding": "1rem",
+        "verticalPadding": "1rem"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "horizontalPadding": "2rem",
+        "verticalPadding": "2rem"
+      },
+      "type": "composition"
+    }
+  }
+}

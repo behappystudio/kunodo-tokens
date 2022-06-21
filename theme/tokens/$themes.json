@@ -18,7 +18,8 @@
       "themes / multinet": "disabled",
       "themes / behappy": "disabled",
       "themes / branchsight": "disabled",
-      "themes / buddy": "disabled"
+      "themes / buddy": "disabled",
+      "01_kunodo / sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -42,7 +43,8 @@
       "themes / multinet": "disabled",
       "themes / behappy": "disabled",
       "themes / branchsight": "disabled",
-      "themes / buddy": "disabled"
+      "themes / buddy": "disabled",
+      "01_kunodo / sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -74,7 +76,8 @@
       "themes / tetogames": "disabled",
       "themes / behappy": "disabled",
       "themes / branchsight": "disabled",
-      "themes / buddy": "disabled"
+      "themes / buddy": "disabled",
+      "01_kunodo / sizing": "disabled"
     },
     "$figmaStyleReferences": {}
   }
