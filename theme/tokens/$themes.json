@@ -3,15 +3,6 @@
     "id": "21ce001a6b28bfb2368278a3dd44121956c46db5",
     "name": "dark",
     "selectedTokenSets": {
-      "kunodo": "disabled",
-      "kunodo-dark": "disabled",
-      "french-bullies": "disabled",
-      "mola": "disabled",
-      "tetogames": "disabled",
-      "buddy": "disabled",
-      "coyotiv": "disabled",
-      "odeal": "disabled",
-      "glocalzone": "disabled",
       "themes / dark": "enabled",
       "01_kunodo / colors": "disabled",
       "01_kunodo / radius": "enabled",
@@ -26,7 +17,8 @@
       "02_semantic / dialog": "disabled",
       "themes / multinet": "disabled",
       "themes / behappy": "disabled",
-      "themes / branchsight": "disabled"
+      "themes / branchsight": "disabled",
+      "themes / buddy": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -34,16 +26,6 @@
     "id": "8f15af3a0d959da3e35b65c40304010a102dd22a",
     "name": "light",
     "selectedTokenSets": {
-      "kunodo-dark": "disabled",
-      "french-bullies": "disabled",
-      "mola": "disabled",
-      "tetogames": "disabled",
-      "buddy": "disabled",
-      "coyotiv": "disabled",
-      "odeal": "disabled",
-      "glocalzone": "disabled",
-      "kunodo": "disabled",
-      "kunodo / colors": "disabled",
       "01_kunodo / colors": "source",
       "02_semantic / colors": "enabled",
       "01_kunodo / radius": "source",
@@ -59,7 +41,8 @@
       "02_semantic / dialog": "enabled",
       "themes / multinet": "disabled",
       "themes / behappy": "disabled",
-      "themes / branchsight": "disabled"
+      "themes / branchsight": "disabled",
+      "themes / buddy": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -81,18 +64,6 @@
       "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
-      "buddy": "disabled",
-      "coyotiv": "disabled",
-      "french-bullies": "disabled",
-      "glocalzone": "disabled",
-      "kunodo / buttons": "disabled",
-      "kunodo / colors": "disabled",
-      "kunodo / typography": "disabled",
-      "kunodo-dark": "disabled",
-      "kunodo": "disabled",
-      "mola": "disabled",
-      "odeal": "disabled",
-      "tetogames": "disabled",
       "themes / coyotiv": "disabled",
       "themes / dark": "disabled",
       "themes / frenzbulliez": "disabled",
@@ -102,7 +73,8 @@
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
       "themes / behappy": "disabled",
-      "themes / branchsight": "disabled"
+      "themes / branchsight": "disabled",
+      "themes / buddy": "disabled"
     },
     "$figmaStyleReferences": {}
   }
