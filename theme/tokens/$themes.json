@@ -5,7 +5,6 @@
     "selectedTokenSets": {
       "kunodo": "disabled",
       "kunodo-dark": "disabled",
-      "branchsight": "disabled",
       "french-bullies": "disabled",
       "mola": "disabled",
       "tetogames": "disabled",
@@ -13,8 +12,6 @@
       "coyotiv": "disabled",
       "odeal": "disabled",
       "glocalzone": "disabled",
-      "behappy": "disabled",
-      "Shft": "disabled",
       "themes / dark": "enabled",
       "01_kunodo / colors": "disabled",
       "01_kunodo / radius": "enabled",
@@ -28,7 +25,8 @@
       "02_semantic / table": "disabled",
       "02_semantic / dialog": "disabled",
       "themes / multinet": "disabled",
-      "themes / behappy": "disabled"
+      "themes / behappy": "disabled",
+      "themes / branchsight": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -37,7 +35,6 @@
     "name": "light",
     "selectedTokenSets": {
       "kunodo-dark": "disabled",
-      "branchsight": "disabled",
       "french-bullies": "disabled",
       "mola": "disabled",
       "tetogames": "disabled",
@@ -45,8 +42,6 @@
       "coyotiv": "disabled",
       "odeal": "disabled",
       "glocalzone": "disabled",
-      "behappy": "disabled",
-      "Shft": "disabled",
       "kunodo": "disabled",
       "kunodo / colors": "disabled",
       "01_kunodo / colors": "source",
@@ -63,7 +58,8 @@
       "02_semantic / table": "enabled",
       "02_semantic / dialog": "enabled",
       "themes / multinet": "disabled",
-      "themes / behappy": "disabled"
+      "themes / behappy": "disabled",
+      "themes / branchsight": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -85,8 +81,6 @@
       "02_semantic / pills-badge": "enabled",
       "02_semantic / pills": "disabled",
       "02_semantic / table": "enabled",
-      "behappy": "disabled",
-      "branchsight": "disabled",
       "buddy": "disabled",
       "coyotiv": "disabled",
       "french-bullies": "disabled",
@@ -98,7 +92,6 @@
       "kunodo": "disabled",
       "mola": "disabled",
       "odeal": "disabled",
-      "Shft": "disabled",
       "tetogames": "disabled",
       "themes / coyotiv": "disabled",
       "themes / dark": "disabled",
@@ -108,7 +101,8 @@
       "themes / odeal": "disabled",
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
-      "themes / behappy": "disabled"
+      "themes / behappy": "disabled",
+      "themes / branchsight": "disabled"
     },
     "$figmaStyleReferences": {}
   }
