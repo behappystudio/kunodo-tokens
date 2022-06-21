@@ -34,6 +34,48 @@
         "verticalPadding": "2rem"
       },
       "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "horizontalPadding": "3rem",
+        "verticalPadding": "3rem"
+      },
+      "type": "composition"
+    },
+    "xlg": {
+      "value": {
+        "horizontalPadding": "4rem",
+        "verticalPadding": "4rem"
+      },
+      "type": "composition"
+    },
+    "xxlg": {
+      "value": {
+        "horizontalPadding": "5rem",
+        "verticalPadding": "5rem"
+      },
+      "type": "composition"
+    },
+    "3xlg": {
+      "value": {
+        "horizontalPadding": "6rem",
+        "verticalPadding": "6rem"
+      },
+      "type": "composition"
+    },
+    "4xlg": {
+      "value": {
+        "horizontalPadding": "8rem",
+        "verticalPadding": "8rem"
+      },
+      "type": "composition"
+    },
+    "5xlg": {
+      "value": {
+        "horizontalPadding": "12rem",
+        "verticalPadding": "12rem"
+      },
+      "type": "composition"
     }
   }
 }
