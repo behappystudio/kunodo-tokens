@@ -1,5 +1,12 @@
 {
   "section": {
+    "none": {
+      "value": {
+        "horizontalPadding": "0",
+        "verticalPadding": "0"
+      },
+      "type": "composition"
+    },
     "3xsm": {
       "value": {
         "horizontalPadding": "0.125rem",
@@ -74,6 +81,26 @@
       "value": {
         "horizontalPadding": "12rem",
         "verticalPadding": "12rem"
+      },
+      "type": "composition"
+    }
+  },
+  "container": {
+    "sm": {
+      "value": {
+        "width": "48rem"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "width": "64rem"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "width": "80rem"
       },
       "type": "composition"
     }
