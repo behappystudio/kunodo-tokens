@@ -3,6 +3,10 @@
     "primary": {
       "value": "Rubik",
       "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Rubik",
+      "type": "fontFamilies"
     }
   },
   "lineHeights": {
@@ -161,7 +165,7 @@
     "XLarge": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
@@ -174,7 +178,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
@@ -187,7 +191,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
@@ -200,7 +204,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
@@ -215,7 +219,7 @@
     "Large": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
@@ -228,7 +232,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
@@ -241,7 +245,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
@@ -254,7 +258,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
@@ -269,7 +273,7 @@
     "Medium": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.md",
@@ -282,7 +286,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.md",
@@ -295,7 +299,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.md",
@@ -308,7 +312,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "$lineHeights.md",
           "fontSize": "$textStyle.md",
@@ -323,7 +327,7 @@
     "Small": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "$textStyle.sm",
@@ -336,7 +340,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "$lineHeights.md",
           "fontSize": "$textStyle.sm",
@@ -349,7 +353,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "$textStyle.sm",
@@ -362,7 +366,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "$textStyle.sm",
@@ -377,7 +381,7 @@
     "XSmall": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
@@ -390,7 +394,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
@@ -403,7 +407,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
@@ -416,7 +420,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
@@ -431,7 +435,7 @@
     "XXSmall": {
       "300": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.300}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
@@ -444,7 +448,7 @@
       },
       "400": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.400}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
@@ -457,7 +461,7 @@
       },
       "500": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.500}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
@@ -470,7 +474,7 @@
       },
       "700": {
         "value": {
-          "fontFamily": "{fontFamilies.primary}",
+          "fontFamily": "{fontFamilies.secondary}",
           "fontWeight": "{fontWeights.700}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
