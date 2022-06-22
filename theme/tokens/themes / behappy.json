@@ -173,6 +173,10 @@
     "primary": {
       "value": "Chillax",
       "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Chillax",
+      "type": "fontFamilies"
     }
   },
   "presentation": {
