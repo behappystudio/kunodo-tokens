@@ -19,7 +19,8 @@
       "themes / behappy": "disabled",
       "themes / branchsight": "disabled",
       "themes / buddy": "disabled",
-      "01_kunodo / sizing": "disabled"
+      "01_kunodo / sizing": "disabled",
+      "themes / adverport": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -44,7 +45,8 @@
       "themes / behappy": "disabled",
       "themes / branchsight": "disabled",
       "themes / buddy": "disabled",
-      "01_kunodo / sizing": "disabled"
+      "01_kunodo / sizing": "disabled",
+      "themes / adverport": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -92,7 +94,8 @@
       "themes / multinet": "disabled",
       "themes / odeal": "disabled",
       "themes / shft": "disabled",
-      "themes / tetogames": "disabled"
+      "themes / tetogames": "disabled",
+      "themes / adverport": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -125,7 +128,8 @@
       "themes / behappy": "disabled",
       "themes / branchsight": "disabled",
       "themes / buddy": "disabled",
-      "01_kunodo / sizing": "source"
+      "01_kunodo / sizing": "source",
+      "themes / adverport": "disabled"
     },
     "$figmaStyleReferences": {}
   }
