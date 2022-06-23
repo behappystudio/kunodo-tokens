@@ -144,5 +144,12 @@
       "value": "Chillax",
       "type": "fontFamilies"
     }
+  },
+  "pill": {
+    "value": {
+      "verticalPadding": "12",
+      "horizontalPadding": "24"
+    },
+    "type": "composition"
   }
 }
