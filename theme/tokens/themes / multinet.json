@@ -392,5 +392,35 @@
   "Background": {
     "value": "linear-gradient(45deg, $Green.50 0%, $Yellow.50 100%)",
     "type": "color"
+  },
+  "Yellow": {
+    "50": {
+      "value": "#FEEDD6",
+      "type": "color"
+    },
+    "75": {
+      "value": "#FDDCAD",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FCCA85",
+      "type": "color"
+    },
+    "200": {
+      "value": "#FBB95C",
+      "type": "color"
+    },
+    "300": {
+      "value": "#FAA634",
+      "type": "color"
+    },
+    "400": {
+      "value": "#F49106",
+      "type": "color"
+    },
+    "500": {
+      "value": "#C47405",
+      "type": "color"
+    }
   }
 }
