@@ -107,33 +107,33 @@
       "type": "color"
     }
   },
-  "Yellow": {
+  "Blue": {
     "50": {
-      "value": "#fffae6",
+      "value": "#EAF2FE",
       "type": "color"
     },
     "75": {
-      "value": "#fff0b3",
+      "value": "#DBEAFD",
       "type": "color"
     },
     "100": {
-      "value": "#ffe380",
+      "value": "#B8D4FB",
       "type": "color"
     },
     "200": {
-      "value": "#ffc400",
+      "value": "#94BFF9",
       "type": "color"
     },
     "300": {
-      "value": "#ffab00",
+      "value": "#71A9F7",
       "type": "color"
     },
     "400": {
-      "value": "#ff991f",
+      "value": "#557FB9",
       "type": "color"
     },
     "500": {
-      "value": "#ff8b00",
+      "value": "#38557B",
       "type": "color"
     }
   },
@@ -194,36 +194,6 @@
     },
     "500": {
       "value": "#008da6",
-      "type": "color"
-    }
-  },
-  "Blue": {
-    "50": {
-      "value": "#EAF2FE",
-      "type": "color"
-    },
-    "75": {
-      "value": "#DBEAFD",
-      "type": "color"
-    },
-    "100": {
-      "value": "#B8D4FB",
-      "type": "color"
-    },
-    "200": {
-      "value": "#94BFF9",
-      "type": "color"
-    },
-    "300": {
-      "value": "#71A9F7",
-      "type": "color"
-    },
-    "400": {
-      "value": "#557FB9",
-      "type": "color"
-    },
-    "500": {
-      "value": "#38557B",
       "type": "color"
     }
   },
@@ -394,32 +364,32 @@
     },
     "Warning": {
       "50": {
-        "value": "{Yellow.50}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.50}"
       },
       "75": {
-        "value": "{Yellow.75}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.75}"
       },
       "100": {
-        "value": "{Yellow.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.100}"
       },
       "200": {
-        "value": "{Yellow.200}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.200}"
       },
       "300": {
-        "value": "{Yellow.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.300}"
       },
       "400": {
-        "value": "{Yellow.400}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.400}"
       },
       "500": {
-        "value": "{Yellow.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.500}"
       }
     }
   },

@@ -106,32 +106,32 @@
     },
     "Warning": {
       "50": {
-        "value": "{Yellow.50}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.50}"
       },
       "75": {
-        "value": "{Yellow.75}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.75}"
       },
       "100": {
-        "value": "{Yellow.100}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.100}"
       },
       "200": {
-        "value": "{Yellow.200}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.200}"
       },
       "300": {
-        "value": "{Yellow.300}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.300}"
       },
       "400": {
-        "value": "{Yellow.400}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.400}"
       },
       "500": {
-        "value": "{Yellow.500}",
-        "type": "color"
+        "type": "color",
+        "value": "{Blue.500}"
       }
     }
   },
