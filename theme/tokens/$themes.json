@@ -21,7 +21,8 @@
       "themes / buddy": "disabled",
       "01_kunodo / sizing": "disabled",
       "themes / adverport": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / sanovel": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -48,7 +49,8 @@
       "themes / buddy": "disabled",
       "01_kunodo / sizing": "disabled",
       "themes / adverport": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / sanovel": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -98,7 +100,8 @@
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
       "themes / adverport": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / sanovel": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -133,7 +136,8 @@
       "themes / buddy": "disabled",
       "01_kunodo / sizing": "source",
       "themes / adverport": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / sanovel": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -183,7 +187,8 @@
       "themes / odeal": "disabled",
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / sanovel": "disabled"
     },
     "$figmaStyleReferences": {}
   }
