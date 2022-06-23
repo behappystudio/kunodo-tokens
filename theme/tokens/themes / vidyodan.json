@@ -16,31 +16,31 @@
     },
     "Primary": {
       "50": {
-        "value": "$Green.50",
+        "value": "$Yellow.50",
         "type": "color"
       },
       "75": {
-        "value": "$Green.75",
+        "value": "$Yellow.75",
         "type": "color"
       },
       "100": {
-        "value": "$Green.100",
+        "value": "$Yellow.100",
         "type": "color"
       },
       "200": {
-        "value": "$Green.200",
+        "value": "$Yellow.200",
         "type": "color"
       },
       "300": {
-        "value": "$Green.300",
+        "value": "$Yellow.300",
         "type": "color"
       },
       "400": {
-        "value": "$Green.400",
+        "value": "$Yellow.400",
         "type": "color"
       },
       "500": {
-        "value": "$Green.500",
+        "value": "$Yellow.500",
         "type": "color"
       }
     },
@@ -137,11 +137,11 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Montserrat",
+      "value": "Mulish",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Montserrat",
+      "value": "Mulish",
       "type": "fontFamilies"
     }
   },
@@ -151,225 +151,165 @@
       "type": "color"
     },
     "10": {
-      "value": "#eeeef9",
+      "value": "#fbfbfb",
       "type": "color"
     },
     "20": {
-      "value": "#dddcf2",
+      "value": "#f2f2f4",
       "type": "color"
     },
     "30": {
-      "value": "#cccbec",
+      "value": "#e5e6e8",
       "type": "color"
     },
     "40": {
-      "value": "#bbb9e6",
+      "value": "#dddde1",
       "type": "color"
     },
     "50": {
-      "value": "#aaa8df",
+      "value": "#d8d9dd",
       "type": "color"
     },
     "60": {
-      "value": "#9996d9",
+      "value": "#d4d5d9",
       "type": "color"
     },
     "70": {
-      "value": "#8885d3",
+      "value": "#c6c7cd",
       "type": "color"
     },
     "80": {
-      "value": "#7873cd",
+      "value": "#b8b9c0",
       "type": "color"
     },
     "90": {
-      "value": "#6762c6",
+      "value": "#a9aab3",
       "type": "color"
     },
     "100": {
-      "value": "#5650c0",
+      "value": "#9b9ca7",
       "type": "color"
     },
     "200": {
-      "value": "#4842b6",
+      "value": "#8d8e9a",
       "type": "color"
     },
     "300": {
-      "value": "#413ba5",
+      "value": "#7e808e",
       "type": "color"
     },
     "400": {
-      "value": "#3a3593",
+      "value": "#707281",
       "type": "color"
     },
     "500": {
-      "value": "#332f82",
+      "value": "#707281",
       "type": "color"
     },
     "600": {
-      "value": "#2c2970",
+      "value": "#585b6c",
       "type": "color"
     },
     "700": {
-      "value": "#25225f",
+      "value": "#414357",
       "type": "color"
     },
     "800": {
-      "value": "#1e1c4d",
+      "value": "#292c42",
       "type": "color"
     },
     "900": {
-      "value": "#18163d",
+      "value": "#11142D",
       "type": "color"
     }
   },
   "Red": {
     "50": {
-      "value": "#feedf1",
+      "value": "#FFF9F8",
       "type": "color"
     },
     "75": {
-      "value": "#fdc9d5",
+      "value": "#FFEBE6",
       "type": "color"
     },
     "100": {
-      "value": "#fb94aa",
+      "value": "#FFB8B8",
       "type": "color"
     },
     "200": {
-      "value": "#f95e80",
+      "value": "#FF8D8D",
       "type": "color"
     },
     "300": {
-      "value": "#f84c72",
+      "value": "#FF7070",
       "type": "color"
     },
     "400": {
-      "value": "#c63d5b",
+      "value": "#FF5C5C",
       "type": "color"
     },
     "500": {
-      "value": "#952e44",
+      "value": "#FF4747",
       "type": "color"
     }
   },
   "Yellow": {
     "50": {
-      "value": "#feedd6",
+      "value": "#FFFBF5",
       "type": "color"
     },
     "75": {
-      "value": "#fddcad",
+      "value": "#FFF4E6",
       "type": "color"
     },
     "100": {
-      "value": "#fcca85",
+      "value": "#FFC680",
       "type": "color"
     },
     "200": {
-      "value": "#fbb95c",
+      "value": "#FFA333",
       "type": "color"
     },
     "300": {
-      "value": "#faa634",
+      "value": "#FF8C00",
       "type": "color"
     },
     "400": {
-      "value": "#f49106",
+      "value": "#F18400",
       "type": "color"
     },
     "500": {
-      "value": "#c47405",
+      "value": "#E37D00",
       "type": "color"
     }
   },
   "Green": {
     "50": {
-      "value": "#eff7f3",
+      "value": "#F6FCF9",
       "type": "color"
     },
     "75": {
-      "value": "#cee8da",
+      "value": "#E9F7F1",
       "type": "color"
     },
     "100": {
-      "value": "#9ed0b6",
+      "value": "#93D9BB",
       "type": "color"
     },
     "200": {
-      "value": "#8ec8aa",
+      "value": "#51C192",
       "type": "color"
     },
     "300": {
-      "value": "#5db185",
+      "value": "#26B277",
       "type": "color"
     },
     "400": {
-      "value": "#4a8e6a",
+      "value": "#23A770",
       "type": "color"
     },
     "500": {
-      "value": "#386a50",
-      "type": "color"
-    }
-  },
-  "Teal": {
-    "50": {
-      "value": "#dcf4fa",
-      "type": "color"
-    },
-    "75": {
-      "value": "#b9e9f5",
-      "type": "color"
-    },
-    "100": {
-      "value": "#96def1",
-      "type": "color"
-    },
-    "200": {
-      "value": "#4fc9e7",
-      "type": "color"
-    },
-    "300": {
-      "value": "#2bbee2",
-      "type": "color"
-    },
-    "400": {
-      "value": "#1ba4c6",
-      "type": "color"
-    },
-    "500": {
-      "value": "#16839f",
-      "type": "color"
-    }
-  },
-  "Blue": {
-    "50": {
-      "value": "#cfeefc",
-      "type": "color"
-    },
-    "75": {
-      "value": "#a0dcf8",
-      "type": "color"
-    },
-    "100": {
-      "value": "#70cbf5",
-      "type": "color"
-    },
-    "200": {
-      "value": "#11a8ee",
-      "type": "color"
-    },
-    "300": {
-      "value": "#0d89c1",
-      "type": "color"
-    },
-    "400": {
-      "value": "#0b709f",
-      "type": "color"
-    },
-    "500": {
-      "value": "#095a7f",
+      "value": "#219D6A",
       "type": "color"
     }
   },
@@ -418,9 +358,5 @@
       "borderRadius": "$xlg"
     },
     "type": "composition"
-  },
-  "Background": {
-    "value": "linear-gradient(45deg, $Green.50 0%, $Yellow.50 100%)",
-    "type": "color"
   }
 }
