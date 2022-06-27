@@ -167,11 +167,11 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Prompt",
+      "value": "Arimo",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Prompt",
+      "value": "Work Sans",
       "type": "fontFamilies"
     }
   },
