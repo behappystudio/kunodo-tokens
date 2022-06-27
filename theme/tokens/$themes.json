@@ -23,7 +23,8 @@
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
-      "themes / edugun": "disabled"
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,7 +53,8 @@
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
-      "themes / edugun": "disabled"
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -104,7 +106,8 @@
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
-      "themes / edugun": "disabled"
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -141,7 +144,8 @@
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
-      "themes / edugun": "disabled"
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -193,7 +197,8 @@
       "themes / tetogames": "disabled",
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
-      "themes / edugun": "disabled"
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -245,7 +250,8 @@
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
       "themes / vidyodan": "enabled",
-      "themes / edugun": "disabled"
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -297,7 +303,8 @@
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / edugun": "disabled"
+      "themes / edugun": "disabled",
+      "themes / l2g": "disabled"
     },
     "$figmaStyleReferences": {}
   }

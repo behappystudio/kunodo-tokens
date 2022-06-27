@@ -110,7 +110,7 @@
     },
     "Success": {
       "50": {
-        "value": "$Green.50",
+        "value": "{Green.300}",
         "type": "color"
       },
       "75": {

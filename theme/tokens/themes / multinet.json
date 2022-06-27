@@ -16,7 +16,7 @@
     },
     "Primary": {
       "50": {
-        "value": "$Green.50",
+        "value": "{Green.300}",
         "type": "color"
       },
       "75": {
@@ -76,7 +76,7 @@
     },
     "Success": {
       "50": {
-        "value": "{Green.50}",
+        "value": "{Green.300}",
         "type": "color"
       },
       "75": {
@@ -390,7 +390,7 @@
     "type": "composition"
   },
   "Background": {
-    "value": "linear-gradient(45deg, $Green.50 0%, $Yellow.50 100%)",
+    "value": "linear-gradient(45deg, {Green.300} 0%, $Yellow.50 100%)",
     "type": "color"
   },
   "Yellow": {
