@@ -22,7 +22,8 @@
       "01_kunodo / sizing": "disabled",
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / sanovel": "disabled"
+      "themes / sanovel": "disabled",
+      "themes / edugun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -50,7 +51,8 @@
       "01_kunodo / sizing": "disabled",
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / sanovel": "disabled"
+      "themes / sanovel": "disabled",
+      "themes / edugun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -101,7 +103,8 @@
       "themes / tetogames": "disabled",
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / sanovel": "disabled"
+      "themes / sanovel": "disabled",
+      "themes / edugun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -137,7 +140,8 @@
       "01_kunodo / sizing": "source",
       "themes / adverport": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / sanovel": "disabled"
+      "themes / sanovel": "disabled",
+      "themes / edugun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -188,7 +192,8 @@
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / sanovel": "disabled"
+      "themes / sanovel": "disabled",
+      "themes / edugun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -239,7 +244,8 @@
       "themes / sanovel": "disabled",
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
-      "themes / vidyodan": "enabled"
+      "themes / vidyodan": "enabled",
+      "themes / edugun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -290,7 +296,8 @@
       "themes / sanovel": "enabled",
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / edugun": "disabled"
     },
     "$figmaStyleReferences": {}
   }
