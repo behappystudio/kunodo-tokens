@@ -137,31 +137,31 @@
     "Warning": {
       "50": {
         "type": "color",
-        "value": "{Blue.50}"
+        "value": "$Yellow.50"
       },
       "75": {
         "type": "color",
-        "value": "{Blue.75}"
+        "value": "$Yellow.75"
       },
       "100": {
         "type": "color",
-        "value": "{Blue.100}"
+        "value": "$Yellow.100"
       },
       "200": {
         "type": "color",
-        "value": "{Blue.200}"
+        "value": "$Yellow.200"
       },
       "300": {
         "type": "color",
-        "value": "{Blue.300}"
+        "value": "$Yellow.300"
       },
       "400": {
         "type": "color",
-        "value": "{Blue.400}"
+        "value": "$Yellow.400"
       },
       "500": {
         "type": "color",
-        "value": "{Blue.500}"
+        "value": "$Yellow.500"
       }
     }
   },
@@ -313,22 +313,76 @@
       "type": "color"
     }
   },
+  "Button": {
+    "Secondary": {
+      "Default": {
+        "Background": {
+          "value": "$System.Default.White",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "$System.Secondary.300",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "{System.Secondary.75}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Secondary.400}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Secondary.400}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Background": {
+          "value": "{System.Secondary.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "button": {
     "sm": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$3xlg"
       },
       "type": "composition"
     },
     "md": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$3xlg"
       },
       "type": "composition"
     },
     "lg": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$3xlg"
       },
       "type": "composition"
     }
@@ -336,13 +390,13 @@
   "input": {
     "textbox": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$3xlg"
       },
       "type": "composition"
     },
     "numeric": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$3xlg"
       },
       "type": "composition"
     }
