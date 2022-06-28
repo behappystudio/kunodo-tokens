@@ -347,7 +347,7 @@
     "Primary": {
       "Default": {
         "Background": {
-          "value": "{System.Primary.300}",
+          "value": "linear-gradient(-45deg, $System.Primary.300 0%, $System.Secondary.300 100%)",
           "type": "color"
         },
         "Text": {
@@ -409,15 +409,15 @@
     "Secondary": {
       "Default": {
         "Background": {
-          "value": "{System.Primary.50}",
+          "value": "linear-gradient(-45deg, $System.Primary.50 0%, $System.Secondary.50 100%)",
           "type": "color"
         },
         "Text": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.500}",
           "type": "color"
         },
         "Icon": {
-          "value": "{System.Primary.300}",
+          "value": "{System.Primary.500}",
           "type": "color"
         }
       },
