@@ -177,7 +177,7 @@
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Work Sans",
+      "value": "Muli",
       "type": "fontFamilies"
     }
   },
@@ -564,19 +564,19 @@
   "button": {
     "sm": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$none"
       },
       "type": "composition"
     },
     "md": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$none"
       },
       "type": "composition"
     },
     "lg": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$none"
       },
       "type": "composition"
     }
