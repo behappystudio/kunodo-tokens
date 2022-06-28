@@ -163,6 +163,16 @@
         "type": "color",
         "value": "$Yellow.500"
       }
+    },
+    "Background": {
+      "Primary": {
+        "value": "linear-gradient(45deg, $System.Primary.300 0%,  $System.Secondary.300 100%)",
+        "type": "color"
+      },
+      "Secondary": {
+        "value": "linear-gradient(45deg, $System.Primary.50 0%,  $System.Default.White 100%)",
+        "type": "color"
+      }
     }
   },
   "fontFamilies": {
