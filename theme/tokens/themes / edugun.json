@@ -313,6 +313,118 @@
       "type": "color"
     }
   },
+  "Button": {
+    "Primary": {
+      "Default": {
+        "Background": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Background": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "{Neutral.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{Neutral.80}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.80}",
+          "type": "color"
+        }
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "{Neutral.10}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Secondary.400}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Secondary.400}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Background": {
+          "value": "{Neutral.30}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Secondary.300}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "button": {
     "sm": {
       "value": {
