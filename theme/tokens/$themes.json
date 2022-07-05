@@ -24,7 +24,8 @@
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
-      "themes / l2g": "disabled"
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -54,7 +55,8 @@
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
-      "themes / l2g": "disabled"
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -107,7 +109,8 @@
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
-      "themes / l2g": "disabled"
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -145,7 +148,8 @@
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
-      "themes / l2g": "disabled"
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -198,7 +202,8 @@
       "themes / vidyodan": "disabled",
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
-      "themes / l2g": "disabled"
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -251,7 +256,8 @@
       "themes / tetogames": "disabled",
       "themes / vidyodan": "enabled",
       "themes / edugun": "disabled",
-      "themes / l2g": "disabled"
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -304,7 +310,8 @@
       "themes / tetogames": "disabled",
       "themes / vidyodan": "disabled",
       "themes / edugun": "disabled",
-      "themes / l2g": "disabled"
+      "themes / l2g": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -357,7 +364,8 @@
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / l2g": "enabled"
+      "themes / l2g": "enabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -410,7 +418,8 @@
       "themes / sanovel": "disabled",
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / justapedin": "disabled"
     },
     "$figmaStyleReferences": {}
   }

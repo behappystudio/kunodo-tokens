@@ -1,0 +1,12 @@
+{
+  "fontFamilies": {
+    "primary": {
+      "value": "Work Sans",
+      "type": "typography"
+    },
+    "secondary": {
+      "value": "Work Sans",
+      "type": "typography"
+    }
+  }
+}
