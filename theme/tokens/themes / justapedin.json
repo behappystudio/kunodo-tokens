@@ -1,64 +1,4 @@
 {
-  "Purple": {
-    "50": {
-      "value": "#DEE0FD",
-      "type": "color"
-    },
-    "75": {
-      "value": "#BDC2FA",
-      "type": "color"
-    },
-    "100": {
-      "value": "#9BA3F8",
-      "type": "color"
-    },
-    "200": {
-      "value": "#7A84F5",
-      "type": "color"
-    },
-    "300": {
-      "value": "#5865F2",
-      "type": "color"
-    },
-    "400": {
-      "value": "#1B2DEE",
-      "type": "color"
-    },
-    "500": {
-      "value": "#0E1CB9",
-      "type": "color"
-    }
-  },
-  "Blue": {
-    "50": {
-      "value": "#D2ECFC",
-      "type": "color"
-    },
-    "75": {
-      "value": "#A4D9FA",
-      "type": "color"
-    },
-    "100": {
-      "value": "#77C6F7",
-      "type": "color"
-    },
-    "200": {
-      "value": "#4AB3F4",
-      "type": "color"
-    },
-    "300": {
-      "value": "#1DA1F2",
-      "type": "color"
-    },
-    "400": {
-      "value": "#0C83CC",
-      "type": "color"
-    },
-    "500": {
-      "value": "#096299",
-      "type": "color"
-    }
-  },
   "System": {
     "Default": {
       "White": {
@@ -101,36 +41,6 @@
       },
       "500": {
         "value": "$Neutral.900",
-        "type": "color"
-      }
-    },
-    "Secondary": {
-      "50": {
-        "value": "$Purple.50",
-        "type": "color"
-      },
-      "75": {
-        "value": "$Purple.75",
-        "type": "color"
-      },
-      "100": {
-        "value": "$Purple.100",
-        "type": "color"
-      },
-      "200": {
-        "value": "$Purple.200",
-        "type": "color"
-      },
-      "300": {
-        "value": "$Purple.300",
-        "type": "color"
-      },
-      "400": {
-        "value": "$Purple.400",
-        "type": "color"
-      },
-      "500": {
-        "value": "$Purple.500",
         "type": "color"
       }
     },
@@ -222,16 +132,6 @@
       "500": {
         "type": "color",
         "value": "$Yellow.500"
-      }
-    },
-    "Background": {
-      "Primary": {
-        "value": "linear-gradient(-45deg, $System.Secondary.300 0%, $System.Primary.300 100%)",
-        "type": "color"
-      },
-      "Secondary": {
-        "value": "linear-gradient(-45deg, $System.Secondary.50 0%, $System.Primary.50 100%)",
-        "type": "color"
       }
     }
   },
