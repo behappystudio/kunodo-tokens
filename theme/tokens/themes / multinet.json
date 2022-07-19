@@ -16,7 +16,7 @@
     },
     "Primary": {
       "50": {
-        "value": "{Green.300}",
+        "value": "$Green.50",
         "type": "color"
       },
       "75": {
@@ -76,7 +76,7 @@
     },
     "Success": {
       "50": {
-        "value": "{Green.300}",
+        "value": "$Green.50",
         "type": "color"
       },
       "75": {
@@ -151,71 +151,71 @@
       "type": "color"
     },
     "10": {
-      "value": "#eeeef9",
+      "value": "#f0f0f2",
       "type": "color"
     },
     "20": {
-      "value": "#dddcf2",
+      "value": "#e3e3e8",
       "type": "color"
     },
     "30": {
-      "value": "#cccbec",
+      "value": "#d7d6dd",
       "type": "color"
     },
     "40": {
-      "value": "#bbb9e6",
+      "value": "#cac9d2",
       "type": "color"
     },
     "50": {
-      "value": "#aaa8df",
+      "value": "#bdbdc8",
       "type": "color"
     },
     "60": {
-      "value": "#9996d9",
+      "value": "#b0b0bd",
       "type": "color"
     },
     "70": {
-      "value": "#8885d3",
+      "value": "#a4a3b2",
       "type": "color"
     },
     "80": {
-      "value": "#7873cd",
+      "value": "#9796a8",
       "type": "color"
     },
     "90": {
-      "value": "#6762c6",
+      "value": "#8a899d",
       "type": "color"
     },
     "100": {
-      "value": "#5650c0",
+      "value": "#7e7d92",
       "type": "color"
     },
     "200": {
-      "value": "#4842b6",
+      "value": "#717088",
       "type": "color"
     },
     "300": {
-      "value": "#413ba5",
+      "value": "#64637d",
       "type": "color"
     },
     "400": {
-      "value": "#3a3593",
+      "value": "#64637d",
       "type": "color"
     },
     "500": {
-      "value": "#332f82",
+      "value": "#585672",
       "type": "color"
     },
     "600": {
-      "value": "#2c2970",
+      "value": "#4b4968",
       "type": "color"
     },
     "700": {
-      "value": "#25225f",
+      "value": "#313052",
       "type": "color"
     },
     "800": {
-      "value": "#1e1c4d",
+      "value": "#252348",
       "type": "color"
     },
     "900": {
@@ -366,13 +366,13 @@
   "input": {
     "textbox": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$lg"
       },
       "type": "composition"
     },
     "numeric": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$lg"
       },
       "type": "composition"
     }
