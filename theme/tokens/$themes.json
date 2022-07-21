@@ -25,7 +25,8 @@
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
       "themes / l2g": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -56,7 +57,8 @@
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
       "themes / l2g": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -110,7 +112,8 @@
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
       "themes / l2g": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -149,7 +152,8 @@
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
       "themes / l2g": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -203,7 +207,8 @@
       "themes / sanovel": "disabled",
       "themes / edugun": "disabled",
       "themes / l2g": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -257,7 +262,8 @@
       "themes / vidyodan": "enabled",
       "themes / edugun": "disabled",
       "themes / l2g": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -311,7 +317,8 @@
       "themes / vidyodan": "disabled",
       "themes / edugun": "disabled",
       "themes / l2g": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -365,7 +372,8 @@
       "themes / tetogames": "disabled",
       "themes / vidyodan": "disabled",
       "themes / l2g": "enabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -419,7 +427,8 @@
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
       "themes / vidyodan": "disabled",
-      "themes / justapedin": "disabled"
+      "themes / justapedin": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -473,7 +482,8 @@
       "themes / sanovel": "disabled",
       "themes / shft": "disabled",
       "themes / tetogames": "disabled",
-      "themes / vidyodan": "disabled"
+      "themes / vidyodan": "disabled",
+      "themes / comodif": "disabled"
     },
     "$figmaStyleReferences": {}
   }
