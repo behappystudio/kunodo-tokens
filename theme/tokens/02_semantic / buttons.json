@@ -369,5 +369,25 @@
       "value": "{Text.Medium.400}",
       "type": "typography"
     }
+  },
+  "link": {
+    "sm": {
+      "value": {
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "itemSpacing": "6"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "itemSpacing": "8"
+      },
+      "type": "composition"
+    }
   }
 }
