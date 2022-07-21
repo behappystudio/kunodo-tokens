@@ -364,19 +364,19 @@
   "button": {
     "sm": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$lg"
       },
       "type": "composition"
     },
     "md": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$lg"
       },
       "type": "composition"
     },
     "lg": {
       "value": {
-        "borderRadius": "$xlg"
+        "borderRadius": "$lg"
       },
       "type": "composition"
     }
