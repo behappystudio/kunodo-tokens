@@ -137,12 +137,30 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Montserrat",
+      "value": "Segoe UI",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Montserrat",
+      "value": "Segoe UI",
       "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "300": {
+      "value": "Light",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "Black",
+      "type": "fontWeights"
     }
   },
   "Neutral": {
