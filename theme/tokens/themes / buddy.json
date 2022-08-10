@@ -365,7 +365,7 @@
     "Warning": {
       "50": {
         "type": "color",
-        "value": "{Blue.50}"
+        "value": "$Yellow.50"
       },
       "75": {
         "type": "color",
@@ -390,6 +390,12 @@
       "500": {
         "type": "color",
         "value": "{Blue.500}"
+      }
+    },
+    "Brand": {
+      "Background": {
+        "value": "linear-gradient(45deg, {Teal.50} 0%, $Blue.50 100%)",
+        "type": "color"
       }
     }
   },
