@@ -438,5 +438,44 @@
       "value": "#995400",
       "type": "color"
     }
+  },
+  "input": {
+    "textbox": {
+      "value": {
+        "horizontalPadding": "12",
+        "verticalPadding": "10",
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "verticalPadding": "10",
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    }
+  },
+  "button": {
+    "sm": {
+      "value": {
+        "horizontalPadding": "8",
+        "verticalPadding": "6",
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    }
   }
 }
