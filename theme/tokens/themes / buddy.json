@@ -109,31 +109,31 @@
   },
   "Blue": {
     "50": {
-      "value": "#E7EAF9",
+      "value": "#ccd5e6",
       "type": "color"
     },
     "75": {
-      "value": "#859CE0",
+      "value": "#99abcd",
       "type": "color"
     },
     "100": {
-      "value": "#5574D3",
+      "value": "#6682b4",
       "type": "color"
     },
     "200": {
-      "value": "#3C60CD",
+      "value": "#33589b",
       "type": "color"
     },
     "300": {
-      "value": "#0D3ABF",
+      "value": "#002e82",
       "type": "color"
     },
     "400": {
-      "value": "#0A2E99",
+      "value": "#002568",
       "type": "color"
     },
     "500": {
-      "value": "#082372",
+      "value": "#001c4e",
       "type": "color"
     }
   },
@@ -334,7 +334,7 @@
     },
     "Success": {
       "50": {
-        "value": "{Green.300}",
+        "value": "$Green.50",
         "type": "color"
       },
       "75": {
@@ -369,27 +369,27 @@
       },
       "75": {
         "type": "color",
-        "value": "{Blue.75}"
+        "value": "$Yellow.75"
       },
       "100": {
         "type": "color",
-        "value": "{Blue.100}"
+        "value": "$Yellow.100"
       },
       "200": {
         "type": "color",
-        "value": "{Blue.200}"
+        "value": "$Yellow.200"
       },
       "300": {
         "type": "color",
-        "value": "{Blue.300}"
+        "value": "$Yellow.300"
       },
       "400": {
         "type": "color",
-        "value": "{Blue.400}"
+        "value": "$Yellow.400"
       },
       "500": {
         "type": "color",
-        "value": "{Blue.500}"
+        "value": "$Yellow.500"
       }
     },
     "Brand": {
@@ -407,6 +407,36 @@
     "secondary": {
       "value": "Lexend",
       "type": "fontFamilies"
+    }
+  },
+  "Yellow": {
+    "50": {
+      "value": "#ffe8cc",
+      "type": "color"
+    },
+    "75": {
+      "value": "#ffd199",
+      "type": "color"
+    },
+    "100": {
+      "value": "#ffba66",
+      "type": "color"
+    },
+    "200": {
+      "value": "#ffa333",
+      "type": "color"
+    },
+    "300": {
+      "value": "#ff8c00",
+      "type": "color"
+    },
+    "400": {
+      "value": "#cc7000",
+      "type": "color"
+    },
+    "500": {
+      "value": "#995400",
+      "type": "color"
     }
   }
 }
