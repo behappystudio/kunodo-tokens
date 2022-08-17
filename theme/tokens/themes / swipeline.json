@@ -433,7 +433,7 @@
     "Primary": {
       "Default": {
         "Background": {
-          "value": "linear-gradient(45deg, $System.Primary.300 0%, $System.Primary.500 100%)",
+          "value": "linear-gradient(45deg, $System.Primary.300 0%, $System.Primary.400 100%)",
           "type": "color"
         },
         "Text": {
@@ -673,19 +673,19 @@
       "value": {
         "horizontalPadding": "8",
         "verticalPadding": "6",
-        "borderRadius": "$md"
+        "borderRadius": "$full"
       },
       "type": "composition"
     },
     "md": {
       "value": {
-        "borderRadius": "$md"
+        "borderRadius": "$full"
       },
       "type": "composition"
     },
     "lg": {
       "value": {
-        "borderRadius": "$md"
+        "borderRadius": "$full"
       },
       "type": "composition"
     }
