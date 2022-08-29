@@ -1,0 +1,150 @@
+{
+  "Neutral": {
+    "0": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "10": {
+      "value": "#f3f3f5",
+      "type": "color"
+    },
+    "20": {
+      "value": "#e5e5e9",
+      "type": "color"
+    },
+    "30": {
+      "value": "#d8d7dd",
+      "type": "color"
+    },
+    "40": {
+      "value": "#cac9d1",
+      "type": "color"
+    },
+    "50": {
+      "value": "#bcbbc5",
+      "type": "color"
+    },
+    "60": {
+      "value": "#aeadb8",
+      "type": "color"
+    },
+    "70": {
+      "value": "#a19fac",
+      "type": "color"
+    },
+    "80": {
+      "value": "#9391a0",
+      "type": "color"
+    },
+    "90": {
+      "value": "#858394",
+      "type": "color"
+    },
+    "100": {
+      "value": "#777488",
+      "type": "color"
+    },
+    "200": {
+      "value": "#69667c",
+      "type": "color"
+    },
+    "300": {
+      "value": "#5c5870",
+      "type": "color"
+    },
+    "400": {
+      "value": "#4e4a64",
+      "type": "color"
+    },
+    "500": {
+      "value": "#403c58",
+      "type": "color"
+    },
+    "600": {
+      "value": "#322e4c",
+      "type": "color"
+    },
+    "700": {
+      "value": "#252040",
+      "type": "color"
+    },
+    "800": {
+      "value": "#171234",
+      "type": "color"
+    },
+    "900": {
+      "value": "#090428",
+      "type": "color"
+    }
+  },
+  "Teal": {
+    "50": {
+      "value": "#e1fdff",
+      "type": "color"
+    },
+    "75": {
+      "value": "#a9fafe",
+      "type": "color"
+    },
+    "100": {
+      "value": "#71f7fd",
+      "type": "color"
+    },
+    "200": {
+      "value": "#39f4fd",
+      "type": "color"
+    },
+    "300": {
+      "value": "#01f1fc",
+      "type": "color"
+    },
+    "400": {
+      "value": "#01bcc5",
+      "type": "color"
+    },
+    "500": {
+      "value": "#01878d",
+      "type": "color"
+    }
+  },
+  "Pink": {
+    "50": {
+      "value": "#fde1ef",
+      "type": "color"
+    },
+    "75": {
+      "value": "#f9abd2",
+      "type": "color"
+    },
+    "100": {
+      "value": "#f574b6",
+      "type": "color"
+    },
+    "200": {
+      "value": "#f13e99",
+      "type": "color"
+    },
+    "300": {
+      "value": "#ed077c",
+      "type": "color"
+    },
+    "400": {
+      "value": "#b90561",
+      "type": "color"
+    },
+    "500": {
+      "value": "#850445",
+      "type": "color"
+    }
+  },
+  "fontFamilies": {
+    "primary": {
+      "value": "Satoshi",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Satoshi",
+      "type": "fontFamilies"
+    }
+  }
+}
