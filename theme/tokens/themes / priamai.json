@@ -169,6 +169,218 @@
       }
     }
   },
+  "Button": {
+    "Primary": {
+      "Default": {
+        "Background": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Background": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$System.Default.Black",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        }
+      },
+      "Disabled": {
+        "Background": {
+          "value": "{Neutral.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{Neutral.80}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.80}",
+          "type": "color"
+        }
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "Background": {
+          "value": "{System.Primary.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$System.Primary.500",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$System.Primary.500",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "{System.Primary.75}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$System.Primary.500",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$System.Primary.500",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Background": {
+          "value": "{System.Primary.50}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "$System.Primary.500",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$System.Primary.500",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        }
+      }
+    },
+    "Outline": {
+      "Default": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{Neutral.20}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "{Neutral.20}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{Neutral.40}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Background": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.Black}",
+          "type": "color"
+        },
+        "Border": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        }
+      }
+    },
+    "Ghost": {
+      "Default": {
+        "Border": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Border": {
+          "value": "{Neutral.40}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{Neutral.20}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.20}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Border": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Text": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Default.White}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "Neutral": {
     "0": {
       "value": "#ffffff",
