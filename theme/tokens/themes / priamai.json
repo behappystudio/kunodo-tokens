@@ -528,5 +528,27 @@
       "value": "Satoshi",
       "type": "fontFamilies"
     }
+  },
+  "button": {
+    "sm": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "borderRadius": "$md",
+        "verticalPadding": "12",
+        "horizontalPadding": "24"
+      },
+      "type": "composition"
+    }
   }
 }
