@@ -177,11 +177,11 @@
           "type": "color"
         },
         "Text": {
-          "value": "$System.Default.White",
+          "value": "$System.Default.Black",
           "type": "color"
         },
         "Icon": {
-          "value": "$System.Default.White",
+          "value": "$System.Default.Black",
           "type": "color"
         }
       },
@@ -191,11 +191,11 @@
           "type": "color"
         },
         "Text": {
-          "value": "$System.Default.White",
+          "value": "$System.Default.Black",
           "type": "color"
         },
         "Icon": {
-          "value": "$System.Default.White",
+          "value": "$System.Default.Black",
           "type": "color"
         }
       },
@@ -205,11 +205,11 @@
           "type": "color"
         },
         "Text": {
-          "value": "$System.Default.White",
+          "value": "$System.Default.Black",
           "type": "color"
         },
         "Icon": {
-          "value": "$System.Default.White",
+          "value": "$System.Default.Black",
           "type": "color"
         },
         "Border": {
@@ -339,7 +339,7 @@
     "Ghost": {
       "Default": {
         "Border": {
-          "value": "{System.Default.White}",
+          "value": "$System.Default.White",
           "type": "color"
         },
         "Text": {
