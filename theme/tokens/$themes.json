@@ -485,5 +485,47 @@
       "themes / 51digital": "disabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "a757c40809a45d686bce00743832b429721b82a5",
+    "name": "51digital",
+    "selectedTokenSets": {
+      "01_kunodo / colors": "source",
+      "01_kunodo / radius": "source",
+      "01_kunodo / shadows": "source",
+      "01_kunodo / sizing": "disabled",
+      "01_kunodo / typography": "source",
+      "02_semantic / avatar": "enabled",
+      "02_semantic / buttons": "enabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / dialog": "enabled",
+      "02_semantic / flag": "enabled",
+      "02_semantic / inputs": "enabled",
+      "02_semantic / menus": "enabled",
+      "02_semantic / pills-badge": "enabled",
+      "02_semantic / pills": "disabled",
+      "02_semantic / table": "enabled",
+      "themes / adverport": "disabled",
+      "themes / behappy": "disabled",
+      "themes / branchsight": "disabled",
+      "themes / buddy": "disabled",
+      "themes / comodif": "disabled",
+      "themes / coyotiv": "disabled",
+      "themes / dark": "disabled",
+      "themes / edugun": "disabled",
+      "themes / frenzbulliez": "disabled",
+      "themes / justapedin": "disabled",
+      "themes / l2g": "disabled",
+      "themes / mola": "disabled",
+      "themes / multinet": "disabled",
+      "themes / odeal": "disabled",
+      "themes / sanovel": "disabled",
+      "themes / shft": "disabled",
+      "themes / tetogames": "disabled",
+      "themes / vidyodan": "disabled",
+      "themes / priamai": "disabled",
+      "themes / 51digital": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
