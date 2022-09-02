@@ -109,31 +109,31 @@
   },
   "Blue": {
     "50": {
-      "value": "#ccd5e6",
+      "value": "#E7EAF9",
       "type": "color"
     },
     "75": {
-      "value": "#99abcd",
+      "value": "#859CE0",
       "type": "color"
     },
     "100": {
-      "value": "#6682b4",
+      "value": "#5574D3",
       "type": "color"
     },
     "200": {
-      "value": "#33589b",
+      "value": "#3C60CD",
       "type": "color"
     },
     "300": {
-      "value": "#002e82",
+      "value": "#0D3ABF",
       "type": "color"
     },
     "400": {
-      "value": "#002568",
+      "value": "#0A2E99",
       "type": "color"
     },
     "500": {
-      "value": "#001c4e",
+      "value": "#082372",
       "type": "color"
     }
   },
@@ -334,7 +334,7 @@
     },
     "Success": {
       "50": {
-        "value": "$Green.50",
+        "value": "{Green.300}",
         "type": "color"
       },
       "75": {
@@ -365,37 +365,31 @@
     "Warning": {
       "50": {
         "type": "color",
-        "value": "$Yellow.50"
+        "value": "{Blue.50}"
       },
       "75": {
         "type": "color",
-        "value": "$Yellow.75"
+        "value": "{Blue.75}"
       },
       "100": {
         "type": "color",
-        "value": "$Yellow.100"
+        "value": "{Blue.100}"
       },
       "200": {
         "type": "color",
-        "value": "$Yellow.200"
+        "value": "{Blue.200}"
       },
       "300": {
         "type": "color",
-        "value": "$Yellow.300"
+        "value": "{Blue.300}"
       },
       "400": {
         "type": "color",
-        "value": "$Yellow.400"
+        "value": "{Blue.400}"
       },
       "500": {
         "type": "color",
-        "value": "$Yellow.500"
-      }
-    },
-    "Brand": {
-      "Background": {
-        "value": "linear-gradient(45deg, {Teal.50} 0%, $Blue.50 100%)",
-        "type": "color"
+        "value": "{Blue.500}"
       }
     }
   },
@@ -407,75 +401,6 @@
     "secondary": {
       "value": "Lexend",
       "type": "fontFamilies"
-    }
-  },
-  "Yellow": {
-    "50": {
-      "value": "#ffe8cc",
-      "type": "color"
-    },
-    "75": {
-      "value": "#ffd199",
-      "type": "color"
-    },
-    "100": {
-      "value": "#ffba66",
-      "type": "color"
-    },
-    "200": {
-      "value": "#ffa333",
-      "type": "color"
-    },
-    "300": {
-      "value": "#ff8c00",
-      "type": "color"
-    },
-    "400": {
-      "value": "#cc7000",
-      "type": "color"
-    },
-    "500": {
-      "value": "#995400",
-      "type": "color"
-    }
-  },
-  "input": {
-    "textbox": {
-      "value": {
-        "horizontalPadding": "12",
-        "verticalPadding": "10",
-        "borderRadius": "$md"
-      },
-      "type": "composition"
-    },
-    "numeric": {
-      "value": {
-        "verticalPadding": "10",
-        "borderRadius": "$md"
-      },
-      "type": "composition"
-    }
-  },
-  "button": {
-    "sm": {
-      "value": {
-        "horizontalPadding": "8",
-        "verticalPadding": "6",
-        "borderRadius": "$md"
-      },
-      "type": "composition"
-    },
-    "md": {
-      "value": {
-        "borderRadius": "$md"
-      },
-      "type": "composition"
-    },
-    "lg": {
-      "value": {
-        "borderRadius": "$md"
-      },
-      "type": "composition"
     }
   }
 }

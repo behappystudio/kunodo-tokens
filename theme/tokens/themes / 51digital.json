@@ -12,9 +12,43 @@
       "Muted": {
         "value": "{Neutral.90}",
         "type": "color"
+      },
+      "Transparent": {
+        "value": "rgba(255,255,255, 0)",
+        "type": "color"
       }
     },
     "Primary": {
+      "50": {
+        "value": "$Yellow.50",
+        "type": "color"
+      },
+      "75": {
+        "value": "$Yellow.75",
+        "type": "color"
+      },
+      "100": {
+        "value": "$Yellow.100",
+        "type": "color"
+      },
+      "200": {
+        "value": "$Yellow.200",
+        "type": "color"
+      },
+      "300": {
+        "value": "$Yellow.300",
+        "type": "color"
+      },
+      "400": {
+        "value": "$Yellow.400",
+        "type": "color"
+      },
+      "500": {
+        "value": "$Yellow.500",
+        "type": "color"
+      }
+    },
+    "Secondary": {
       "50": {
         "value": "$Pink.50",
         "type": "color"
@@ -46,110 +80,123 @@
     },
     "Error": {
       "50": {
-        "value": "{Red.50}",
+        "value": "$Red.50",
         "type": "color"
       },
       "75": {
-        "value": "{Red.75}",
+        "value": "$Red.75",
         "type": "color"
       },
       "100": {
-        "value": "{Red.100}",
+        "value": "$Red.100",
         "type": "color"
       },
       "200": {
-        "value": "{Red.200}",
+        "value": "$Red.200",
         "type": "color"
       },
       "300": {
-        "value": "{Red.300}",
+        "value": "$Red.300",
         "type": "color"
       },
       "400": {
-        "value": "{Red.400}",
+        "value": "$Red.400",
         "type": "color"
       },
       "500": {
-        "value": "{Red.500}",
+        "value": "$Red.500",
         "type": "color"
       }
     },
     "Success": {
       "50": {
-        "value": "{Green.300}",
+        "value": "$Green.50",
         "type": "color"
       },
       "75": {
-        "value": "{Green.75}",
+        "value": "$Green.75",
         "type": "color"
       },
       "100": {
-        "value": "{Green.100}",
+        "value": "$Green.100",
         "type": "color"
       },
       "200": {
-        "value": "{Green.200}",
+        "value": "$Green.200",
         "type": "color"
       },
       "300": {
-        "value": "{Green.300}",
+        "value": "$Green.300",
         "type": "color"
       },
       "400": {
-        "value": "{Green.400}",
+        "value": "$Green.400",
         "type": "color"
       },
       "500": {
-        "value": "{Green.500}",
+        "value": "$Green.500",
         "type": "color"
       }
     },
     "Warning": {
       "50": {
-        "type": "color",
-        "value": "{Blue.50}"
+        "value": "$Yellow.50",
+        "type": "color"
       },
       "75": {
-        "type": "color",
-        "value": "{Blue.75}"
+        "value": "$Yellow.75",
+        "type": "color"
       },
       "100": {
-        "type": "color",
-        "value": "{Blue.100}"
+        "value": "$Yellow.100",
+        "type": "color"
       },
       "200": {
-        "type": "color",
-        "value": "{Blue.200}"
+        "value": "$Yellow.200",
+        "type": "color"
       },
       "300": {
-        "type": "color",
-        "value": "{Blue.300}"
+        "value": "$Yellow.300",
+        "type": "color"
       },
       "400": {
-        "type": "color",
-        "value": "{Blue.400}"
+        "value": "$Yellow.400",
+        "type": "color"
       },
       "500": {
-        "type": "color",
-        "value": "{Blue.500}"
+        "value": "$Yellow.500",
+        "type": "color"
       }
     }
   },
   "fontFamilies": {
     "primary": {
-      "value": "Chillax",
+      "value": "Campton",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Chillax",
+      "value": "Campton",
       "type": "fontFamilies"
     }
   },
-  "pill": {
-    "value": {
-      "verticalPadding": "12",
-      "horizontalPadding": "24"
+  "button": {
+    "sm": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
     },
-    "type": "composition"
+    "md": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    }
   }
 }

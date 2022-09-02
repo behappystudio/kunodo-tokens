@@ -584,15 +584,13 @@
   "input": {
     "textbox": {
       "value": {
-        "borderRadius": "$none",
-        "verticalPadding": "20",
-        "horizontalPadding": "30"
+        "borderRadius": "$xlg"
       },
       "type": "composition"
     },
     "numeric": {
       "value": {
-        "borderRadius": "$none"
+        "borderRadius": "$xlg"
       },
       "type": "composition"
     }
