@@ -24,7 +24,7 @@
         "type": "color"
       },
       "75": {
-        "value": "$Blue.75",
+        "value": "{Blue.50}",
         "type": "color"
       },
       "100": {
@@ -54,7 +54,7 @@
         "type": "color"
       },
       "75": {
-        "value": "$Blue.75",
+        "value": "{Blue.50}",
         "type": "color"
       },
       "100": {

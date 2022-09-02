@@ -20,7 +20,7 @@
         "type": "color"
       },
       "75": {
-        "value": "$Blue.75",
+        "value": "{Blue.50}",
         "type": "color"
       },
       "100": {
@@ -111,7 +111,7 @@
       },
       "75": {
         "type": "color",
-        "value": "{Blue.75}"
+        "value": "{Blue.50}"
       },
       "100": {
         "type": "color",
