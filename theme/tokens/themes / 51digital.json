@@ -461,11 +461,11 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Campton",
+      "value": "Gilroy",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Campton",
+      "value": "Gilroy",
       "type": "fontFamilies"
     }
   },
