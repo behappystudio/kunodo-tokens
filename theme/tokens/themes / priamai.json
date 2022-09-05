@@ -1,39 +1,39 @@
 {
   "Neutral": {
     "0": {
-      "value": "#ffffff",
+      "value": "#090428",
       "type": "color"
     },
     "10": {
-      "value": "#f3f3f5",
+      "value": "#171234",
       "type": "color"
     },
     "20": {
-      "value": "#e5e5e9",
+      "value": "#252040",
       "type": "color"
     },
     "30": {
-      "value": "#d8d7dd",
+      "value": "#322e4c",
       "type": "color"
     },
     "40": {
-      "value": "#cac9d1",
+      "value": "#403c58",
       "type": "color"
     },
     "50": {
-      "value": "#bcbbc5",
+      "value": "#4e4a64",
       "type": "color"
     },
     "60": {
-      "value": "#aeadb8",
+      "value": "#5c5870",
       "type": "color"
     },
     "70": {
-      "value": "#a19fac",
+      "value": "#69667c",
       "type": "color"
     },
     "80": {
-      "value": "#9391a0",
+      "value": "#777488",
       "type": "color"
     },
     "90": {
@@ -41,50 +41,50 @@
       "type": "color"
     },
     "100": {
-      "value": "#777488",
+      "value": "#9391a0",
       "type": "color"
     },
     "200": {
-      "value": "#69667c",
+      "value": "#a19fac",
       "type": "color"
     },
     "300": {
-      "value": "#5c5870",
+      "value": "#aeadb8",
       "type": "color"
     },
     "400": {
-      "value": "#4e4a64",
+      "value": "#bcbbc5",
       "type": "color"
     },
     "500": {
-      "value": "#403c58",
+      "value": "#cac9d1",
       "type": "color"
     },
     "600": {
-      "value": "#322e4c",
+      "value": "#d8d7dd",
       "type": "color"
     },
     "700": {
-      "value": "#252040",
+      "value": "#e5e5e9",
       "type": "color"
     },
     "800": {
-      "value": "#171234",
+      "value": "#f3f3f5",
       "type": "color"
     },
     "900": {
-      "value": "#090428",
+      "value": "#ffffff",
       "type": "color"
     }
   },
   "System": {
     "Default": {
       "White": {
-        "value": "{Neutral.0}",
+        "value": "$Neutral.900",
         "type": "color"
       },
       "Black": {
-        "value": "{Neutral.900}",
+        "value": "$Neutral.0",
         "type": "color"
       },
       "Muted": {
@@ -529,6 +529,72 @@
       }
     }
   },
+  "Link": {
+    "Primary": {
+      "Default": {
+        "Text": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Text": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Text": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        }
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "Text": {
+          "value": "{Neutral.700}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.700}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Text": {
+          "value": "$Neutral.800",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.800",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Text": {
+          "value": "{Neutral.900}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.900}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "button": {
     "sm": {
       "value": {
@@ -545,6 +611,42 @@
     "lg": {
       "value": {
         "borderRadius": "$md"
+      },
+      "type": "composition"
+    }
+  },
+  "input": {
+    "textbox": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    }
+  },
+  "menu": {
+    "parent": {
+      "value": {
+        "horizontalPadding": "20",
+        "verticalPadding": "12",
+        "spacing": "6",
+        "borderRadius": "$none",
+        "fill": "$System.Default.Transparent"
+      },
+      "type": "composition"
+    },
+    "child": {
+      "value": {
+        "paddingLeft": "40",
+        "verticalPadding": "12",
+        "spacing": "6",
+        "borderRadius": "$none",
+        "paddingRight": "20"
       },
       "type": "composition"
     }
