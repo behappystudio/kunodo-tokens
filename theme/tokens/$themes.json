@@ -29,7 +29,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -64,7 +65,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -107,7 +109,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -150,7 +153,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -193,7 +197,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -236,7 +241,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -279,7 +285,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -322,7 +329,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -365,7 +373,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -408,7 +417,8 @@
       "themes / comodif": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -451,7 +461,8 @@
       "themes / vidyodan": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -494,7 +505,8 @@
       "themes / vidyodan": "disabled",
       "themes / priamai": "enabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -537,7 +549,8 @@
       "themes / vidyodan": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "enabled",
-      "themes / swipeline": "disabled"
+      "themes / swipeline": "disabled",
+      "themes / digistage": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -580,7 +593,52 @@
       "themes / vidyodan": "disabled",
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
-      "themes / swipeline": "enabled"
+      "themes / swipeline": "enabled",
+      "themes / digistage": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "39b5f45708238f0449ea54ecf06814e500ddb0fd",
+    "name": "digistage",
+    "selectedTokenSets": {
+      "01_kunodo / colors": "source",
+      "01_kunodo / radius": "source",
+      "01_kunodo / shadows": "source",
+      "01_kunodo / sizing": "disabled",
+      "01_kunodo / typography": "source",
+      "02_semantic / avatar": "enabled",
+      "02_semantic / buttons": "enabled",
+      "02_semantic / colors": "enabled",
+      "02_semantic / dialog": "enabled",
+      "02_semantic / flag": "enabled",
+      "02_semantic / inputs": "enabled",
+      "02_semantic / menus": "enabled",
+      "02_semantic / pills-badge": "enabled",
+      "02_semantic / pills": "disabled",
+      "02_semantic / table": "enabled",
+      "themes / adverport": "disabled",
+      "themes / behappy": "disabled",
+      "themes / branchsight": "disabled",
+      "themes / buddy": "disabled",
+      "themes / comodif": "disabled",
+      "themes / coyotiv": "disabled",
+      "themes / dark": "disabled",
+      "themes / edugun": "disabled",
+      "themes / frenzbulliez": "disabled",
+      "themes / justapedin": "disabled",
+      "themes / l2g": "disabled",
+      "themes / mola": "disabled",
+      "themes / multinet": "disabled",
+      "themes / odeal": "disabled",
+      "themes / sanovel": "disabled",
+      "themes / shft": "disabled",
+      "themes / tetogames": "disabled",
+      "themes / vidyodan": "disabled",
+      "themes / priamai": "disabled",
+      "themes / 51digital": "disabled",
+      "themes / swipeline": "disabled",
+      "themes / digistage": "enabled"
     },
     "$figmaStyleReferences": {}
   }

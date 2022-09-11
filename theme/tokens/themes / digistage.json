@@ -1,0 +1,18 @@
+{
+  "fontFamilies": {
+    "primary": {
+      "value": "Nunito",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "500": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "ExtraBold",
+      "type": "fontWeights"
+    }
+  }
+}
