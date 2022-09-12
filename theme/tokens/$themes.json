@@ -30,7 +30,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -66,7 +67,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -110,7 +112,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -154,7 +157,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -198,7 +202,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -242,7 +247,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -286,7 +292,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -330,7 +337,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -374,7 +382,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -418,7 +427,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -462,7 +472,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -506,7 +517,8 @@
       "themes / priamai": "enabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -550,7 +562,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "enabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -594,7 +607,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "enabled",
-      "themes / digistage": "disabled"
+      "themes / digistage": "disabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -638,7 +652,8 @@
       "themes / priamai": "disabled",
       "themes / 51digital": "disabled",
       "themes / swipeline": "disabled",
-      "themes / digistage": "enabled"
+      "themes / digistage": "enabled",
+      "themes / coniun": "disabled"
     },
     "$figmaStyleReferences": {}
   }
