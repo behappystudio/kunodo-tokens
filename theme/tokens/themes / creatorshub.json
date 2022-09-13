@@ -266,5 +266,35 @@
       "value": "Cabinet Grotesk",
       "type": "fontFamilies"
     }
+  },
+  "Red": {
+    "50": {
+      "value": "#FFE5E4",
+      "type": "color"
+    },
+    "75": {
+      "value": "#FFC7C5",
+      "type": "color"
+    },
+    "100": {
+      "value": "#FFA5A1",
+      "type": "color"
+    },
+    "200": {
+      "value": "#FF7972",
+      "type": "color"
+    },
+    "300": {
+      "value": "#FF2E00",
+      "type": "color"
+    },
+    "400": {
+      "value": "#E42900",
+      "type": "color"
+    },
+    "500": {
+      "value": "#C52300",
+      "type": "color"
+    }
   }
 }
