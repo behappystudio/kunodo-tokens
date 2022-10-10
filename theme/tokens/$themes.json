@@ -532,7 +532,11 @@
       "themes / coniun": "disabled",
       "themes / creatorshub": "disabled"
     },
-    "$figmaStyleReferences": {}
+    "$figmaStyleReferences": {
+      "label.sm": "S:7be93a5ef22c9b582badba341fe6768f1ee81445,",
+      "label.md": "S:0146457d982e7a9c31aa85f1af82ef4f70d720e8,",
+      "label.lg": "S:18105ef92e5675b51b3e5e989715acaded6e2114,"
+    }
   },
   {
     "id": "a757c40809a45d686bce00743832b429721b82a5",
