@@ -293,16 +293,6 @@
       }
     }
   },
-  "fontFamilies": {
-    "secondary": {
-      "value": "Gilroy",
-      "type": "fontFamilies"
-    },
-    "primary": {
-      "value": "Gilroy",
-      "type": "fontFamilies"
-    }
-  },
   "Graditent": {
     "Full": {
       "Blue": {
@@ -317,6 +307,49 @@
         "value": "linear-gradient(90deg, #eea156 0%, #ccbc5f 100%)",
         "type": "color"
       }
+    }
+  },
+  "fontFamilies": {
+    "secondary": {
+      "value": "Gilroy",
+      "type": "fontFamilies"
+    },
+    "primary": {
+      "value": "Gilroy",
+      "type": "fontFamilies"
+    }
+  },
+  "button": {
+    "sm": {
+      "value": {
+        "verticalPadding": "6",
+        "horizontalPadding": "8",
+        "spacing": "6",
+        "borderRadius": "$sm",
+        "typography": "$Text.XSmall.400",
+        "boxShadow": "$none"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "verticalPadding": "8",
+        "horizontalPadding": "12",
+        "spacing": "8",
+        "borderRadius": "$sm",
+        "typography": "$Text.Small.400"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "verticalPadding": "8",
+        "horizontalPadding": "16",
+        "spacing": "8",
+        "borderRadius": "$sm",
+        "typography": "$Text.Medium.400"
+      },
+      "type": "composition"
     }
   }
 }
