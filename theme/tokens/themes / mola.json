@@ -325,7 +325,7 @@
         "verticalPadding": "6",
         "horizontalPadding": "8",
         "spacing": "6",
-        "borderRadius": "$sm",
+        "borderRadius": "$full",
         "typography": "$Text.XSmall.400",
         "boxShadow": "$none"
       },
@@ -336,7 +336,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "12",
         "spacing": "8",
-        "borderRadius": "$sm",
+        "borderRadius": "$full",
         "typography": "$Text.Small.400"
       },
       "type": "composition"
@@ -346,7 +346,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "16",
         "spacing": "8",
-        "borderRadius": "$sm",
+        "borderRadius": "$full",
         "typography": "$Text.Medium.400"
       },
       "type": "composition"
