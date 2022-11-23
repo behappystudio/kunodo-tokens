@@ -579,11 +579,11 @@
       },
       "Hover": {
         "Text": {
-          "value": "{Neutral.10}",
+          "value": "$Neutral.800",
           "type": "color"
         },
         "Icon": {
-          "value": "{Neutral.10}",
+          "value": "$Neutral.800",
           "type": "color"
         }
       },
