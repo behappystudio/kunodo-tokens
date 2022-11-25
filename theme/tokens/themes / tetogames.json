@@ -319,6 +319,10 @@
     "primary": {
       "value": "Poppins",
       "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Poppins",
+      "type": "fontFamilies"
     }
   },
   "Button": {
@@ -606,11 +610,11 @@
         "type": "color"
       },
       "Text": {
-        "value": "{System.Default.Muted}",
+        "value": "$Neutral.700",
         "type": "color"
       },
       "Icon": {
-        "value": "{System.Default.Muted}",
+        "value": "$Neutral.700",
         "type": "color"
       },
       "Border": {
@@ -799,14 +803,71 @@
       }
     }
   },
-  "Card": {
-    "Background": {
-      "value": "{System.Default.White}",
-      "type": "color"
+  "button": {
+    "sm": {
+      "value": {
+        "verticalPadding": "6",
+        "horizontalPadding": "8",
+        "spacing": "6",
+        "borderRadius": "$xlg",
+        "typography": "$Text.XSmall.400",
+        "boxShadow": "$none"
+      },
+      "type": "composition"
     },
-    "Border": {
-      "value": "{Neutral.20}",
-      "type": "color"
+    "md": {
+      "value": {
+        "verticalPadding": "8",
+        "horizontalPadding": "12",
+        "spacing": "8",
+        "borderRadius": "$xlg",
+        "typography": "$Text.Small.400"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "verticalPadding": "8",
+        "horizontalPadding": "16",
+        "spacing": "8",
+        "borderRadius": "$xlg",
+        "typography": "$Text.Medium.400"
+      },
+      "type": "composition"
+    }
+  },
+  "label": {
+    "sm": {
+      "value": "{Text.XSmall.400}",
+      "type": "typography"
+    },
+    "md": {
+      "value": "{Text.Small.400}",
+      "type": "typography"
+    },
+    "lg": {
+      "value": "{Text.Medium.400}",
+      "type": "typography"
+    }
+  },
+  "link": {
+    "sm": {
+      "value": {
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "itemSpacing": "6"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "itemSpacing": "8"
+      },
+      "type": "composition"
     }
   },
   "Neutral": {
