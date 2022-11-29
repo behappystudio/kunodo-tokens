@@ -687,6 +687,27 @@
       }
     }
   },
+  "menu": {
+    "parent": {
+      "value": {
+        "horizontalPadding": "20",
+        "verticalPadding": "14",
+        "spacing": "6",
+        "borderRadius": "$none"
+      },
+      "type": "composition"
+    },
+    "child": {
+      "value": {
+        "paddingLeft": "40",
+        "verticalPadding": "14",
+        "spacing": "6",
+        "borderRadius": "$none",
+        "paddingRight": "20"
+      },
+      "type": "composition"
+    }
+  },
   "Menu": {
     "Default": {
       "Background": {
