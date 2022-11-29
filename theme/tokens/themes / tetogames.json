@@ -836,6 +836,25 @@
       "type": "composition"
     }
   },
+  "input": {
+    "textbox": {
+      "value": {
+        "horizontalPadding": "12",
+        "verticalPadding": "8",
+        "borderRadius": "$xlg",
+        "spacing": "10"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "verticalPadding": "8",
+        "borderRadius": "$xlg",
+        "spacing": "0"
+      },
+      "type": "composition"
+    }
+  },
   "label": {
     "sm": {
       "value": "{Text.XSmall.400}",
