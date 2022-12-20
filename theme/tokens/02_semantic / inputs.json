@@ -19,5 +19,14 @@
       },
       "type": "composition"
     }
+  },
+  "form": {
+    "sm": {
+      "value": {
+        "height": "70",
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    }
   }
 }
