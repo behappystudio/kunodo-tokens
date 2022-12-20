@@ -5,7 +5,8 @@
         "horizontalPadding": "12",
         "verticalPadding": "8",
         "borderRadius": "$sm",
-        "spacing": "10"
+        "spacing": "10",
+        "height": "36"
       },
       "type": "composition"
     },
@@ -13,7 +14,8 @@
       "value": {
         "verticalPadding": "8",
         "borderRadius": "$sm",
-        "spacing": "0"
+        "spacing": "0",
+        "height": "36"
       },
       "type": "composition"
     }
