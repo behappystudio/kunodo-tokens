@@ -1,0 +1,13 @@
+{
+  "tab": {
+    "value": {
+      "horizontalPadding": "20",
+      "verticalPadding": "8",
+      "spacing": "6",
+      "borderRadius": "$none",
+      "borderWidthBottom": "1",
+      "borderWidth": "0"
+    },
+    "type": "composition"
+  }
+}
