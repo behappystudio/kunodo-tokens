@@ -1,5 +1,5 @@
 {
-  "Gradient": {
+  "0deg": {
     "Warning": {
       "100": {
         "value": "linear-gradient(0deg, $Yellow.100 100%, $Yellow.50 50%, $System.Default.White 0%)",
@@ -25,6 +25,20 @@
       },
       "300": {
         "value": "linear-gradient(0deg, $Red.200 100%, $Red.50 50%, $System.Default.White 0%)",
+        "type": "color"
+      }
+    },
+    "Success": {
+      "100": {
+        "value": "linear-gradient(0deg, $Green.100 100%, $Green.50 50%, $System.Default.White 0%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "linear-gradient(0deg, $Green.200 100%, $Green.50 50%, $System.Default.White 0%)",
+        "type": "color"
+      },
+      "300": {
+        "value": "linear-gradient(0deg, $Green.200 100%, $Green.50 50%, $System.Default.White 0%)",
         "type": "color"
       }
     }
