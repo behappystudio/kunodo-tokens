@@ -924,7 +924,7 @@
       "themes / coniun": "disabled",
       "themes / creatorshub": "disabled",
       "02_semantic / tab": "enabled",
-      "02_semantic / gradient": "disabled"
+      "02_semantic / gradient": "enabled"
     },
     "$figmaStyleReferences": {}
   }

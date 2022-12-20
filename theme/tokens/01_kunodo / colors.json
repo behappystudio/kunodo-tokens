@@ -259,31 +259,31 @@
   },
   "Yellow": {
     "50": {
-      "value": "#FFFAE6",
+      "value": "#fff5e0",
       "type": "color"
     },
     "75": {
-      "value": "#FFF0B3",
+      "value": "#ffe2a8",
       "type": "color"
     },
     "100": {
-      "value": "#FFE380",
+      "value": "#ffd070",
       "type": "color"
     },
     "200": {
-      "value": "#FFC400",
+      "value": "#ffbd38",
       "type": "color"
     },
     "300": {
-      "value": "#FFAB00",
+      "value": "#ffab00",
       "type": "color"
     },
     "400": {
-      "value": "#FF991F",
+      "value": "#c78500",
       "type": "color"
     },
     "500": {
-      "value": "#FF8B00",
+      "value": "#8f6000",
       "type": "color"
     }
   },
