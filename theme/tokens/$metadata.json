@@ -13,6 +13,7 @@
     "02_semantic / inputs",
     "02_semantic / menus",
     "02_semantic / pills-badge",
+    "02_semantic / gradient",
     "02_semantic / tab",
     "02_semantic / table",
     "themes / adverport",
@@ -39,6 +40,6 @@
     "themes / digistage",
     "themes / coniun",
     "themes / creatorshub",
-    "02_semantic / gradient"
+    "themes / inventiv"
   ]
 }
