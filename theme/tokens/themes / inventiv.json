@@ -135,6 +135,72 @@
       }
     }
   },
+  "Link": {
+    "Primary": {
+      "Default": {
+        "Text": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.300}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Text": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.400}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Text": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{System.Primary.500}",
+          "type": "color"
+        }
+      }
+    },
+    "Secondary": {
+      "Default": {
+        "Text": {
+          "value": "{Neutral.10}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.10}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Text": {
+          "value": "{Neutral.30}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.30}",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Text": {
+          "value": "{Neutral.70}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.70}",
+          "type": "color"
+        }
+      }
+    }
+  },
   "fontFamilies": {
     "primary": {
       "value": "Poppins",
@@ -381,6 +447,20 @@
         "verticalPadding": "10"
       },
       "type": "composition"
+    }
+  },
+  "label": {
+    "sm": {
+      "value": "{Text.XSmall.700}",
+      "type": "typography"
+    },
+    "md": {
+      "value": "{Text.Small.700}",
+      "type": "typography"
+    },
+    "lg": {
+      "value": "{Text.Medium.700}",
+      "type": "typography"
     }
   },
   "input": {
