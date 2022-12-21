@@ -376,7 +376,9 @@
     },
     "lg": {
       "value": {
-        "borderRadius": "$lg"
+        "borderRadius": "$lg",
+        "horizontalPadding": "16",
+        "verticalPadding": "10"
       },
       "type": "composition"
     }
