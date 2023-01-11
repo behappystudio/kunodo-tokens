@@ -213,79 +213,13 @@
       "type": "color"
     }
   },
-  "Link": {
-    "Primary": {
-      "Default": {
-        "Text": {
-          "value": "$Neutral.10",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "$Neutral.10",
-          "type": "color"
-        }
-      },
-      "Hover": {
-        "Text": {
-          "value": "$Neutral.30",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "$Neutral.30",
-          "type": "color"
-        }
-      },
-      "Focus": {
-        "Text": {
-          "value": "$Neutral.50",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "$Neutral.50",
-          "type": "color"
-        }
-      }
-    },
-    "Secondary": {
-      "Default": {
-        "Text": {
-          "value": "{Neutral.700}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{Neutral.700}",
-          "type": "color"
-        }
-      },
-      "Hover": {
-        "Text": {
-          "value": "$Neutral.800",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "$Neutral.800",
-          "type": "color"
-        }
-      },
-      "Focus": {
-        "Text": {
-          "value": "{Neutral.900}",
-          "type": "color"
-        },
-        "Icon": {
-          "value": "{Neutral.900}",
-          "type": "color"
-        }
-      }
-    }
-  },
   "button": {
     "sm": {
       "value": {
         "verticalPadding": "6",
         "horizontalPadding": "8",
         "spacing": "6",
-        "borderRadius": "$full",
+        "borderRadius": "$none",
         "boxShadow": "$none"
       },
       "type": "composition"
