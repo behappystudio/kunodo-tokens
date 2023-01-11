@@ -222,7 +222,7 @@
         "type": "color"
       },
       "75": {
-        "value": "$Yellow.75",
+        "value": "{Yellow.50}",
         "type": "color"
       },
       "100": {

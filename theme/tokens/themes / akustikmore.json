@@ -16,31 +16,31 @@
     },
     "Primary": {
       "50": {
-        "value": "$Neutral.10",
+        "value": "$Yellow.50",
         "type": "color"
       },
       "75": {
-        "value": "$Neutral.30",
+        "value": "$Yellow.75",
         "type": "color"
       },
       "100": {
-        "value": "$Neutral.100",
+        "value": "$Yellow.100",
         "type": "color"
       },
       "200": {
-        "value": "$Neutral.500",
+        "value": "$Yellow.200",
         "type": "color"
       },
       "300": {
-        "value": "$Neutral.800",
+        "value": "$Yellow.300",
         "type": "color"
       },
       "400": {
-        "value": "$Neutral.900",
+        "value": "$Yellow.400",
         "type": "color"
       },
       "500": {
-        "value": "$Neutral.900",
+        "value": "$Yellow.500",
         "type": "color"
       }
     },
@@ -295,7 +295,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "12",
         "spacing": "8",
-        "borderRadius": "$full"
+        "borderRadius": "$none"
       },
       "type": "composition"
     },
@@ -304,7 +304,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "16",
         "spacing": "8",
-        "borderRadius": "$full"
+        "borderRadius": "$none"
       },
       "type": "composition"
     }
@@ -325,12 +325,42 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Plus Jakarta Display",
+      "value": "Mulish",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Plus Jakarta Display",
+      "value": "Mulish",
       "type": "fontFamilies"
+    }
+  },
+  "Yellow": {
+    "50": {
+      "value": "#f8f4ed",
+      "type": "color"
+    },
+    "75": {
+      "value": "#ebe0cc",
+      "type": "color"
+    },
+    "100": {
+      "value": "#ddcdab",
+      "type": "color"
+    },
+    "200": {
+      "value": "#d0b98a",
+      "type": "color"
+    },
+    "300": {
+      "value": "#c3a569",
+      "type": "color"
+    },
+    "400": {
+      "value": "#988152",
+      "type": "color"
+    },
+    "500": {
+      "value": "#6d5c3b",
+      "type": "color"
     }
   }
 }

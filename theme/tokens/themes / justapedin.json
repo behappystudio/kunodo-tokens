@@ -111,7 +111,7 @@
       },
       "75": {
         "type": "color",
-        "value": "$Yellow.75"
+        "value": "{Yellow.50}"
       },
       "100": {
         "type": "color",
