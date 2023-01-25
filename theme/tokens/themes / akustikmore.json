@@ -326,5 +326,31 @@
       },
       "type": "composition"
     }
+  },
+  "textStyle": {
+    "xlg": {
+      "value": "1.5rem",
+      "type": "fontSizes"
+    },
+    "lg": {
+      "value": "1.25rem",
+      "type": "fontSizes"
+    },
+    "md": {
+      "value": "1rem",
+      "type": "fontSizes"
+    },
+    "sm": {
+      "value": "0.875rem",
+      "type": "fontSizes"
+    },
+    "xsm": {
+      "value": "0.75rem",
+      "type": "fontSizes"
+    },
+    "xxsm": {
+      "value": "0.625rem",
+      "type": "fontSizes"
+    }
   }
 }
