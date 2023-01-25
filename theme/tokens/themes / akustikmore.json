@@ -219,7 +219,7 @@
         "verticalPadding": "6",
         "horizontalPadding": "8",
         "spacing": "6",
-        "borderRadius": "$none",
+        "borderRadius": "$md",
         "boxShadow": "$none"
       },
       "type": "composition"
@@ -229,7 +229,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "12",
         "spacing": "8",
-        "borderRadius": "$none"
+        "borderRadius": "$md"
       },
       "type": "composition"
     },
@@ -238,7 +238,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "16",
         "spacing": "8",
-        "borderRadius": "$none"
+        "borderRadius": "$md"
       },
       "type": "composition"
     }
@@ -295,6 +295,36 @@
     "500": {
       "value": "#6d5c3b",
       "type": "color"
+    }
+  },
+  "input": {
+    "textbox": {
+      "value": {
+        "horizontalPadding": "14",
+        "verticalPadding": "12",
+        "borderRadius": "$sm",
+        "spacing": "10",
+        "height": "42"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "verticalPadding": "8",
+        "borderRadius": "$sm",
+        "spacing": "0",
+        "height": "36"
+      },
+      "type": "composition"
+    }
+  },
+  "form": {
+    "sm": {
+      "value": {
+        "height": "70",
+        "itemSpacing": "8"
+      },
+      "type": "composition"
     }
   }
 }
