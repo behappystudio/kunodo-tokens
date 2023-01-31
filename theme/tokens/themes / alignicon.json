@@ -1,0 +1,12 @@
+{
+  "fontFamilies": {
+    "primary": {
+      "value": "Outfit",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Outfit",
+      "type": "fontFamilies"
+    }
+  }
+}
