@@ -1,4 +1,82 @@
 {
+  "Neutral": {
+    "0": {
+      "value": "#141414",
+      "type": "color"
+    },
+    "10": {
+      "value": "#202020",
+      "type": "color"
+    },
+    "20": {
+      "value": "#2C2C2C",
+      "type": "color"
+    },
+    "30": {
+      "value": "#383838",
+      "type": "color"
+    },
+    "40": {
+      "value": "#444444",
+      "type": "color"
+    },
+    "50": {
+      "value": "#505050",
+      "type": "color"
+    },
+    "60": {
+      "value": "#5C5C5C",
+      "type": "color"
+    },
+    "70": {
+      "value": "#686868",
+      "type": "color"
+    },
+    "80": {
+      "value": "#747474",
+      "type": "color"
+    },
+    "90": {
+      "value": "#808080",
+      "type": "color"
+    },
+    "100": {
+      "value": "#8C8C8C",
+      "type": "color"
+    },
+    "200": {
+      "value": "#989898",
+      "type": "color"
+    },
+    "300": {
+      "value": "#A4A4A4",
+      "type": "color"
+    },
+    "400": {
+      "value": "#B0B0B0",
+      "type": "color"
+    },
+    "500": {
+      "value": "#BCBCBC",
+      "type": "color"
+    },
+    "600": {
+      "value": "#C8C8C8",
+      "type": "color"
+    },
+    "700": {
+      "value": "#D4D4D4",
+      "type": "color"
+    },
+    "800": {
+      "value": "#E0E0E0",
+      "type": "color"
+    },
+    "900": {
+      "value": "#ECECEC",
+      "type": "color"
+    }
+  },
   "fontFamilies": {
     "primary": {
       "value": "Outfit",
