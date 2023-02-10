@@ -351,5 +351,23 @@
       },
       "type": "composition"
     }
+  },
+  "fontWeights": {
+    "300": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "Bold",
+      "type": "fontWeights"
+    }
   }
 }
