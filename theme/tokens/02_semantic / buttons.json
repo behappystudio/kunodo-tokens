@@ -321,6 +321,38 @@
           "type": "color"
         }
       }
+    },
+    "Ghost": {
+      "Default": {
+        "Text": {
+          "value": "{Neutral.0}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.0}",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Text": {
+          "value": "$Neutral.20",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Neutral.20",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Text": {
+          "value": "{Neutral.50}",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "{Neutral.50}",
+          "type": "color"
+        }
+      }
     }
   },
   "button": {
