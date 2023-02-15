@@ -259,7 +259,7 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Mulish",
+      "value": "Playfair Display",
       "type": "fontFamilies"
     },
     "secondary": {
@@ -351,6 +351,24 @@
     "xxsm": {
       "value": "0.625rem",
       "type": "fontSizes"
+    }
+  },
+  "fontWeights": {
+    "300": {
+      "value": "Regular",
+      "type": "fontWeights"
+    },
+    "400": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "500": {
+      "value": "Bold",
+      "type": "fontWeights"
+    },
+    "700": {
+      "value": "Black",
+      "type": "fontWeights"
     }
   }
 }
