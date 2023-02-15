@@ -354,21 +354,41 @@
     }
   },
   "fontWeights": {
-    "300": {
-      "value": "Regular",
-      "type": "fontWeights"
+    "primary": {
+      "300": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Black",
+        "type": "fontWeights"
+      }
     },
-    "400": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
-    "500": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "700": {
-      "value": "Black",
-      "type": "fontWeights"
+    "secondary": {
+      "300": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "ExtraBold",
+        "type": "fontWeights"
+      }
     }
   }
 }

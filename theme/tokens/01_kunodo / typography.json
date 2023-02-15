@@ -32,21 +32,41 @@
     }
   },
   "fontWeights": {
-    "300": {
-      "value": "Light",
-      "type": "fontWeights"
+    "primary": {
+      "300": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     },
-    "400": {
-      "value": "Regular",
-      "type": "fontWeights"
-    },
-    "500": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
-    "700": {
-      "value": "Bold",
-      "type": "fontWeights"
+    "secondary": {
+      "300": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
     }
   },
   "fontSize": {
@@ -112,7 +132,7 @@
       "300": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.secondary.300}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
           "letterSpacing": "$letterSpacing.0",
@@ -125,7 +145,7 @@
       "400": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.secondary.400}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
           "letterSpacing": "$letterSpacing.0",
@@ -138,7 +158,7 @@
       "500": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.secondary.500}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
           "letterSpacing": "$letterSpacing.0",
@@ -151,7 +171,7 @@
       "700": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.secondary.700}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.xlg",
           "letterSpacing": "$letterSpacing.0",
@@ -166,7 +186,7 @@
       "300": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.secondary.300}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
           "letterSpacing": "$letterSpacing.0",
@@ -179,7 +199,7 @@
       "400": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.secondary.400}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
           "letterSpacing": "$letterSpacing.0",
@@ -192,7 +212,7 @@
       "500": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.secondary.500}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
           "letterSpacing": "$letterSpacing.0",
@@ -205,7 +225,7 @@
       "700": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.secondary.700}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.lg",
           "letterSpacing": "$letterSpacing.0",
@@ -220,7 +240,7 @@
       "300": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.secondary.300}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.md",
           "letterSpacing": "$letterSpacing.0",
@@ -233,7 +253,7 @@
       "400": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.secondary.400}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.md",
           "letterSpacing": "$letterSpacing.0",
@@ -246,7 +266,7 @@
       "500": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.secondary.500}",
           "lineHeight": "$lineHeights.lg",
           "fontSize": "$textStyle.md",
           "letterSpacing": "$letterSpacing.0",
@@ -259,7 +279,7 @@
       "700": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.secondary.700}",
           "lineHeight": "$lineHeights.md",
           "fontSize": "$textStyle.md",
           "letterSpacing": "$letterSpacing.0",
@@ -274,7 +294,7 @@
       "300": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.secondary.300}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "$textStyle.sm",
           "letterSpacing": "$letterSpacing.0",
@@ -287,7 +307,7 @@
       "400": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.secondary.400}",
           "lineHeight": "$lineHeights.md",
           "fontSize": "$textStyle.sm",
           "letterSpacing": "$letterSpacing.0",
@@ -300,7 +320,7 @@
       "500": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.secondary.500}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "$textStyle.sm",
           "letterSpacing": "$letterSpacing.0",
@@ -313,7 +333,7 @@
       "700": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.secondary.700}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "$textStyle.sm",
           "letterSpacing": "$letterSpacing.0",
@@ -328,7 +348,7 @@
       "300": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.secondary.300}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -341,7 +361,7 @@
       "400": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.secondary.400}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -354,7 +374,7 @@
       "500": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.secondary.500}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -367,7 +387,7 @@
       "700": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.secondary.700}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -382,7 +402,7 @@
       "300": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.secondary.300}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -395,7 +415,7 @@
       "400": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.secondary.400}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -408,7 +428,7 @@
       "500": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.500}",
+          "fontWeight": "{fontWeights.secondary.500}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -421,7 +441,7 @@
       "700": {
         "value": {
           "fontFamily": "{fontFamilies.secondary}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.secondary.700}",
           "lineHeight": "$lineHeights.sm",
           "fontSize": "{textStyle.xxsm}",
           "letterSpacing": "$letterSpacing.0",
@@ -437,7 +457,7 @@
     "300": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.300}",
+        "fontWeight": "{fontWeights.primary.300}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -450,7 +470,7 @@
     "400": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -463,7 +483,7 @@
     "500": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -476,7 +496,7 @@
     "700": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.primary.700}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -491,7 +511,7 @@
     "300": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.300}",
+        "fontWeight": "{fontWeights.primary.300}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H5}",
         "letterSpacing": "$letterSpacing.1",
@@ -504,7 +524,7 @@
     "400": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H5}",
         "letterSpacing": "$letterSpacing.1",
@@ -517,7 +537,7 @@
     "500": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H5}",
         "letterSpacing": "$letterSpacing.1",
@@ -530,7 +550,7 @@
     "700": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.primary.700}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H5}",
         "letterSpacing": "$letterSpacing.1",
@@ -545,7 +565,7 @@
     "300": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.300}",
+        "fontWeight": "{fontWeights.primary.300}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H4}",
         "letterSpacing": "$letterSpacing.1",
@@ -558,7 +578,7 @@
     "400": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H4}",
         "letterSpacing": "$letterSpacing.1",
@@ -571,7 +591,7 @@
     "500": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H4}",
         "letterSpacing": "$letterSpacing.1",
@@ -584,7 +604,7 @@
     "700": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.primary.700}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H4}",
         "letterSpacing": "$letterSpacing.1",
@@ -599,7 +619,7 @@
     "300": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.300}",
+        "fontWeight": "{fontWeights.primary.300}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H3}",
         "letterSpacing": "$letterSpacing.1",
@@ -612,7 +632,7 @@
     "400": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H3}",
         "letterSpacing": "$letterSpacing.1",
@@ -625,7 +645,7 @@
     "500": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H3}",
         "letterSpacing": "$letterSpacing.1",
@@ -638,7 +658,7 @@
     "700": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.primary.700}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H3}",
         "letterSpacing": "$letterSpacing.2",
@@ -653,7 +673,7 @@
     "300": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.300}",
+        "fontWeight": "{fontWeights.primary.300}",
         "lineHeight": "{lineHeights.sm}",
         "fontSize": "{fontSize.H2}",
         "letterSpacing": "$letterSpacing.3",
@@ -666,7 +686,7 @@
     "400": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "{lineHeights.sm}",
         "fontSize": "{fontSize.H2}",
         "letterSpacing": "$letterSpacing.3",
@@ -679,7 +699,7 @@
     "500": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "{lineHeights.sm}",
         "fontSize": "{fontSize.H2}",
         "letterSpacing": "$letterSpacing.3",
@@ -692,7 +712,7 @@
     "700": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.primary.700}",
         "lineHeight": "{lineHeights.sm}",
         "fontSize": "{fontSize.H2}",
         "letterSpacing": "$letterSpacing.3",
@@ -707,7 +727,7 @@
     "300": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.300}",
+        "fontWeight": "{fontWeights.primary.300}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H1}",
         "letterSpacing": "$letterSpacing.2",
@@ -720,7 +740,7 @@
     "400": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H1}",
         "letterSpacing": "$letterSpacing.2",
@@ -733,7 +753,7 @@
     "500": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "{fontSize.H1}",
         "letterSpacing": "$letterSpacing.2",
@@ -746,7 +766,7 @@
     "700": {
       "value": {
         "fontFamily": "{fontFamilies.primary}",
-        "fontWeight": "{fontWeights.700}",
+        "fontWeight": "{fontWeights.primary.700}",
         "lineHeight": "{lineHeights.md}",
         "fontSize": "$fontSize.H1",
         "letterSpacing": "$letterSpacing.2",

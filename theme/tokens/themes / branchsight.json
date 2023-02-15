@@ -505,7 +505,7 @@
     "Regular": {
       "value": {
         "fontFamily": "{fontFamilies.poppins}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -518,7 +518,7 @@
     "Medium": {
       "value": {
         "fontFamily": "{fontFamilies.poppins}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "{lineHeights.lg}",
         "fontSize": "{fontSize.H6}",
         "letterSpacing": "$letterSpacing.0",
@@ -535,7 +535,7 @@
         "Regular": {
           "value": {
             "fontFamily": "{fontFamilies.poppins}",
-            "fontWeight": "{fontWeights.400}",
+            "fontWeight": "{fontWeights.primary.400}",
             "lineHeight": "$lineHeights.1",
             "fontSize": "$fontSize.1",
             "letterSpacing": "$letterSpacing.0",
@@ -548,7 +548,7 @@
         "Bold": {
           "value": {
             "fontFamily": "{fontFamilies.poppins}",
-            "fontWeight": "{fontWeights.500}",
+            "fontWeight": "{fontWeights.primary.500}",
             "lineHeight": "$lineHeights.1",
             "fontSize": "$fontSize.1",
             "letterSpacing": "$letterSpacing.0",
@@ -565,7 +565,7 @@
     "Regular": {
       "value": {
         "fontFamily": "{fontFamilies.poppins}",
-        "fontWeight": "{fontWeights.400}",
+        "fontWeight": "{fontWeights.primary.400}",
         "lineHeight": "$lineHeights.2",
         "fontSize": "$fontSize.0",
         "letterSpacing": "$letterSpacing.0",
@@ -578,7 +578,7 @@
     "Medium": {
       "value": {
         "fontFamily": "{fontFamilies.poppins}",
-        "fontWeight": "{fontWeights.500}",
+        "fontWeight": "{fontWeights.primary.500}",
         "lineHeight": "$lineHeights.2",
         "fontSize": "$fontSize.0",
         "letterSpacing": "$letterSpacing.0",
@@ -594,7 +594,7 @@
       "Light": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.400}",
+          "fontWeight": "{fontWeights.primary.400}",
           "lineHeight": "{lineHeights.lg}",
           "fontSize": "{fontSize.H5}",
           "letterSpacing": "$letterSpacing.1",
@@ -607,7 +607,7 @@
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.primary.700}",
           "lineHeight": "{lineHeights.lg}",
           "fontSize": "{fontSize.H5}",
           "letterSpacing": "$letterSpacing.1",
@@ -622,7 +622,7 @@
       "Light": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.primary.300}",
           "lineHeight": "$lineHeights.3",
           "fontSize": "{fontSize.H4}",
           "letterSpacing": "$letterSpacing.1",
@@ -635,7 +635,7 @@
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.primary.700}",
           "lineHeight": "$lineHeights.3",
           "fontSize": "{fontSize.H4}",
           "letterSpacing": "$letterSpacing.1",
@@ -650,7 +650,7 @@
       "Light": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.primary.300}",
           "lineHeight": "$lineHeights.3",
           "fontSize": "{fontSize.H3}",
           "letterSpacing": "$letterSpacing.1",
@@ -663,7 +663,7 @@
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.primary.700}",
           "lineHeight": "$lineHeights.3",
           "fontSize": "{fontSize.H3}",
           "letterSpacing": "$letterSpacing.2",
@@ -678,7 +678,7 @@
       "Light": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.primary.300}",
           "lineHeight": "{lineHeights.sm}",
           "fontSize": "{fontSize.H2}",
           "letterSpacing": "$letterSpacing.3",
@@ -691,7 +691,7 @@
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.primary.700}",
           "lineHeight": "{lineHeights.sm}",
           "fontSize": "{fontSize.H2}",
           "letterSpacing": "$letterSpacing.2",
@@ -706,7 +706,7 @@
       "Light": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.300}",
+          "fontWeight": "{fontWeights.primary.300}",
           "lineHeight": "{lineHeights.md}",
           "fontSize": "{fontSize.H1}",
           "letterSpacing": "$letterSpacing.2",
@@ -719,7 +719,7 @@
       "Bold": {
         "value": {
           "fontFamily": "{fontFamilies.poppins}",
-          "fontWeight": "{fontWeights.700}",
+          "fontWeight": "{fontWeights.primary.700}",
           "lineHeight": "{lineHeights.md}",
           "fontSize": "{fontSize.H1}",
           "letterSpacing": "$letterSpacing.2",
