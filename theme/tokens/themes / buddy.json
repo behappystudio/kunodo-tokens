@@ -524,5 +524,35 @@
       },
       "type": "composition"
     }
+  },
+  "input": {
+    "textbox": {
+      "value": {
+        "horizontalPadding": "12",
+        "verticalPadding": "8",
+        "borderRadius": "$md",
+        "spacing": "10",
+        "height": "36"
+      },
+      "type": "composition"
+    },
+    "numeric": {
+      "value": {
+        "verticalPadding": "0",
+        "borderRadius": "$md",
+        "spacing": "0",
+        "height": "36"
+      },
+      "type": "composition"
+    }
+  },
+  "form": {
+    "sm": {
+      "value": {
+        "height": "70",
+        "itemSpacing": "4"
+      },
+      "type": "composition"
+    }
   }
 }
