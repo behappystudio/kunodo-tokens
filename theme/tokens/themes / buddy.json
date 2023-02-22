@@ -470,5 +470,59 @@
         "type": "fontWeights"
       }
     }
+  },
+  "button": {
+    "sm": {
+      "value": {
+        "verticalPadding": "6",
+        "horizontalPadding": "8",
+        "spacing": "6",
+        "borderRadius": "$md",
+        "typography": "$Text.XSmall.400",
+        "boxShadow": "$none"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "verticalPadding": "8",
+        "horizontalPadding": "12",
+        "spacing": "8",
+        "borderRadius": "$md",
+        "typography": "$Text.Small.400"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "verticalPadding": "8",
+        "horizontalPadding": "16",
+        "spacing": "8",
+        "borderRadius": "$md",
+        "typography": "$Text.Medium.400"
+      },
+      "type": "composition"
+    }
+  },
+  "menu": {
+    "parent": {
+      "value": {
+        "horizontalPadding": "20",
+        "verticalPadding": "16",
+        "spacing": "6",
+        "borderRadius": "$md"
+      },
+      "type": "composition"
+    },
+    "child": {
+      "value": {
+        "paddingLeft": "40",
+        "verticalPadding": "16",
+        "spacing": "6",
+        "borderRadius": "$md",
+        "paddingRight": "20"
+      },
+      "type": "composition"
+    }
   }
 }
