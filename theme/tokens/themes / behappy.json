@@ -91,61 +91,61 @@
   },
   "Teal": {
     "50": {
-      "value": "#e6fcff",
+      "value": "#E5F8FB",
       "type": "color"
     },
     "75": {
-      "value": "#b3f5ff",
+      "value": "#B3EAF4",
       "type": "color"
     },
     "100": {
-      "value": "#79e2f2",
+      "value": "#80DCEC",
       "type": "color"
     },
     "200": {
-      "value": "#00c7e6",
+      "value": "#33C6E1",
       "type": "color"
     },
     "300": {
-      "value": "#00b8d9",
+      "value": "#00B8D9",
       "type": "color"
     },
     "400": {
-      "value": "#00a3bf",
+      "value": "#008198",
       "type": "color"
     },
     "500": {
-      "value": "#008da6",
+      "value": "#005C6D",
       "type": "color"
     }
   },
   "Purple": {
     "50": {
-      "value": "#e9e6ed",
+      "value": "#F1E9FD",
       "type": "color"
     },
     "75": {
-      "value": "#c1b9cd",
+      "value": "#D5BCF8",
       "type": "color"
     },
     "100": {
-      "value": "#998bac",
+      "value": "#BA8FF4",
       "type": "color"
     },
     "200": {
-      "value": "#715e8c",
+      "value": "#904DED",
       "type": "color"
     },
     "300": {
-      "value": "#49306b",
+      "value": "#7420E8",
       "type": "color"
     },
     "400": {
-      "value": "#392553",
+      "value": "#5116A2",
       "type": "color"
     },
     "500": {
-      "value": "#291b3c",
+      "value": "#3A1074",
       "type": "color"
     }
   },
@@ -361,5 +361,43 @@
       "horizontalPadding": "24"
     },
     "type": "composition"
+  },
+  "fontWeights": {
+    "primary": {
+      "300": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "secondary": {
+      "300": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    }
   }
 }
