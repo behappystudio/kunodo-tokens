@@ -3,19 +3,18 @@
     "textbox": {
       "value": {
         "horizontalPadding": "12",
-        "verticalPadding": "8",
-        "borderRadius": "$sm",
+        "verticalPadding": "12",
+        "borderRadius": "$md",
         "spacing": "10",
-        "height": "36"
+        "height": "44"
       },
       "type": "composition"
     },
     "numeric": {
       "value": {
-        "verticalPadding": "8",
-        "borderRadius": "$sm",
+        "borderRadius": "$md",
         "spacing": "0",
-        "height": "36"
+        "height": "44"
       },
       "type": "composition"
     }
@@ -23,8 +22,8 @@
   "form": {
     "sm": {
       "value": {
-        "height": "70",
-        "itemSpacing": "4"
+        "height": "88",
+        "itemSpacing": "6"
       },
       "type": "composition"
     }
