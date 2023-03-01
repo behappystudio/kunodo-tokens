@@ -361,7 +361,7 @@
         "verticalPadding": "6",
         "horizontalPadding": "8",
         "spacing": "6",
-        "borderRadius": "$sm",
+        "borderRadius": "$md",
         "typography": "$Text.XSmall.400",
         "boxShadow": "$none"
       },
@@ -372,7 +372,7 @@
         "verticalPadding": "8",
         "horizontalPadding": "12",
         "spacing": "8",
-        "borderRadius": "$sm",
+        "borderRadius": "$md",
         "typography": "$Text.Small.400"
       },
       "type": "composition"
@@ -381,7 +381,7 @@
       "value": {
         "verticalPadding": "12",
         "horizontalPadding": "16",
-        "borderRadius": "$sm",
+        "borderRadius": "$md",
         "typography": "$Text.Medium.400",
         "itemSpacing": "8"
       },
@@ -391,7 +391,7 @@
       "value": {
         "verticalPadding": "16",
         "horizontalPadding": "24",
-        "borderRadius": "$sm",
+        "borderRadius": "$md",
         "typography": "$Text.Large.400",
         "itemSpacing": "8"
       },
