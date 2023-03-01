@@ -159,7 +159,7 @@
     "Outline": {
       "Default": {
         "Background": {
-          "value": "{System.Default.White}",
+          "value": "$0deg.Neutral.300",
           "type": "color"
         },
         "Text": {
@@ -390,7 +390,7 @@
     "xlg": {
       "value": {
         "verticalPadding": "16",
-        "horizontalPadding": "24",
+        "horizontalPadding": "18",
         "borderRadius": "$md",
         "typography": "$Text.Large.400",
         "itemSpacing": "8"
@@ -434,6 +434,50 @@
         "itemSpacing": "8"
       },
       "type": "composition"
+    }
+  },
+  "Shadow": {
+    "Primary": {
+      "value": [
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "rgba($System.Primary.200, 1)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba($System.Default.Black, 0.25)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "Outline": {
+      "value": [
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "rgba($Neutral.10, 1)",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba($System.Default.Black, 0.25)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
     }
   }
 }
