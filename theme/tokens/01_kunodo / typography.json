@@ -1,11 +1,11 @@
 {
   "fontFamilies": {
     "primary": {
-      "value": "Rubik",
+      "value": "Inter",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Rubik",
+      "value": "Inter",
       "type": "fontFamilies"
     }
   },

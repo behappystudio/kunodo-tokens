@@ -41,6 +41,20 @@
         "value": "linear-gradient(0deg, $Green.200 100%, $Green.50 50%, $System.Default.White 0%)",
         "type": "color"
       }
+    },
+    "Primary": {
+      "100": {
+        "value": "linear-gradient(0deg, $Yellow.100 100%, $Yellow.50 50%, $System.Default.White 0%)",
+        "type": "color"
+      },
+      "200": {
+        "value": "linear-gradient(0deg, $Yellow.200 100%, $Yellow.50 50%, $System.Default.White 0%)",
+        "type": "color"
+      },
+      "300": {
+        "value": "linear-gradient(0deg, $System.Primary.300 100%, $System.Primary.400 50%, $System.Primary.500 0%)",
+        "type": "color"
+      }
     }
   }
 }

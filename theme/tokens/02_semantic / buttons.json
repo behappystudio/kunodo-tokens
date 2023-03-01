@@ -49,7 +49,7 @@
     "Primary": {
       "Default": {
         "Background": {
-          "value": "{System.Primary.300}",
+          "value": "$0deg.Primary.300",
           "type": "color"
         },
         "Text": {
@@ -379,26 +379,40 @@
     },
     "lg": {
       "value": {
-        "verticalPadding": "8",
+        "verticalPadding": "12",
         "horizontalPadding": "16",
-        "spacing": "8",
         "borderRadius": "$sm",
-        "typography": "$Text.Medium.400"
+        "typography": "$Text.Medium.400",
+        "itemSpacing": "8"
+      },
+      "type": "composition"
+    },
+    "xlg": {
+      "value": {
+        "verticalPadding": "16",
+        "horizontalPadding": "24",
+        "borderRadius": "$sm",
+        "typography": "$Text.Large.400",
+        "itemSpacing": "8"
       },
       "type": "composition"
     }
   },
   "label": {
     "sm": {
-      "value": "{Text.XSmall.400}",
+      "value": "{Text.XSmall.500}",
       "type": "typography"
     },
     "md": {
-      "value": "{Text.Small.400}",
+      "value": "{Text.Small.500}",
       "type": "typography"
     },
     "lg": {
-      "value": "{Text.Medium.400}",
+      "value": "{Text.Medium.500}",
+      "type": "typography"
+    },
+    "xlg": {
+      "value": "{Text.Large.500}",
       "type": "typography"
     }
   },
