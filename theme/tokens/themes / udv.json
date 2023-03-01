@@ -1,1 +1,98 @@
-{}
+{
+  "fontFamilies": {
+    "primary": {
+      "value": "Eudoxus Sans",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Eudoxus Sans",
+      "type": "fontFamilies"
+    }
+  },
+  "fontWeights": {
+    "primary": {
+      "300": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "ExtraBold",
+        "type": "fontWeights"
+      }
+    },
+    "secondary": {
+      "300": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "ExtraBold",
+        "type": "fontWeights"
+      }
+    }
+  },
+  "Neutral": {
+    "900": {
+      "value": "#1a1a1a",
+      "type": "color"
+    }
+  },
+  "Yellow": {
+    "300": {
+      "value": "#FFBE0B",
+      "type": "color"
+    }
+  },
+  "Purple": {
+    "300": {
+      "value": "#8338EC",
+      "type": "color"
+    }
+  },
+  "Blue": {
+    "300": {
+      "value": "#3A86FF",
+      "type": "color"
+    }
+  },
+  "Button": {
+    "Primary": {
+      "Default": {
+        "Background": {
+          "value": "$System.Primary.300",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "System": {
+    "Primary": {
+      "300": {
+        "value": "$Neutral.900",
+        "type": "color"
+      }
+    }
+  },
+  "Red": {
+    "300": {
+      "value": "#FF5630",
+      "type": "color"
+    }
+  }
+}

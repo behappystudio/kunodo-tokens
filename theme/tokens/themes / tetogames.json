@@ -212,7 +212,7 @@
         "type": "color"
       },
       "300": {
-        "value": "$Red.300",
+        "value": "{Pink.300}",
         "type": "color"
       },
       "400": {
@@ -242,7 +242,7 @@
         "type": "color"
       },
       "300": {
-        "value": "{Red.300}",
+        "value": "{Pink.300}",
         "type": "color"
       },
       "400": {
