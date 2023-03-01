@@ -6,8 +6,7 @@
       "themes / dark": "enabled",
       "01_kunodo / radius": "enabled",
       "01_kunodo / shadows": "enabled",
-      "01_kunodo / typography": "enabled",
-      "themes / udv": "disabled"
+      "01_kunodo / typography": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -29,8 +28,7 @@
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
       "themes / multinet": "enabled",
-      "01_kunodo / sizing": "source",
-      "themes / udv": "disabled"
+      "01_kunodo / sizing": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -52,8 +50,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / adverport": "enabled",
-      "themes / udv": "disabled"
+      "themes / adverport": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -75,8 +72,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / vidyodan": "enabled",
-      "themes / udv": "disabled"
+      "themes / vidyodan": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -98,8 +94,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / sanovel": "enabled",
-      "themes / udv": "disabled"
+      "themes / sanovel": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -121,8 +116,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / l2g": "enabled",
-      "themes / udv": "disabled"
+      "themes / l2g": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -144,8 +138,7 @@
       "02_semantic / menus": "source",
       "02_semantic / pills-badge": "source",
       "02_semantic / table": "source",
-      "themes / edugun": "enabled",
-      "themes / udv": "disabled"
+      "themes / edugun": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -167,8 +160,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / justapedin": "enabled",
-      "themes / udv": "disabled"
+      "themes / justapedin": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -190,8 +182,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / comodif": "enabled",
-      "themes / udv": "disabled"
+      "themes / comodif": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -212,8 +203,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / priamai": "enabled",
-      "themes / udv": "disabled"
+      "themes / priamai": "enabled"
     },
     "$figmaStyleReferences": {
       "label.sm": "S:7be93a5ef22c9b582badba341fe6768f1ee81445,",
@@ -238,8 +228,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / 51digital": "enabled",
-      "themes / udv": "disabled"
+      "themes / 51digital": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -260,8 +249,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / swipeline": "enabled",
-      "themes / udv": "disabled"
+      "themes / swipeline": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -282,8 +270,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / digistage": "enabled",
-      "themes / udv": "disabled"
+      "themes / digistage": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -304,8 +291,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / coniun": "enabled",
-      "themes / udv": "disabled"
+      "themes / coniun": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -326,8 +312,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / creatorshub": "enabled",
-      "themes / udv": "disabled"
+      "themes / creatorshub": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -348,8 +333,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / buddy": "enabled",
-      "themes / udv": "disabled"
+      "themes / buddy": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -371,8 +355,7 @@
       "02_semantic / menus": "source",
       "02_semantic / pills-badge": "source",
       "02_semantic / table": "source",
-      "themes / mola": "enabled",
-      "themes / udv": "disabled"
+      "themes / mola": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -393,8 +376,7 @@
       "02_semantic / menus": "enabled",
       "02_semantic / pills-badge": "enabled",
       "02_semantic / table": "enabled",
-      "themes / tetogames": "enabled",
-      "themes / udv": "disabled"
+      "themes / tetogames": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -416,8 +398,7 @@
       "02_semantic / table": "enabled",
       "02_semantic / dialog": "enabled",
       "02_semantic / tab": "enabled",
-      "02_semantic / gradient": "enabled",
-      "themes / udv": "disabled"
+      "02_semantic / gradient": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -440,8 +421,7 @@
       "02_semantic / tab": "enabled",
       "02_semantic / table": "enabled",
       "02_semantic / gradient": "enabled",
-      "themes / inventiv": "enabled",
-      "themes / udv": "disabled"
+      "themes / inventiv": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -464,8 +444,7 @@
       "02_semantic / gradient": "enabled",
       "02_semantic / tab": "enabled",
       "02_semantic / table": "enabled",
-      "themes / akustikmore": "enabled",
-      "themes / udv": "disabled"
+      "themes / akustikmore": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -489,8 +468,7 @@
       "02_semantic / tab": "enabled",
       "02_semantic / table": "enabled",
       "themes / dark": "enabled",
-      "themes / alignicon": "enabled",
-      "themes / udv": "disabled"
+      "themes / alignicon": "enabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -514,8 +492,7 @@
       "02_semantic / table": "enabled",
       "themes / behappy": "enabled",
       "themes / dark": "enabled",
-      "02_semantic / tab": "enabled",
-      "themes / udv": "disabled"
+      "02_semantic / tab": "enabled"
     },
     "$figmaStyleReferences": {}
   }
