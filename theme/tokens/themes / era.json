@@ -56,7 +56,19 @@
   "fontWeights": {
     "primary": {
       "300": {
-        "value": "Plain Regular",
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Ultrabold",
         "type": "fontWeights"
       }
     }
