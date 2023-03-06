@@ -68,6 +68,10 @@
       "300": {
         "value": "linear-gradient(0deg, $Neutral.0 100%, $Neutral.10 50%, $Neutral.20 0%)",
         "type": "color"
+      },
+      "900": {
+        "value": "linear-gradient(0deg, $Neutral.700 100%, $Neutral.800 50%, $Neutral.900 0%)",
+        "type": "color"
       }
     }
   }

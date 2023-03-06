@@ -72,5 +72,82 @@
         "type": "fontWeights"
       }
     }
+  },
+  "button": {
+    "xlg": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "xs": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    }
+  },
+  "Button": {
+    "Primary": {
+      "Default": {
+        "Background": {
+          "value": "$0deg.Neutral.900",
+          "type": "color"
+        }
+      },
+      "Hover": {
+        "Background": {
+          "value": "$Neutral.900",
+          "type": "color"
+        }
+      },
+      "Focus": {
+        "Background": {
+          "value": "$Neutral.800",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Shadow": {
+    "Primary": {
+      "value": [
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "$Neutral.600",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba($System.Default.Black, 0.25)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    }
   }
 }
