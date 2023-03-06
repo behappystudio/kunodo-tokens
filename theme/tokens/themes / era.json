@@ -42,5 +42,11 @@
       "value": "PP Neue Machina",
       "type": "fontFamilies"
     }
+  },
+  "Neutral": {
+    "900": {
+      "value": "#1B1A18",
+      "type": "color"
+    }
   }
 }
