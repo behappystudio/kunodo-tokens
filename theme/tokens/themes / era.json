@@ -39,7 +39,7 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "PP Neue Machina",
+      "value": "Neue Machina",
       "type": "fontFamilies"
     },
     "secondary": {
@@ -51,6 +51,14 @@
     "900": {
       "value": "#1B1A18",
       "type": "color"
+    }
+  },
+  "fontWeights": {
+    "primary": {
+      "300": {
+        "value": "Plain Regular",
+        "type": "fontWeights"
+      }
     }
   }
 }
