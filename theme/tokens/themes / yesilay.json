@@ -1,0 +1,137 @@
+{
+  "Red": {
+    "300": {
+      "value": "#FA4004",
+      "type": "color"
+    }
+  },
+  "System": {
+    "Primary": {
+      "50": {
+        "value": "$Green.50",
+        "type": "color"
+      },
+      "75": {
+        "value": "$Green.75",
+        "type": "color"
+      },
+      "100": {
+        "value": "$Green.100",
+        "type": "color"
+      },
+      "200": {
+        "value": "$Green.200",
+        "type": "color"
+      },
+      "300": {
+        "value": "$Green.300",
+        "type": "color"
+      },
+      "400": {
+        "value": "$Green.400",
+        "type": "color"
+      },
+      "500": {
+        "value": "$Green.500",
+        "type": "color"
+      }
+    }
+  },
+  "fontFamilies": {
+    "primary": {
+      "value": "Neue Machina",
+      "type": "fontFamilies"
+    },
+    "secondary": {
+      "value": "Roboto Mono",
+      "type": "fontFamilies"
+    }
+  },
+  "Neutral": {
+    "900": {
+      "value": "#2D2A26",
+      "type": "color"
+    }
+  },
+  "fontWeights": {
+    "primary": {
+      "300": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Ultrabold",
+        "type": "fontWeights"
+      }
+    }
+  },
+  "button": {
+    "xlg": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "lg": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "md": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "sm": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    },
+    "xs": {
+      "value": {
+        "borderRadius": "$lg"
+      },
+      "type": "composition"
+    }
+  },
+  "Shadow": {
+    "Primary": {
+      "value": [
+        {
+          "x": "0",
+          "y": "1",
+          "blur": "1",
+          "spread": "0",
+          "color": "$Neutral.600",
+          "type": "innerShadow"
+        },
+        {
+          "x": "0",
+          "y": "4",
+          "blur": "4",
+          "spread": "0",
+          "color": "rgba($System.Default.Black, 0.25)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    }
+  },
+  "Green": {
+    "300": {
+      "value": "#00AE42",
+      "type": "color"
+    }
+  }
+}
