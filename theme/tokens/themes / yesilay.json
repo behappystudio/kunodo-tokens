@@ -39,11 +39,11 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Neue Machina",
+      "value": "Switzer",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Roboto Mono",
+      "value": "Switzer",
       "type": "fontFamilies"
     }
   },
