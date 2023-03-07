@@ -39,11 +39,11 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Switzer",
+      "value": "General Sans",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Switzer",
+      "value": "General Sans",
       "type": "fontFamilies"
     }
   },
@@ -64,11 +64,29 @@
         "type": "fontWeights"
       },
       "500": {
-        "value": "Bold",
+        "value": "Semibold",
         "type": "fontWeights"
       },
       "700": {
-        "value": "Ultrabold",
+        "value": "Bold",
+        "type": "fontWeights"
+      }
+    },
+    "secondary": {
+      "300": {
+        "value": "Regular",
+        "type": "fontWeights"
+      },
+      "400": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Semibold",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
         "type": "fontWeights"
       }
     }
