@@ -961,6 +961,36 @@
         "value": "$Yellow.500",
         "type": "color"
       }
+    },
+    "Secondary": {
+      "50": {
+        "value": "$Green.50",
+        "type": "color"
+      },
+      "75": {
+        "value": "$Green.75",
+        "type": "color"
+      },
+      "100": {
+        "value": "$Green.100",
+        "type": "color"
+      },
+      "200": {
+        "value": "$Green.200",
+        "type": "color"
+      },
+      "300": {
+        "value": "$Green.300",
+        "type": "color"
+      },
+      "400": {
+        "value": "$Green.400",
+        "type": "color"
+      },
+      "500": {
+        "value": "$Green.500",
+        "type": "color"
+      }
     }
   }
 }

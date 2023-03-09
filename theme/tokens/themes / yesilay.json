@@ -35,6 +35,36 @@
         "value": "$Green.500",
         "type": "color"
       }
+    },
+    "Secondary": {
+      "50": {
+        "value": "$Teal.50",
+        "type": "color"
+      },
+      "75": {
+        "value": "$Teal.75",
+        "type": "color"
+      },
+      "100": {
+        "value": "$Teal.100",
+        "type": "color"
+      },
+      "200": {
+        "value": "$Teal.200",
+        "type": "color"
+      },
+      "300": {
+        "value": "$Teal.300",
+        "type": "color"
+      },
+      "400": {
+        "value": "$Teal.400",
+        "type": "color"
+      },
+      "500": {
+        "value": "$Teal.500",
+        "type": "color"
+      }
     }
   },
   "fontFamilies": {
@@ -149,6 +179,18 @@
   "Green": {
     "300": {
       "value": "#00AE42",
+      "type": "color"
+    }
+  },
+  "Teal": {
+    "300": {
+      "value": "#A8D5E2",
+      "type": "color"
+    }
+  },
+  "Yellow": {
+    "300": {
+      "value": "#F9A03F",
       "type": "color"
     }
   }
