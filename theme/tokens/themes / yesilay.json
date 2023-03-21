@@ -217,6 +217,14 @@
         "Background": {
           "value": "$System.Primary.300",
           "type": "color"
+        },
+        "Text": {
+          "value": "$Blue.300",
+          "type": "color"
+        },
+        "Icon": {
+          "value": "$Blue.300",
+          "type": "color"
         }
       }
     },
