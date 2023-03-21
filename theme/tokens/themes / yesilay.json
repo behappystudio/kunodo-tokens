@@ -161,7 +161,7 @@
           "y": "1",
           "blur": "1",
           "spread": "0",
-          "color": "$Neutral.600",
+          "color": "$System.Default.Transparent",
           "type": "innerShadow"
         },
         {
@@ -169,22 +169,33 @@
           "y": "4",
           "blur": "4",
           "spread": "0",
-          "color": "rgba($System.Default.Black, 0.25)",
+          "color": "$System.Default.Transparent",
           "type": "dropShadow"
         }
       ],
+      "type": "boxShadow"
+    },
+    "Outline": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "0",
+        "color": "$System.Default.Transparent",
+        "type": "innerShadow"
+      },
       "type": "boxShadow"
     }
   },
   "Green": {
     "300": {
-      "value": "#00AE42",
+      "value": "#57CC99",
       "type": "color"
     }
   },
   "Teal": {
     "300": {
-      "value": "#A8D5E2",
+      "value": "#38A3A5",
       "type": "color"
     }
   },
@@ -192,6 +203,30 @@
     "300": {
       "value": "#F9A03F",
       "type": "color"
+    }
+  },
+  "Blue": {
+    "300": {
+      "value": "#0A324D",
+      "type": "color"
+    }
+  },
+  "Button": {
+    "Primary": {
+      "Default": {
+        "Background": {
+          "value": "$System.Primary.300",
+          "type": "color"
+        }
+      }
+    },
+    "Outline": {
+      "Default": {
+        "Background": {
+          "value": "$Neutral.0",
+          "type": "color"
+        }
+      }
     }
   }
 }
