@@ -69,7 +69,7 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "General Sans",
+      "value": "Barlow Condensed",
       "type": "fontFamilies"
     },
     "secondary": {
@@ -94,7 +94,7 @@
         "type": "fontWeights"
       },
       "500": {
-        "value": "Semibold",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "700": {
