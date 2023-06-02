@@ -559,11 +559,11 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Chillax",
+      "value": "Circular Std",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Chillax",
+      "value": "Circular Std",
       "type": "fontFamilies"
     }
   },
@@ -577,7 +577,7 @@
   "fontWeights": {
     "primary": {
       "300": {
-        "value": "Regular",
+        "value": "Book",
         "type": "fontWeights"
       },
       "400": {
@@ -585,17 +585,17 @@
         "type": "fontWeights"
       },
       "500": {
-        "value": "Semibold",
+        "value": "Bold",
         "type": "fontWeights"
       },
       "700": {
-        "value": "Bold",
+        "value": "Black",
         "type": "fontWeights"
       }
     },
     "secondary": {
       "300": {
-        "value": "Regular",
+        "value": "Book",
         "type": "fontWeights"
       },
       "400": {
@@ -603,11 +603,11 @@
         "type": "fontWeights"
       },
       "500": {
-        "value": "Semibold",
+        "value": "Bold",
         "type": "fontWeights"
       },
       "700": {
-        "value": "Bold",
+        "value": "Black",
         "type": "fontWeights"
       }
     }
