@@ -559,11 +559,11 @@
   },
   "fontFamilies": {
     "primary": {
-      "value": "Circular Std",
+      "value": "Figtree",
       "type": "fontFamilies"
     },
     "secondary": {
-      "value": "Circular Std",
+      "value": "Figtree",
       "type": "fontFamilies"
     }
   },
@@ -577,11 +577,11 @@
   "fontWeights": {
     "primary": {
       "300": {
-        "value": "Book",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "400": {
-        "value": "Medium",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "500": {
@@ -589,17 +589,17 @@
         "type": "fontWeights"
       },
       "700": {
-        "value": "Black",
+        "value": "ExtraBold",
         "type": "fontWeights"
       }
     },
     "secondary": {
       "300": {
-        "value": "Book",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "400": {
-        "value": "Medium",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "500": {
@@ -607,7 +607,7 @@
         "type": "fontWeights"
       },
       "700": {
-        "value": "Black",
+        "value": "ExtraBold",
         "type": "fontWeights"
       }
     }
